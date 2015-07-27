@@ -1,5 +1,7 @@
 # IADES
 Immune-inspired Anomaly Detection In Environmental Sensor Data with Natural Language Generation Support
+
+
 IADES is a partnership project funded by RCUK dot.rural Digital Economy Hub, Weather2 ltd, and Data2Text ltd. Its aim is to develop a prototype framework inspired from human immune system to detect anomalous patterns from high resolution environmental sensor data of multiple sources.
 
 Investigators
