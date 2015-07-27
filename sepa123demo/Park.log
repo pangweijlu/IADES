@@ -1,0 +1,13 @@
+testDeeStation('Park');
+No. 1: test set for station Park.SG.ir.O contains 482997 observations.
+No. 1: generating training set for station Park.SG.ir.O ... 
+No. 1: training set 1 for station Park.SG.ir.O contains 705 observations.
+No. 1: training the negative election for station Park.SG.ir.O ... 
+#1 (Park.SG.ir.O): 482997 observations.
+#1 (Park.SG.ir.O): 409966 self, 72936 non-self and 95 unavailable.
+#1 (Park.SG.ir.O): sliding window has size 96.
+-------------------------------------------------------------
+Negative selection for station Park.SG.ir.O took 7.15161 minutes of CPU time.
+-------------------------------------------------------------
+Plotting the flood data and labels ...
+Plotting the training set and its labels ...

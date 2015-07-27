@@ -1,0 +1,1658 @@
+File data\WeisdaleBurn150222-.csv opened correctly.
+Data in put from file data\WeisdaleBurn150222-.csv is completed.
+Total observations have been read: 501.
+Reading training data for station WeisdaleMi.SG.ir.O took 0.0156001 minutes of CPU time.
+File data\WeisdaleBurn Station.csv opened correctly.
+Data in put from file data\WeisdaleBurn Station.csv is completed.
+Total observations have been read: 927.
+Reading training data for station WeisdaleMi.SG.ir.O took 0.0278202 minutes of CPU time.
+No. 1: test set for station WeisdaleMi.SG.ir.O contains 927 observations.
+No. 1: generating training set for station WeisdaleMi.SG.ir.O ... 
+No. 1: training set 1 for station WeisdaleMi.SG.ir.O contains 501 observations.
+No. 1: training the negative election for station WeisdaleMi.SG.ir.O ... 
+#1 (WeisdaleMi.SG.ir.O): 927 observations.
+#1 (WeisdaleMi.SG.ir.O): 687 self, 145 non-self and 95 unavailable.
+#1 (WeisdaleMi.SG.ir.O): sliding window has size 96.
+-------------------------------------------------------------
+Negative selection for station WeisdaleMi.SG.ir.O took 0.100361 minutes of CPU time.
+-------------------------------------------------------------
+File data\WeisdaleBurn150222-.csv opened correctly.
+Data in put from file data\WeisdaleBurn150222-.csv is completed.
+Total observations have been read: 501.
+Reading training data for station WeisdaleMi.SG.ir.O took 0.0140401 minutes of CPU time.
+File data\WeisdaleBurn Station.csv opened correctly.
+Data in put from file data\WeisdaleBurn Station.csv is completed.
+Total observations have been read: 927.
+Reading training data for station WeisdaleMi.SG.ir.O took 0.0270402 minutes of CPU time.
+No. 1: test set for station WeisdaleMi.SG.ir.O contains 927 observations.
+No. 1: generating training set for station WeisdaleMi.SG.ir.O ... 
+No. 1: training set 1 for station WeisdaleMi.SG.ir.O contains 501 observations.
+No. 1: training the negative election for station WeisdaleMi.SG.ir.O ... 
+#1 (WeisdaleMi.SG.ir.O): 927 observations.
+#1 (WeisdaleMi.SG.ir.O): 687 self, 145 non-self and 95 unavailable.
+#1 (WeisdaleMi.SG.ir.O): sliding window has size 96.
+-------------------------------------------------------------
+Negative selection for station WeisdaleMi.SG.ir.O took 0.0980206 minutes of CPU time.
+-------------------------------------------------------------
+Plotting the flood data and labels ...
+Plotting the training set and its labels ...
+{Undefined variable "tr_full" or class "tr_full".
+
+Error in <a href="matlab:helpUtils.errorDocCallback('weisdaleburn_demo', 'C:\Andriy\work\sepa123demo\weisdaleburn_demo.m', 63)" style="font-weight:bold">weisdaleburn_demo</a> (<a href="matlab: opentoline('C:\Andriy\work\sepa123demo\weisdaleburn_demo.m',63,0)">line 63</a>)
+bar(tr_full{1});
+} 
+close all
+diary off
+File data\WeisdaleBurn150222-.csv opened correctly.
+Data in put from file data\WeisdaleBurn150222-.csv is completed.
+Total observations have been read: 501.
+Reading training data for station WeisdaleMi.SG.ir.O took 0.0145601 minutes of CPU time.
+File data\WeisdaleBurn Station.csv opened correctly.
+Data in put from file data\WeisdaleBurn Station.csv is completed.
+Total observations have been read: 927.
+Reading training data for station WeisdaleMi.SG.ir.O took 0.0270402 minutes of CPU time.
+No. 1: test set for station WeisdaleMi.SG.ir.O contains 927 observations.
+No. 1: generating training set for station WeisdaleMi.SG.ir.O ... 
+No. 1: training set 1 for station WeisdaleMi.SG.ir.O contains 501 observations.
+No. 1: training the negative election for station WeisdaleMi.SG.ir.O ... 
+#1 (WeisdaleMi.SG.ir.O): 927 observations.
+#1 (WeisdaleMi.SG.ir.O): 687 self, 145 non-self and 95 unavailable.
+#1 (WeisdaleMi.SG.ir.O): sliding window has size 96.
+-------------------------------------------------------------
+Negative selection for station WeisdaleMi.SG.ir.O took 0.0977606 minutes of CPU time.
+-------------------------------------------------------------
+Plotting the flood data and labels ...
+Plotting the training set and its labels ...
+{Cell contents reference from a non-cell array object.
+
+Error in <a href="matlab:helpUtils.errorDocCallback('weisdaleburn_demo', 'C:\Andriy\work\sepa123demo\weisdaleburn_demo.m', 65)" style="font-weight:bold">weisdaleburn_demo</a> (<a href="matlab: opentoline('C:\Andriy\work\sepa123demo\weisdaleburn_demo.m',65,0)">line 65</a>)
+p = plot(tr_levels{1});
+} 
+close all
+diary off
+File data\WeisdaleBurn150222-.csv opened correctly.
+Data in put from file data\WeisdaleBurn150222-.csv is completed.
+Total observations have been read: 501.
+Reading training data for station WeisdaleMi.SG.ir.O took 0.0145601 minutes of CPU time.
+File data\WeisdaleBurn Station.csv opened correctly.
+Data in put from file data\WeisdaleBurn Station.csv is completed.
+Total observations have been read: 927.
+Reading training data for station WeisdaleMi.SG.ir.O took 0.0278202 minutes of CPU time.
+No. 1: test set for station WeisdaleMi.SG.ir.O contains 927 observations.
+No. 1: generating training set for station WeisdaleMi.SG.ir.O ... 
+No. 1: training set 1 for station WeisdaleMi.SG.ir.O contains 501 observations.
+No. 1: training the negative election for station WeisdaleMi.SG.ir.O ... 
+#1 (WeisdaleMi.SG.ir.O): 927 observations.
+#1 (WeisdaleMi.SG.ir.O): 687 self, 145 non-self and 95 unavailable.
+#1 (WeisdaleMi.SG.ir.O): sliding window has size 96.
+-------------------------------------------------------------
+Negative selection for station WeisdaleMi.SG.ir.O took 0.0972406 minutes of CPU time.
+-------------------------------------------------------------
+Plotting the flood data and labels ...
+Plotting the training set and its labels ...
+[Warning: Ignoring extra legend entries.] 
+[> In <a href="matlab: opentoline('C:\Program Files\MATLAB\R2013a\toolbox\matlab\scribe\legend.m',286,1)">legend at 286</a>
+  In <a href="matlab: opentoline('C:\Andriy\work\sepa123demo\weisdaleburn_demo.m',71,1)">weisdaleburn_demo at 71</a>] 
+{Operation terminated by user during <a href="matlab:helpUtils.errorDocCallback('weisdaleburn_demo', 'C:\Andriy\work\sepa123demo\weisdaleburn_demo.m', 76)" style="font-weight:bold">weisdaleburn_demo</a> (<a href="matlab: opentoline('C:\Andriy\work\sepa123demo\weisdaleburn_demo.m',76,0)">line 76</a>)
+
+} 
+diary off
+File data\WeisdaleBurn150222-.csv opened correctly.
+Data in put from file data\WeisdaleBurn150222-.csv is completed.
+Total observations have been read: 501.
+Reading training data for station WeisdaleMi.SG.ir.O took 0.0145601 minutes of CPU time.
+File data\WeisdaleBurn Station.csv opened correctly.
+Data in put from file data\WeisdaleBurn Station.csv is completed.
+Total observations have been read: 927.
+Reading training data for station WeisdaleMi.SG.ir.O took 0.0267802 minutes of CPU time.
+No. 1: test set for station WeisdaleMi.SG.ir.O contains 927 observations.
+No. 1: generating training set for station WeisdaleMi.SG.ir.O ... 
+No. 1: training set 1 for station WeisdaleMi.SG.ir.O contains 501 observations.
+No. 1: training the negative election for station WeisdaleMi.SG.ir.O ... 
+#1 (WeisdaleMi.SG.ir.O): 927 observations.
+#1 (WeisdaleMi.SG.ir.O): 687 self, 145 non-self and 95 unavailable.
+#1 (WeisdaleMi.SG.ir.O): sliding window has size 96.
+-------------------------------------------------------------
+Negative selection for station WeisdaleMi.SG.ir.O took 0.0977606 minutes of CPU time.
+-------------------------------------------------------------
+Plotting the flood data and labels ...
+Plotting the training set and its labels ...
+{Operation terminated by user during <a href="matlab:helpUtils.errorDocCallback('weisdaleburn_demo', 'C:\Andriy\work\sepa123demo\weisdaleburn_demo.m', 76)" style="font-weight:bold">weisdaleburn_demo</a> (<a href="matlab: opentoline('C:\Andriy\work\sepa123demo\weisdaleburn_demo.m',76,0)">line 76</a>)
+
+} 
+weisdaleburn_demo
+File data\WeisdaleBurn150222-.csv opened correctly.
+Data in put from file data\WeisdaleBurn150222-.csv is completed.
+Total observations have been read: 501.
+Reading training data for station WeisdaleMi.SG.ir.O took 0.0153401 minutes of CPU time.
+File data\WeisdaleBurn Station.csv opened correctly.
+Data in put from file data\WeisdaleBurn Station.csv is completed.
+Total observations have been read: 927.
+Reading training data for station WeisdaleMi.SG.ir.O took 0.0275602 minutes of CPU time.
+No. 1: test set for station WeisdaleMi.SG.ir.O contains 927 observations.
+No. 1: generating training set for station WeisdaleMi.SG.ir.O ... 
+No. 1: training set 1 for station WeisdaleMi.SG.ir.O contains 501 observations.
+No. 1: training the negative election for station WeisdaleMi.SG.ir.O ... 
+#1 (WeisdaleMi.SG.ir.O): 927 observations.
+#1 (WeisdaleMi.SG.ir.O): 687 self, 145 non-self and 95 unavailable.
+#1 (WeisdaleMi.SG.ir.O): sliding window has size 96.
+-------------------------------------------------------------
+Negative selection for station WeisdaleMi.SG.ir.O took 0.0959406 minutes of CPU time.
+-------------------------------------------------------------
+Plotting the flood data and labels ...
+Plotting the training set and its labels ...
+File data\WeisdaleBurn150222-27.csv opened correctly.
+Data in put from file data\WeisdaleBurn150222-27.csv is completed.
+Total observations have been read: 501.
+Reading training data for station WeisdaleMi.SG.ir.O took 0.0156001 minutes of CPU time.
+Cannot open file data\WeisdaleBurn Station.csv!Error in <a href="matlab:helpUtils.errorDocCallback('readSEPAcsv', 'C:\Andriy\work\sepa123demo\readSEPAcsv.m', 11)" style="font-weight:bold">readSEPAcsv</a> (<a href="matlab: opentoline('C:\Andriy\work\sepa123demo\readSEPAcsv.m',11,0)">line 11</a>)
+    if nargin < 1
+
+{Output argument "levels" (and maybe others) not assigned during call to
+"C:\Andriy\work\sepa123demo\readSEPAcsv.m>readSEPAcsv".
+
+Error in <a href="matlab:helpUtils.errorDocCallback('weisdaleburn_test', 'C:\Andriy\work\sepa123demo\weisdaleburn_test.m', 19)" style="font-weight:bold">weisdaleburn_test</a> (<a href="matlab: opentoline('C:\Andriy\work\sepa123demo\weisdaleburn_test.m',19,0)">line 19</a>)
+[tst_levels, tst_date_srl, tst_time_hh, tst_time_mm] = ...
+} 
+weisdaleburn_test
+File data\WeisdaleBurn150222-27.csv opened correctly.
+Data in put from file data\WeisdaleBurn150222-27.csv is completed.
+Total observations have been read: 501.
+Reading training data for station WeisdaleMi.SG.ir.O took 0.0145601 minutes of CPU time.
+File data\nura\WeisdaleBurn Station.csv opened correctly.
+Data in put from file data\nura\WeisdaleBurn Station.csv is completed.
+Total observations have been read: 927.
+Reading training data for station WeisdaleMi.SG.ir.O took 0.0273002 minutes of CPU time.
+No. 1: test set for station WeisdaleMi.SG.ir.O contains 927 observations.
+No. 1: generating training set for station WeisdaleMi.SG.ir.O ... 
+No. 1: training set 1 for station WeisdaleMi.SG.ir.O contains 501 observations.
+No. 1: training the negative election for station WeisdaleMi.SG.ir.O ... 
+#1 (WeisdaleMi.SG.ir.O): 927 observations.
+#1 (WeisdaleMi.SG.ir.O): 687 self, 145 non-self and 95 unavailable.
+#1 (WeisdaleMi.SG.ir.O): sliding window has size 96.
+-------------------------------------------------------------
+Negative selection for station WeisdaleMi.SG.ir.O took 0.0962006 minutes of CPU time.
+-------------------------------------------------------------
+Plotting the flood data and labels ...
+Plotting the training set and its labels ...
+File data\WeisdaleBurn150222-27.csv opened correctly.
+Data in put from file data\WeisdaleBurn150222-27.csv is completed.
+Total observations have been read: 501.
+Reading training data for station WeisdaleMi.SG.ir.O took 0.0161201 minutes of CPU time.
+File data\nura\WeisdaleBurn Station.csv opened correctly.
+Data in put from file data\nura\WeisdaleBurn Station.csv is completed.
+Total observations have been read: 927.
+Reading training data for station WeisdaleMi.SG.ir.O took 0.0270402 minutes of CPU time.
+No. 1: test set for station WeisdaleMi.SG.ir.O contains 927 observations.
+No. 1: generating training set for station WeisdaleMi.SG.ir.O ... 
+No. 1: training set 1 for station WeisdaleMi.SG.ir.O contains 501 observations.
+No. 1: training the negative election for station WeisdaleMi.SG.ir.O ... 
+#1 (WeisdaleMi.SG.ir.O): 927 observations.
+#1 (WeisdaleMi.SG.ir.O): 687 self, 145 non-self and 95 unavailable.
+#1 (WeisdaleMi.SG.ir.O): sliding window has size 96.
+-------------------------------------------------------------
+Negative selection for station WeisdaleMi.SG.ir.O took 0.0975006 minutes of CPU time.
+-------------------------------------------------------------
+Plotting the flood data and labels ...
+Plotting the training set and its labels ...
+File data\WeisdaleBurn150222-27.csv opened correctly.
+Data in put from file data\WeisdaleBurn150222-27.csv is completed.
+Total observations have been read: 501.
+Reading training data for station WeisdaleMi.SG.ir.O took 0.0156001 minutes of CPU time.
+File data\nura\WeisdaleBurn Station.csv opened correctly.
+Data in put from file data\nura\WeisdaleBurn Station.csv is completed.
+Total observations have been read: 927.
+Reading training data for station WeisdaleMi.SG.ir.O took 0.0270402 minutes of CPU time.
+No. 1: test set for station WeisdaleMi.SG.ir.O contains 927 observations.
+No. 1: generating training set for station WeisdaleMi.SG.ir.O ... 
+No. 1: training set 1 for station WeisdaleMi.SG.ir.O contains 501 observations.
+No. 1: training the negative election for station WeisdaleMi.SG.ir.O ... 
+#1 (WeisdaleMi.SG.ir.O): 927 observations.
+#1 (WeisdaleMi.SG.ir.O): 687 self, 145 non-self and 95 unavailable.
+#1 (WeisdaleMi.SG.ir.O): sliding window has size 96.
+-------------------------------------------------------------
+Negative selection for station WeisdaleMi.SG.ir.O took 0.100881 minutes of CPU time.
+-------------------------------------------------------------
+Plotting the flood data and labels ...
+{In an assignment  A(I) = B, the number of elements in B and I must be the same.
+
+Error in <a href="matlab:helpUtils.errorDocCallback('weisdaleburn_test', 'C:\Andriy\work\sepa123demo\weisdaleburn_test.m', 70)" style="font-weight:bold">weisdaleburn_test</a> (<a href="matlab: opentoline('C:\Andriy\work\sepa123demo\weisdaleburn_test.m',70,0)">line 70</a>)
+    tst_n2_div(ii:(sld_wnd_sz - 1)) = ones(1, sld_wnd_sz);
+} 
+clear all
+weisdaleburn_test
+File data\WeisdaleBurn150222-27.csv opened correctly.
+Data in put from file data\WeisdaleBurn150222-27.csv is completed.
+Total observations have been read: 501.
+Reading training data for station WeisdaleMi.SG.ir.O took 0.0153401 minutes of CPU time.
+File data\nura\WeisdaleBurn Station.csv opened correctly.
+Data in put from file data\nura\WeisdaleBurn Station.csv is completed.
+Total observations have been read: 927.
+Reading training data for station WeisdaleMi.SG.ir.O took 0.0275602 minutes of CPU time.
+No. 1: test set for station WeisdaleMi.SG.ir.O contains 927 observations.
+No. 1: generating training set for station WeisdaleMi.SG.ir.O ... 
+No. 1: training set 1 for station WeisdaleMi.SG.ir.O contains 501 observations.
+No. 1: training the negative election for station WeisdaleMi.SG.ir.O ... 
+#1 (WeisdaleMi.SG.ir.O): 927 observations.
+#1 (WeisdaleMi.SG.ir.O): 687 self, 145 non-self and 95 unavailable.
+#1 (WeisdaleMi.SG.ir.O): sliding window has size 96.
+-------------------------------------------------------------
+Negative selection for station WeisdaleMi.SG.ir.O took 0.100621 minutes of CPU time.
+-------------------------------------------------------------
+Plotting the flood data and labels ...
+{Undefined function 'sz' for input arguments of type 'double'.
+
+Error in <a href="matlab:helpUtils.errorDocCallback('weisdaleburn_test', 'C:\Andriy\work\sepa123demo\weisdaleburn_test.m', 70)" style="font-weight:bold">weisdaleburn_test</a> (<a href="matlab: opentoline('C:\Andriy\work\sepa123demo\weisdaleburn_test.m',70,0)">line 70</a>)
+    sz(tst_n2_div(ii:(sld_wnd_sz - 1)))
+} 
+clear all
+weisdaleburn_test
+File data\WeisdaleBurn150222-27.csv opened correctly.
+Data in put from file data\WeisdaleBurn150222-27.csv is completed.
+Total observations have been read: 501.
+Reading training data for station WeisdaleMi.SG.ir.O took 0.0153401 minutes of CPU time.
+File data\nura\WeisdaleBurn Station.csv opened correctly.
+Data in put from file data\nura\WeisdaleBurn Station.csv is completed.
+Total observations have been read: 927.
+Reading training data for station WeisdaleMi.SG.ir.O took 0.0275602 minutes of CPU time.
+No. 1: test set for station WeisdaleMi.SG.ir.O contains 927 observations.
+No. 1: generating training set for station WeisdaleMi.SG.ir.O ... 
+No. 1: training set 1 for station WeisdaleMi.SG.ir.O contains 501 observations.
+No. 1: training the negative election for station WeisdaleMi.SG.ir.O ... 
+#1 (WeisdaleMi.SG.ir.O): 927 observations.
+#1 (WeisdaleMi.SG.ir.O): 687 self, 145 non-self and 95 unavailable.
+#1 (WeisdaleMi.SG.ir.O): sliding window has size 96.
+-------------------------------------------------------------
+Negative selection for station WeisdaleMi.SG.ir.O took 0.100621 minutes of CPU time.
+-------------------------------------------------------------
+Plotting the flood data and labels ...
+
+ans =
+
+     1    95
+
+{In an assignment  A(I) = B, the number of elements in B and I must be the same.
+
+Error in <a href="matlab:helpUtils.errorDocCallback('weisdaleburn_test', 'C:\Andriy\work\sepa123demo\weisdaleburn_test.m', 71)" style="font-weight:bold">weisdaleburn_test</a> (<a href="matlab: opentoline('C:\Andriy\work\sepa123demo\weisdaleburn_test.m',71,0)">line 71</a>)
+    tst_n2_div(ii:(sld_wnd_sz - 1)) = ones(1, sld_wnd_sz);
+} 
+clear all
+weisdaleburn_test
+File data\WeisdaleBurn150222-27.csv opened correctly.
+Data in put from file data\WeisdaleBurn150222-27.csv is completed.
+Total observations have been read: 501.
+Reading training data for station WeisdaleMi.SG.ir.O took 0.0153401 minutes of CPU time.
+File data\nura\WeisdaleBurn Station.csv opened correctly.
+Data in put from file data\nura\WeisdaleBurn Station.csv is completed.
+Total observations have been read: 927.
+Reading training data for station WeisdaleMi.SG.ir.O took 0.0275602 minutes of CPU time.
+No. 1: test set for station WeisdaleMi.SG.ir.O contains 927 observations.
+No. 1: generating training set for station WeisdaleMi.SG.ir.O ... 
+No. 1: training set 1 for station WeisdaleMi.SG.ir.O contains 501 observations.
+No. 1: training the negative election for station WeisdaleMi.SG.ir.O ... 
+#1 (WeisdaleMi.SG.ir.O): 927 observations.
+#1 (WeisdaleMi.SG.ir.O): 687 self, 145 non-self and 95 unavailable.
+#1 (WeisdaleMi.SG.ir.O): sliding window has size 96.
+-------------------------------------------------------------
+Negative selection for station WeisdaleMi.SG.ir.O took 0.0988006 minutes of CPU time.
+-------------------------------------------------------------
+Plotting the flood data and labels ...
+Plotting the training set and its labels ...
+File data\WeisdaleBurn150222-27.csv opened correctly.
+Data in put from file data\WeisdaleBurn150222-27.csv is completed.
+Total observations have been read: 501.
+Reading training data for station WeisdaleMi.SG.ir.O took 0.0158601 minutes of CPU time.
+File data\nura\WeisdaleBurn Station.csv opened correctly.
+Data in put from file data\nura\WeisdaleBurn Station.csv is completed.
+Total observations have been read: 927.
+Reading training data for station WeisdaleMi.SG.ir.O took 0.0270402 minutes of CPU time.
+No. 1: test set for station WeisdaleMi.SG.ir.O contains 927 observations.
+No. 1: generating training set for station WeisdaleMi.SG.ir.O ... 
+No. 1: training set 1 for station WeisdaleMi.SG.ir.O contains 501 observations.
+No. 1: training the negative election for station WeisdaleMi.SG.ir.O ... 
+#1 (WeisdaleMi.SG.ir.O): 927 observations.
+#1 (WeisdaleMi.SG.ir.O): 687 self, 145 non-self and 95 unavailable.
+#1 (WeisdaleMi.SG.ir.O): sliding window has size 96.
+-------------------------------------------------------------
+Negative selection for station WeisdaleMi.SG.ir.O took 0.0969806 minutes of CPU time.
+-------------------------------------------------------------
+Plotting the flood data and labels ...
+Plotting the training set and its labels ...
+File data\WeisdaleBurn150222-27.csv opened correctly.
+Data in put from file data\WeisdaleBurn150222-27.csv is completed.
+Total observations have been read: 501.
+Reading training data for station WeisdaleMi.SG.ir.O took 0.0145601 minutes of CPU time.
+File data\nura\WeisdaleBurn Station.csv opened correctly.
+Data in put from file data\nura\WeisdaleBurn Station.csv is completed.
+Total observations have been read: 927.
+Reading training data for station WeisdaleMi.SG.ir.O took 0.0270402 minutes of CPU time.
+No. 1: test set for station WeisdaleMi.SG.ir.O contains 927 observations.
+No. 1: generating training set for station WeisdaleMi.SG.ir.O ... 
+No. 1: training set 1 for station WeisdaleMi.SG.ir.O contains 501 observations.
+No. 1: training the negative election for station WeisdaleMi.SG.ir.O ... 
+#1 (WeisdaleMi.SG.ir.O): 927 observations.
+#1 (WeisdaleMi.SG.ir.O): 687 self, 145 non-self and 95 unavailable.
+#1 (WeisdaleMi.SG.ir.O): sliding window has size 96.
+-------------------------------------------------------------
+Negative selection for station WeisdaleMi.SG.ir.O took 0.0995806 minutes of CPU time.
+-------------------------------------------------------------
+Plotting the flood data and labels ...
+Plotting the training set and its labels ...
+File data\WeisdaleBurn150222-27.csv opened correctly.
+Data in put from file data\WeisdaleBurn150222-27.csv is completed.
+Total observations have been read: 501.
+Reading training data for station WeisdaleMi.SG.ir.O took 0.0150801 minutes of CPU time.
+File data\nura\WeisdaleBurn Station.csv opened correctly.
+Data in put from file data\nura\WeisdaleBurn Station.csv is completed.
+Total observations have been read: 927.
+Reading training data for station WeisdaleMi.SG.ir.O took 0.0275602 minutes of CPU time.
+No. 1: test set for station WeisdaleMi.SG.ir.O contains 927 observations.
+No. 1: generating training set for station WeisdaleMi.SG.ir.O ... 
+No. 1: training set 1 for station WeisdaleMi.SG.ir.O contains 501 observations.
+No. 1: training the negative election for station WeisdaleMi.SG.ir.O ... 
+#1 (WeisdaleMi.SG.ir.O): 927 observations.
+#1 (WeisdaleMi.SG.ir.O): 687 self, 145 non-self and 95 unavailable.
+#1 (WeisdaleMi.SG.ir.O): sliding window has size 96.
+-------------------------------------------------------------
+Negative selection for station WeisdaleMi.SG.ir.O took 0.0988006 minutes of CPU time.
+-------------------------------------------------------------
+Plotting the flood data and labels ...
+Plotting the training set and its labels ...
+File data\WeisdaleBurn150222-27.csv opened correctly.
+Data in put from file data\WeisdaleBurn150222-27.csv is completed.
+Total observations have been read: 501.
+Reading training data for station WeisdaleMi.SG.ir.O took 0.0161201 minutes of CPU time.
+File data\nura\WeisdaleBurn Station.csv opened correctly.
+Data in put from file data\nura\WeisdaleBurn Station.csv is completed.
+Total observations have been read: 927.
+Reading training data for station WeisdaleMi.SG.ir.O took 0.0273002 minutes of CPU time.
+No. 1: test set for station WeisdaleMi.SG.ir.O contains 927 observations.
+No. 1: generating training set for station WeisdaleMi.SG.ir.O ... 
+No. 1: training set 1 for station WeisdaleMi.SG.ir.O contains 501 observations.
+No. 1: training the negative election for station WeisdaleMi.SG.ir.O ... 
+#1 (WeisdaleMi.SG.ir.O): 927 observations.
+#1 (WeisdaleMi.SG.ir.O): 687 self, 145 non-self and 95 unavailable.
+#1 (WeisdaleMi.SG.ir.O): sliding window has size 96.
+-------------------------------------------------------------
+Negative selection for station WeisdaleMi.SG.ir.O took 0.0969806 minutes of CPU time.
+-------------------------------------------------------------
+Plotting the flood data and labels ...
+Plotting the training set and its labels ...
+File data\WeisdaleBurn150222-27.csv opened correctly.
+Data in put from file data\WeisdaleBurn150222-27.csv is completed.
+Total observations have been read: 501.
+Reading training data for station WeisdaleMi.SG.ir.O took 0.0150801 minutes of CPU time.
+File data\nura\WeisdaleBurn Station.csv opened correctly.
+Data in put from file data\nura\WeisdaleBurn Station.csv is completed.
+Total observations have been read: 927.
+Reading training data for station WeisdaleMi.SG.ir.O took 0.0273002 minutes of CPU time.
+No. 1: test set for station WeisdaleMi.SG.ir.O contains 927 observations.
+No. 1: generating training set for station WeisdaleMi.SG.ir.O ... 
+No. 1: training set 1 for station WeisdaleMi.SG.ir.O contains 501 observations.
+No. 1: training the negative election for station WeisdaleMi.SG.ir.O ... 
+#1 (WeisdaleMi.SG.ir.O): 927 observations.
+#1 (WeisdaleMi.SG.ir.O): 687 self, 145 non-self and 95 unavailable.
+#1 (WeisdaleMi.SG.ir.O): sliding window has size 96.
+-------------------------------------------------------------
+Negative selection for station WeisdaleMi.SG.ir.O took 0.0995806 minutes of CPU time.
+-------------------------------------------------------------
+Plotting the flood data and labels ...
+Plotting the training set and its labels ...
+File data\WeisdaleBurn150222-27.csv opened correctly.
+Data in put from file data\WeisdaleBurn150222-27.csv is completed.
+Total observations have been read: 501.
+Reading training data for station WeisdaleMi.SG.ir.O took 0.0166401 minutes of CPU time.
+File data\nura\WeisdaleBurn Station.csv opened correctly.
+Data in put from file data\nura\WeisdaleBurn Station.csv is completed.
+Total observations have been read: 927.
+Reading training data for station WeisdaleMi.SG.ir.O took 0.0301602 minutes of CPU time.
+No. 1: test set for station WeisdaleMi.SG.ir.O contains 927 observations.
+No. 1: generating training set for station WeisdaleMi.SG.ir.O ... 
+No. 1: training set 1 for station WeisdaleMi.SG.ir.O contains 501 observations.
+No. 1: training the negative election for station WeisdaleMi.SG.ir.O ... 
+#1 (WeisdaleMi.SG.ir.O): 927 observations.
+#1 (WeisdaleMi.SG.ir.O): 687 self, 145 non-self and 95 unavailable.
+#1 (WeisdaleMi.SG.ir.O): sliding window has size 96.
+-------------------------------------------------------------
+Negative selection for station WeisdaleMi.SG.ir.O took 0.103481 minutes of CPU time.
+-------------------------------------------------------------
+Plotting the flood data and labels ...
+Plotting the training set and its labels ...
+File data\WeisdaleBurn150222-27.csv opened correctly.
+Data in put from file data\WeisdaleBurn150222-27.csv is completed.
+Total observations have been read: 501.
+Reading training data for station WeisdaleMi.SG.ir.O took 0.0153401 minutes of CPU time.
+File data\nura\WeisdaleBurn Station.csv opened correctly.
+Data in put from file data\nura\WeisdaleBurn Station.csv is completed.
+Total observations have been read: 927.
+Reading training data for station WeisdaleMi.SG.ir.O took 0.0273002 minutes of CPU time.
+No. 1: test set for station WeisdaleMi.SG.ir.O contains 927 observations.
+No. 1: generating training set for station WeisdaleMi.SG.ir.O ... 
+No. 1: training set 1 for station WeisdaleMi.SG.ir.O contains 501 observations.
+No. 1: training the negative election for station WeisdaleMi.SG.ir.O ... 
+#1 (WeisdaleMi.SG.ir.O): 927 observations.
+#1 (WeisdaleMi.SG.ir.O): 687 self, 145 non-self and 95 unavailable.
+#1 (WeisdaleMi.SG.ir.O): sliding window has size 96.
+-------------------------------------------------------------
+Negative selection for station WeisdaleMi.SG.ir.O took 0.0995806 minutes of CPU time.
+-------------------------------------------------------------
+Plotting the flood data and labels ...
+Plotting the training set and its labels ...
+File data\WeisdaleBurn150222-27.csv opened correctly.
+Data in put from file data\WeisdaleBurn150222-27.csv is completed.
+Total observations have been read: 501.
+Reading training data for station WeisdaleMi.SG.ir.O took 0.0163801 minutes of CPU time.
+File data\nura\WeisdaleBurn Station.csv opened correctly.
+Data in put from file data\nura\WeisdaleBurn Station.csv is completed.
+Total observations have been read: 927.
+Reading training data for station WeisdaleMi.SG.ir.O took 0.0270402 minutes of CPU time.
+No. 1: test set for station WeisdaleMi.SG.ir.O contains 927 observations.
+No. 1: generating training set for station WeisdaleMi.SG.ir.O ... 
+No. 1: training set 1 for station WeisdaleMi.SG.ir.O contains 501 observations.
+No. 1: training the negative election for station WeisdaleMi.SG.ir.O ... 
+#1 (WeisdaleMi.SG.ir.O): 927 observations.
+#1 (WeisdaleMi.SG.ir.O): 687 self, 145 non-self and 95 unavailable.
+#1 (WeisdaleMi.SG.ir.O): sliding window has size 96.
+-------------------------------------------------------------
+Negative selection for station WeisdaleMi.SG.ir.O took 0.0949006 minutes of CPU time.
+-------------------------------------------------------------
+Plotting the flood data and labels ...
+Plotting the training set and its labels ...
+File data\WeisdaleBurn150222-27.csv opened correctly.
+Data in put from file data\WeisdaleBurn150222-27.csv is completed.
+Total observations have been read: 501.
+Reading training data for station WeisdaleMi.SG.ir.O took 0.0145601 minutes of CPU time.
+File data\nura\WeisdaleBurn Station.csv opened correctly.
+Data in put from file data\nura\WeisdaleBurn Station.csv is completed.
+Total observations have been read: 927.
+Reading training data for station WeisdaleMi.SG.ir.O took 0.0273002 minutes of CPU time.
+No. 1: test set for station WeisdaleMi.SG.ir.O contains 927 observations.
+No. 1: generating training set for station WeisdaleMi.SG.ir.O ... 
+No. 1: training set 1 for station WeisdaleMi.SG.ir.O contains 501 observations.
+No. 1: training the negative election for station WeisdaleMi.SG.ir.O ... 
+#1 (WeisdaleMi.SG.ir.O): 927 observations.
+#1 (WeisdaleMi.SG.ir.O): 687 self, 145 non-self and 95 unavailable.
+#1 (WeisdaleMi.SG.ir.O): sliding window has size 96.
+-------------------------------------------------------------
+Negative selection for station WeisdaleMi.SG.ir.O took 0.0941206 minutes of CPU time.
+-------------------------------------------------------------
+Plotting the flood data and labels ...
+Plotting the training set and its labels ...
+{Operation terminated by user during <a href="matlab:helpUtils.errorDocCallback('weisdaleburn_test', 'C:\Andriy\work\sepa123demo\weisdaleburn_test.m', 130)" style="font-weight:bold">weisdaleburn_test</a> (<a href="matlab: opentoline('C:\Andriy\work\sepa123demo\weisdaleburn_test.m',130,0)">line 130</a>)
+
+} 
+clear all
+close all
+weisdaleburn_test
+File data\WeisdaleBurn150222-27.csv opened correctly.
+Data in put from file data\WeisdaleBurn150222-27.csv is completed.
+Total observations have been read: 501.
+Reading training data for station WeisdaleMi.SG.ir.O took 0.0161201 minutes of CPU time.
+File data\nura\WeisdaleBurn Station.csv opened correctly.
+Data in put from file data\nura\WeisdaleBurn Station.csv is completed.
+Total observations have been read: 927.
+Reading training data for station WeisdaleMi.SG.ir.O took 0.0267802 minutes of CPU time.
+No. 1: test set for station WeisdaleMi.SG.ir.O contains 927 observations.
+No. 1: generating training set for station WeisdaleMi.SG.ir.O ... 
+No. 1: training set 1 for station WeisdaleMi.SG.ir.O contains 501 observations.
+No. 1: training the negative election for station WeisdaleMi.SG.ir.O ... 
+#1 (WeisdaleMi.SG.ir.O): 927 observations.
+#1 (WeisdaleMi.SG.ir.O): 687 self, 145 non-self and 95 unavailable.
+#1 (WeisdaleMi.SG.ir.O): sliding window has size 96.
+-------------------------------------------------------------
+Negative selection for station WeisdaleMi.SG.ir.O took 0.0938606 minutes of CPU time.
+-------------------------------------------------------------
+Plotting the flood data and labels ...
+{Operation terminated by user during <a href="matlab:helpUtils.errorDocCallback('weisdaleburn_test', 'C:\Andriy\work\sepa123demo\weisdaleburn_test.m', 88)" style="font-weight:bold">weisdaleburn_test</a> (<a href="matlab: opentoline('C:\Andriy\work\sepa123demo\weisdaleburn_test.m',88,0)">line 88</a>)
+
+} 
+clear all
+weisdaleburn_test
+File data\WeisdaleBurn150222-27.csv opened correctly.
+Data in put from file data\WeisdaleBurn150222-27.csv is completed.
+Total observations have been read: 501.
+Reading training data for station WeisdaleMi.SG.ir.O took 0.0156001 minutes of CPU time.
+File data\nura\WeisdaleBurn Station.csv opened correctly.
+Data in put from file data\nura\WeisdaleBurn Station.csv is completed.
+Total observations have been read: 927.
+Reading training data for station WeisdaleMi.SG.ir.O took 0.0275602 minutes of CPU time.
+No. 1: test set for station WeisdaleMi.SG.ir.O contains 927 observations.
+No. 1: generating training set for station WeisdaleMi.SG.ir.O ... 
+No. 1: training set 1 for station WeisdaleMi.SG.ir.O contains 501 observations.
+No. 1: training the negative election for station WeisdaleMi.SG.ir.O ... 
+#1 (WeisdaleMi.SG.ir.O): 927 observations.
+#1 (WeisdaleMi.SG.ir.O): 687 self, 145 non-self and 95 unavailable.
+#1 (WeisdaleMi.SG.ir.O): sliding window has size 96.
+-------------------------------------------------------------
+Negative selection for station WeisdaleMi.SG.ir.O took 0.0951606 minutes of CPU time.
+-------------------------------------------------------------
+Plotting the flood data and labels ...
+{Operation terminated by user during <a href="matlab:helpUtils.errorDocCallback('weisdaleburn_test', 'C:\Andriy\work\sepa123demo\weisdaleburn_test.m', 88)" style="font-weight:bold">weisdaleburn_test</a> (<a href="matlab: opentoline('C:\Andriy\work\sepa123demo\weisdaleburn_test.m',88,0)">line 88</a>)
+
+} 
+clear all
+weisdaleburn_test
+File data\WeisdaleBurn150222-27.csv opened correctly.
+Data in put from file data\WeisdaleBurn150222-27.csv is completed.
+Total observations have been read: 501.
+Reading training data for station WeisdaleMi.SG.ir.O took 0.0161201 minutes of CPU time.
+File data\nura\WeisdaleBurn Station.csv opened correctly.
+Data in put from file data\nura\WeisdaleBurn Station.csv is completed.
+Total observations have been read: 927.
+Reading training data for station WeisdaleMi.SG.ir.O took 0.0270402 minutes of CPU time.
+No. 1: test set for station WeisdaleMi.SG.ir.O contains 927 observations.
+No. 1: generating training set for station WeisdaleMi.SG.ir.O ... 
+No. 1: training set 1 for station WeisdaleMi.SG.ir.O contains 501 observations.
+No. 1: training the negative election for station WeisdaleMi.SG.ir.O ... 
+#1 (WeisdaleMi.SG.ir.O): 927 observations.
+#1 (WeisdaleMi.SG.ir.O): 687 self, 145 non-self and 95 unavailable.
+#1 (WeisdaleMi.SG.ir.O): sliding window has size 96.
+-------------------------------------------------------------
+Negative selection for station WeisdaleMi.SG.ir.O took 0.0964606 minutes of CPU time.
+-------------------------------------------------------------
+Plotting the flood data and labels ...
+Plotting the training set and its labels ...
+File data\WeisdaleBurn150222-27.csv opened correctly.
+Data in put from file data\WeisdaleBurn150222-27.csv is completed.
+Total observations have been read: 501.
+Reading training data for station WeisdaleMi.SG.ir.O took 0.0140401 minutes of CPU time.
+File data\nura\WeisdaleBurn Station.csv opened correctly.
+Data in put from file data\nura\WeisdaleBurn Station.csv is completed.
+Total observations have been read: 927.
+Reading training data for station WeisdaleMi.SG.ir.O took 0.0265202 minutes of CPU time.
+No. 1: test set for station WeisdaleMi.SG.ir.O contains 927 observations.
+No. 1: generating training set for station WeisdaleMi.SG.ir.O ... 
+No. 1: training set 1 for station WeisdaleMi.SG.ir.O contains 501 observations.
+No. 1: training the negative election for station WeisdaleMi.SG.ir.O ... 
+#1 (WeisdaleMi.SG.ir.O): 927 observations.
+#1 (WeisdaleMi.SG.ir.O): 687 self, 145 non-self and 95 unavailable.
+#1 (WeisdaleMi.SG.ir.O): sliding window has size 96.
+-------------------------------------------------------------
+Negative selection for station WeisdaleMi.SG.ir.O took 0.0980206 minutes of CPU time.
+-------------------------------------------------------------
+Plotting the flood data and labels ...
+Plotting the training set and its labels ...
+File data\WeisdaleBurn150222-27.csv opened correctly.
+Data in put from file data\WeisdaleBurn150222-27.csv is completed.
+Total observations have been read: 501.
+Reading training data for station WeisdaleMi.SG.ir.O took 0.0143001 minutes of CPU time.
+File data\nura\WeisdaleBurn Station.csv opened correctly.
+Data in put from file data\nura\WeisdaleBurn Station.csv is completed.
+Total observations have been read: 927.
+Reading training data for station WeisdaleMi.SG.ir.O took 0.0265202 minutes of CPU time.
+No. 1: test set for station WeisdaleMi.SG.ir.O contains 927 observations.
+No. 1: generating training set for station WeisdaleMi.SG.ir.O ... 
+No. 1: training set 1 for station WeisdaleMi.SG.ir.O contains 501 observations.
+No. 1: training the negative election for station WeisdaleMi.SG.ir.O ... 
+#1 (WeisdaleMi.SG.ir.O): 927 observations.
+#1 (WeisdaleMi.SG.ir.O): 687 self, 145 non-self and 95 unavailable.
+#1 (WeisdaleMi.SG.ir.O): sliding window has size 96.
+-------------------------------------------------------------
+Negative selection for station WeisdaleMi.SG.ir.O took 0.0972406 minutes of CPU time.
+-------------------------------------------------------------
+Plotting the flood data and labels ...
+Plotting the training set and its labels ...
+File data\WeisdaleBurn150222-27.csv opened correctly.
+Data in put from file data\WeisdaleBurn150222-27.csv is completed.
+Total observations have been read: 501.
+Reading training data for station WeisdaleMi.SG.ir.O took 0.0153401 minutes of CPU time.
+Cannot open file data\nura\nurafl1.csv!Error in <a href="matlab:helpUtils.errorDocCallback('readSEPAcsv', 'C:\Andriy\work\sepa123demo\readSEPAcsv.m', 11)" style="font-weight:bold">readSEPAcsv</a> (<a href="matlab: opentoline('C:\Andriy\work\sepa123demo\readSEPAcsv.m',11,0)">line 11</a>)
+    if nargin < 1
+
+{Output argument "levels" (and maybe others) not assigned during call to
+"C:\Andriy\work\sepa123demo\readSEPAcsv.m>readSEPAcsv".
+
+Error in <a href="matlab:helpUtils.errorDocCallback('weisdaleburn_test', 'C:\Andriy\work\sepa123demo\weisdaleburn_test.m', 21)" style="font-weight:bold">weisdaleburn_test</a> (<a href="matlab: opentoline('C:\Andriy\work\sepa123demo\weisdaleburn_test.m',21,0)">line 21</a>)
+[tst_levels, tst_date_srl, tst_time_hh, tst_time_mm] = ...
+} 
+clear all
+weisdaleburn_test
+File data\WeisdaleBurn150222-27.csv opened correctly.
+Data in put from file data\WeisdaleBurn150222-27.csv is completed.
+Total observations have been read: 501.
+Reading training data for station WeisdaleMi.SG.ir.O took 0.0161201 minutes of CPU time.
+File data\nura\nurafl1.csv opened correctly.
+Data in put from file data\nura\nurafl1.csv is completed.
+Total observations have been read: 405.
+Reading training data for station WeisdaleMi.SG.ir.O took 0.0132601 minutes of CPU time.
+No. 1: test set for station WeisdaleMi.SG.ir.O contains 405 observations.
+No. 1: generating training set for station WeisdaleMi.SG.ir.O ... 
+No. 1: training set 1 for station WeisdaleMi.SG.ir.O contains 501 observations.
+No. 1: training the negative election for station WeisdaleMi.SG.ir.O ... 
+#1 (WeisdaleMi.SG.ir.O): 405 observations.
+#1 (WeisdaleMi.SG.ir.O): 231 self, 79 non-self and 95 unavailable.
+#1 (WeisdaleMi.SG.ir.O): sliding window has size 96.
+-------------------------------------------------------------
+Negative selection for station WeisdaleMi.SG.ir.O took 0.0852805 minutes of CPU time.
+-------------------------------------------------------------
+Plotting the flood data and labels ...
+Plotting the training set and its labels ...
+{Index exceeds matrix dimensions.
+
+Error in <a href="matlab:helpUtils.errorDocCallback('weisdaleburn_test', 'C:\Andriy\work\sepa123demo\weisdaleburn_test.m', 118)" style="font-weight:bold">weisdaleburn_test</a> (<a href="matlab: opentoline('C:\Andriy\work\sepa123demo\weisdaleburn_test.m',118,0)">line 118</a>)
+    if std(tst_levels(ii:(ii + sld_wnd_sz - 1))) > epsN
+} 
+weisdaleburn_test
+File data\WeisdaleBurn150222-27.csv opened correctly.
+Data in put from file data\WeisdaleBurn150222-27.csv is completed.
+Total observations have been read: 501.
+Reading training data for station WeisdaleMi.SG.ir.O took 0.0153401 minutes of CPU time.
+File data\nura\nurafl1.csv opened correctly.
+Data in put from file data\nura\nurafl1.csv is completed.
+Total observations have been read: 405.
+Reading training data for station WeisdaleMi.SG.ir.O took 0.0119601 minutes of CPU time.
+No. 1: test set for station WeisdaleMi.SG.ir.O contains 405 observations.
+No. 1: generating training set for station WeisdaleMi.SG.ir.O ... 
+No. 1: training set 1 for station WeisdaleMi.SG.ir.O contains 501 observations.
+No. 1: training the negative election for station WeisdaleMi.SG.ir.O ... 
+#1 (WeisdaleMi.SG.ir.O): 405 observations.
+#1 (WeisdaleMi.SG.ir.O): 231 self, 79 non-self and 95 unavailable.
+#1 (WeisdaleMi.SG.ir.O): sliding window has size 96.
+-------------------------------------------------------------
+Negative selection for station WeisdaleMi.SG.ir.O took 0.0808605 minutes of CPU time.
+-------------------------------------------------------------
+Plotting the flood data and labels ...
+Plotting the training set and its labels ...
+File data\WeisdaleBurn150222-27.csv opened correctly.
+Data in put from file data\WeisdaleBurn150222-27.csv is completed.
+Total observations have been read: 501.
+Reading training data for station WeisdaleMi.SG.ir.O took 0.0158601 minutes of CPU time.
+File data\nura\nurafl1.csv opened correctly.
+Data in put from file data\nura\nurafl1.csv is completed.
+Total observations have been read: 405.
+Reading training data for station WeisdaleMi.SG.ir.O took 0.0122201 minutes of CPU time.
+No. 1: test set for station WeisdaleMi.SG.ir.O contains 405 observations.
+No. 1: generating training set for station WeisdaleMi.SG.ir.O ... 
+No. 1: training set 1 for station WeisdaleMi.SG.ir.O contains 501 observations.
+No. 1: training the negative election for station WeisdaleMi.SG.ir.O ... 
+#1 (WeisdaleMi.SG.ir.O): 405 observations.
+#1 (WeisdaleMi.SG.ir.O): 231 self, 79 non-self and 95 unavailable.
+#1 (WeisdaleMi.SG.ir.O): sliding window has size 96.
+-------------------------------------------------------------
+Negative selection for station WeisdaleMi.SG.ir.O took 0.0798205 minutes of CPU time.
+-------------------------------------------------------------
+Plotting the flood data and labels ...
+Plotting the training set and its labels ...
+File data\WeisdaleBurn150222-27.csv opened correctly.
+Data in put from file data\WeisdaleBurn150222-27.csv is completed.
+Total observations have been read: 501.
+Reading training data for station WeisdaleMi.SG.ir.O took 0.0156001 minutes of CPU time.
+File data\nura\nurafl1.csv opened correctly.
+Data in put from file data\nura\nurafl1.csv is completed.
+Total observations have been read: 405.
+Reading training data for station WeisdaleMi.SG.ir.O took 0.0124801 minutes of CPU time.
+No. 1: test set for station WeisdaleMi.SG.ir.O contains 405 observations.
+No. 1: generating training set for station WeisdaleMi.SG.ir.O ... 
+No. 1: training set 1 for station WeisdaleMi.SG.ir.O contains 501 observations.
+No. 1: training the negative election for station WeisdaleMi.SG.ir.O ... 
+#1 (WeisdaleMi.SG.ir.O): 405 observations.
+#1 (WeisdaleMi.SG.ir.O): 231 self, 79 non-self and 95 unavailable.
+#1 (WeisdaleMi.SG.ir.O): sliding window has size 96.
+-------------------------------------------------------------
+Negative selection for station WeisdaleMi.SG.ir.O took 0.0806005 minutes of CPU time.
+-------------------------------------------------------------
+Plotting the flood data and labels ...
+Plotting the training set and its labels ...
+File data\WeisdaleBurn150222-27.csv opened correctly.
+Data in put from file data\WeisdaleBurn150222-27.csv is completed.
+Total observations have been read: 501.
+Reading training data for station WeisdaleMi.SG.ir.O took 0.0153401 minutes of CPU time.
+File data\nura\nurafl1.csv opened correctly.
+Data in put from file data\nura\nurafl1.csv is completed.
+Total observations have been read: 405.
+Reading training data for station WeisdaleMi.SG.ir.O took 0.0124801 minutes of CPU time.
+No. 1: test set for station WeisdaleMi.SG.ir.O contains 405 observations.
+No. 1: generating training set for station WeisdaleMi.SG.ir.O ... 
+No. 1: training set 1 for station WeisdaleMi.SG.ir.O contains 501 observations.
+No. 1: training the negative election for station WeisdaleMi.SG.ir.O ... 
+#1 (WeisdaleMi.SG.ir.O): 405 observations.
+#1 (WeisdaleMi.SG.ir.O): 231 self, 79 non-self and 95 unavailable.
+#1 (WeisdaleMi.SG.ir.O): sliding window has size 96.
+-------------------------------------------------------------
+Negative selection for station WeisdaleMi.SG.ir.O took 0.0811205 minutes of CPU time.
+-------------------------------------------------------------
+Plotting the flood data and labels ...
+Plotting the training set and its labels ...
+File data\WeisdaleBurn150222-27.csv opened correctly.
+Data in put from file data\WeisdaleBurn150222-27.csv is completed.
+Total observations have been read: 501.
+Reading training data for station WeisdaleMi.SG.ir.O took 0.0148201 minutes of CPU time.
+File data\nura\nurafl1.csv opened correctly.
+Data in put from file data\nura\nurafl1.csv is completed.
+Total observations have been read: 405.
+Reading training data for station WeisdaleMi.SG.ir.O took 0.0119601 minutes of CPU time.
+No. 1: test set for station WeisdaleMi.SG.ir.O contains 405 observations.
+No. 1: generating training set for station WeisdaleMi.SG.ir.O ... 
+No. 1: training set 1 for station WeisdaleMi.SG.ir.O contains 501 observations.
+No. 1: training the negative election for station WeisdaleMi.SG.ir.O ... 
+#1 (WeisdaleMi.SG.ir.O): 405 observations.
+#1 (WeisdaleMi.SG.ir.O): 231 self, 79 non-self and 95 unavailable.
+#1 (WeisdaleMi.SG.ir.O): sliding window has size 96.
+-------------------------------------------------------------
+Negative selection for station WeisdaleMi.SG.ir.O took 0.0819005 minutes of CPU time.
+-------------------------------------------------------------
+Plotting the flood data and labels ...
+{Operation terminated by user during <a href="matlab:helpUtils.errorDocCallback('weisdaleburn_test', 'C:\Andriy\work\sepa123demo\weisdaleburn_test.m', 91)" style="font-weight:bold">weisdaleburn_test</a> (<a href="matlab: opentoline('C:\Andriy\work\sepa123demo\weisdaleburn_test.m',91,0)">line 91</a>)
+
+} 
+clear all
+weisdaleburn_test
+File data\WeisdaleBurn150222-27.csv opened correctly.
+Data in put from file data\WeisdaleBurn150222-27.csv is completed.
+Total observations have been read: 501.
+Reading training data for station WeisdaleMi.SG.ir.O took 0.0153401 minutes of CPU time.
+File data\nura\nurafl1.csv opened correctly.
+Data in put from file data\nura\nurafl1.csv is completed.
+Total observations have been read: 405.
+Reading training data for station WeisdaleMi.SG.ir.O took 0.0127401 minutes of CPU time.
+No. 1: test set for station WeisdaleMi.SG.ir.O contains 405 observations.
+No. 1: generating training set for station WeisdaleMi.SG.ir.O ... 
+No. 1: training set 1 for station WeisdaleMi.SG.ir.O contains 501 observations.
+No. 1: training the negative election for station WeisdaleMi.SG.ir.O ... 
+#1 (WeisdaleMi.SG.ir.O): 405 observations.
+#1 (WeisdaleMi.SG.ir.O): 231 self, 79 non-self and 95 unavailable.
+#1 (WeisdaleMi.SG.ir.O): sliding window has size 96.
+-------------------------------------------------------------
+Negative selection for station WeisdaleMi.SG.ir.O took 0.0824205 minutes of CPU time.
+-------------------------------------------------------------
+Plotting the flood data and labels ...
+Plotting the training set and its labels ...
+Cannot open file data\WeisdaleBurn150222-27.csv!Reading training data for station WeisdaleMi.SG.ir.O took 0 minutes of CPU time.
+File data\nura\nurafl1.csv opened correctly.
+Data in put from file data\nura\nurafl1.csv is completed.
+Total observations have been read: 405.
+Reading training data for station WeisdaleMi.SG.ir.O took 0.0117001 minutes of CPU time.
+No. 1: test set for station WeisdaleMi.SG.ir.O contains 405 observations.
+No. 1: generating training set for station WeisdaleMi.SG.ir.O ... 
+No. 1: training set 1 for station WeisdaleMi.SG.ir.O contains 0 observations.
+No. 1: nothing from station WeisdaleMi.SG.ir.O to form the traing set 
+#1 (WeisdaleMi.SG.ir.O): 405 observations.
+#1 (WeisdaleMi.SG.ir.O): no labels are available.
+-------------------------------------------------------------
+Negative selection for station WeisdaleMi.SG.ir.O took 0.000260002 minutes of CPU time.
+-------------------------------------------------------------
+Plotting the flood data and labels ...
+Plotting the training set and its labels ...
+[Warning: Plot empty.] 
+[> In <a href="matlab: opentoline('C:\Program Files\MATLAB\R2013a\toolbox\matlab\scribe\legend.m',286,1)">legend at 286</a>
+  In <a href="matlab: opentoline('C:\Andriy\work\sepa123demo\weisdaleburn_test.m',160,1)">weisdaleburn_test at 160</a>] 
+Cannot open file data\WeisdaleBurn150222-27.csv!Reading training data for station WeisdaleMi.SG.ir.O took 0 minutes of CPU time.
+File data\nura\nurafl1.csv opened correctly.
+Data in put from file data\nura\nurafl1.csv is completed.
+Total observations have been read: 405.
+Reading training data for station WeisdaleMi.SG.ir.O took 0.0117001 minutes of CPU time.
+No. 1: test set for station WeisdaleMi.SG.ir.O contains 405 observations.
+No. 1: generating training set for station WeisdaleMi.SG.ir.O ... 
+No. 1: training set 1 for station WeisdaleMi.SG.ir.O contains 0 observations.
+No. 1: nothing from station WeisdaleMi.SG.ir.O to form the traing set 
+#1 (WeisdaleMi.SG.ir.O): 405 observations.
+#1 (WeisdaleMi.SG.ir.O): no labels are available.
+-------------------------------------------------------------
+Negative selection for station WeisdaleMi.SG.ir.O took 0 minutes of CPU time.
+-------------------------------------------------------------
+Plotting the flood data and labels ...
+Plotting the training set and its labels ...
+[Warning: Plot empty.] 
+[> In <a href="matlab: opentoline('C:\Program Files\MATLAB\R2013a\toolbox\matlab\scribe\legend.m',286,1)">legend at 286</a>
+  In <a href="matlab: opentoline('C:\Andriy\work\sepa123demo\weisdaleburn_test.m',160,1)">weisdaleburn_test at 160</a>] 
+Cannot open file data\WeisdaleBurn150222-27.csv!Reading training data for station WeisdaleMi.SG.ir.O took 0 minutes of CPU time.
+File data\nura\nurafl1.csv opened correctly.
+Data in put from file data\nura\nurafl1.csv is completed.
+Total observations have been read: 405.
+Reading training data for station WeisdaleMi.SG.ir.O took 0.0117001 minutes of CPU time.
+No. 1: test set for station WeisdaleMi.SG.ir.O contains 405 observations.
+No. 1: generating training set for station WeisdaleMi.SG.ir.O ... 
+No. 1: training set 1 for station WeisdaleMi.SG.ir.O contains 0 observations.
+No. 1: nothing from station WeisdaleMi.SG.ir.O to form the traing set 
+#1 (WeisdaleMi.SG.ir.O): 405 observations.
+#1 (WeisdaleMi.SG.ir.O): no labels are available.
+-------------------------------------------------------------
+Negative selection for station WeisdaleMi.SG.ir.O took 0.000260002 minutes of CPU time.
+-------------------------------------------------------------
+Plotting the flood data and labels ...
+Plotting the training set and its labels ...
+[Warning: Plot empty.] 
+[> In <a href="matlab: opentoline('C:\Program Files\MATLAB\R2013a\toolbox\matlab\scribe\legend.m',286,1)">legend at 286</a>
+  In <a href="matlab: opentoline('C:\Andriy\work\sepa123demo\weisdaleburn_plot.m',161,1)">weisdaleburn_plot at 161</a>] 
+{Operation terminated by user during <a href="matlab:helpUtils.errorDocCallback('weisdaleburn_plot', 'C:\Andriy\work\sepa123demo\weisdaleburn_plot.m', 167)" style="font-weight:bold">weisdaleburn_plot</a> (<a href="matlab: opentoline('C:\Andriy\work\sepa123demo\weisdaleburn_plot.m',167,0)">line 167</a>)
+
+} 
+clear all
+weisdaleburn_test
+Cannot open file data\WeisdaleBurn150222-27.csv!Reading training data for station WeisdaleMi.SG.ir.O took 0 minutes of CPU time.
+File data\nura\nurafl1.csv opened correctly.
+Data in put from file data\nura\nurafl1.csv is completed.
+Total observations have been read: 405.
+Reading training data for station WeisdaleMi.SG.ir.O took 0.0127401 minutes of CPU time.
+No. 1: test set for station WeisdaleMi.SG.ir.O contains 405 observations.
+No. 1: generating training set for station WeisdaleMi.SG.ir.O ... 
+No. 1: training set 1 for station WeisdaleMi.SG.ir.O contains 0 observations.
+No. 1: nothing from station WeisdaleMi.SG.ir.O to form the traing set 
+#1 (WeisdaleMi.SG.ir.O): 405 observations.
+#1 (WeisdaleMi.SG.ir.O): no labels are available.
+-------------------------------------------------------------
+Negative selection for station WeisdaleMi.SG.ir.O took 0.000260002 minutes of CPU time.
+-------------------------------------------------------------
+Plotting the flood data and labels ...
+Plotting the training set and its labels ...
+[Warning: Plot empty.] 
+[> In <a href="matlab: opentoline('C:\Program Files\MATLAB\R2013a\toolbox\matlab\scribe\legend.m',286,1)">legend at 286</a>
+  In <a href="matlab: opentoline('C:\Andriy\work\sepa123demo\weisdaleburn_test.m',160,1)">weisdaleburn_test at 160</a>] 
+{Operation terminated by user during <a href="matlab:helpUtils.errorDocCallback('weisdaleburn_test', 'C:\Andriy\work\sepa123demo\weisdaleburn_test.m', 166)" style="font-weight:bold">weisdaleburn_test</a> (<a href="matlab: opentoline('C:\Andriy\work\sepa123demo\weisdaleburn_test.m',166,0)">line 166</a>)
+
+} 
+weisdaleburn_test
+Cannot open file data\WeisdaleBurn150222-27.csv!Reading training data for station WeisdaleMi.SG.ir.O took 0 minutes of CPU time.
+File data\nura\nurafl1.csv opened correctly.
+Data in put from file data\nura\nurafl1.csv is completed.
+Total observations have been read: 405.
+Reading training data for station WeisdaleMi.SG.ir.O took 0.0114401 minutes of CPU time.
+No. 1: test set for station WeisdaleMi.SG.ir.O contains 405 observations.
+No. 1: generating training set for station WeisdaleMi.SG.ir.O ... 
+No. 1: training set 1 for station WeisdaleMi.SG.ir.O contains 0 observations.
+No. 1: nothing from station WeisdaleMi.SG.ir.O to form the traing set 
+#1 (WeisdaleMi.SG.ir.O): 405 observations.
+#1 (WeisdaleMi.SG.ir.O): no labels are available.
+-------------------------------------------------------------
+Negative selection for station WeisdaleMi.SG.ir.O took 0 minutes of CPU time.
+-------------------------------------------------------------
+Plotting the flood data and labels ...
+Plotting the training set and its labels ...
+{Undefined variable "tr_full" or class "tr_full".
+
+Error in <a href="matlab:helpUtils.errorDocCallback('weisdaleburn_test', 'C:\Andriy\work\sepa123demo\weisdaleburn_test.m', 111)" style="font-weight:bold">weisdaleburn_test</a> (<a href="matlab: opentoline('C:\Andriy\work\sepa123demo\weisdaleburn_test.m',111,0)">line 111</a>)
+bar(tr_full{1});
+} 
+weisdaleburn_test
+Cannot open file data\WeisdaleBurn150222-27.csv!Reading training data for station WeisdaleMi.SG.ir.O took 0.000260002 minutes of CPU time.
+File data\nura\nurafl1.csv opened correctly.
+Data in put from file data\nura\nurafl1.csv is completed.
+Total observations have been read: 405.
+Reading training data for station WeisdaleMi.SG.ir.O took 0.0119601 minutes of CPU time.
+No. 1: test set for station WeisdaleMi.SG.ir.O contains 405 observations.
+No. 1: generating training set for station WeisdaleMi.SG.ir.O ... 
+No. 1: training set 1 for station WeisdaleMi.SG.ir.O contains 0 observations.
+No. 1: nothing from station WeisdaleMi.SG.ir.O to form the traing set 
+#1 (WeisdaleMi.SG.ir.O): 405 observations.
+#1 (WeisdaleMi.SG.ir.O): no labels are available.
+-------------------------------------------------------------
+Negative selection for station WeisdaleMi.SG.ir.O took 0 minutes of CPU time.
+-------------------------------------------------------------
+Plotting the flood data and labels ...
+Plotting the training set and its labels ...
+[Warning: Plot empty.] 
+[> In <a href="matlab: opentoline('C:\Program Files\MATLAB\R2013a\toolbox\matlab\scribe\legend.m',286,1)">legend at 286</a>
+  In <a href="matlab: opentoline('C:\Andriy\work\sepa123demo\weisdaleburn_test.m',160,1)">weisdaleburn_test at 160</a>] 
+Cannot open file data\WeisdaleBurn150222-27.csv!Reading training data for station WeisdaleMi.SG.ir.O took 0 minutes of CPU time.
+File data\nura\nurafl1.csv opened correctly.
+Data in put from file data\nura\nurafl1.csv is completed.
+Total observations have been read: 405.
+Reading training data for station WeisdaleMi.SG.ir.O took 0.0111801 minutes of CPU time.
+No. 1: test set for station WeisdaleMi.SG.ir.O contains 405 observations.
+No. 1: generating training set for station WeisdaleMi.SG.ir.O ... 
+No. 1: training set 1 for station WeisdaleMi.SG.ir.O contains 0 observations.
+No. 1: nothing from station WeisdaleMi.SG.ir.O to form the traing set 
+#1 (WeisdaleMi.SG.ir.O): 405 observations.
+#1 (WeisdaleMi.SG.ir.O): no labels are available.
+-------------------------------------------------------------
+Negative selection for station WeisdaleMi.SG.ir.O took 0 minutes of CPU time.
+-------------------------------------------------------------
+Plotting the flood data and labels ...
+Plotting the training set and its labels ...
+{Operation terminated by user during <a href="matlab:helpUtils.errorDocCallback('weisdaleburn_test', 'C:\Andriy\work\sepa123demo\weisdaleburn_test.m', 116)" style="font-weight:bold">weisdaleburn_test</a> (<a href="matlab: opentoline('C:\Andriy\work\sepa123demo\weisdaleburn_test.m',116,0)">line 116</a>)
+
+} 
+weisdaleburn_test
+Cannot open file data\WeisdaleBurn150222-27.csv!Reading training data for station WeisdaleMi.SG.ir.O took 0 minutes of CPU time.
+File data\nura\nurafl1.csv opened correctly.
+Data in put from file data\nura\nurafl1.csv is completed.
+Total observations have been read: 405.
+Reading training data for station WeisdaleMi.SG.ir.O took 0.0111801 minutes of CPU time.
+No. 1: test set for station WeisdaleMi.SG.ir.O contains 405 observations.
+No. 1: generating training set for station WeisdaleMi.SG.ir.O ... 
+No. 1: training set 1 for station WeisdaleMi.SG.ir.O contains 0 observations.
+No. 1: nothing from station WeisdaleMi.SG.ir.O to form the traing set 
+#1 (WeisdaleMi.SG.ir.O): 405 observations.
+#1 (WeisdaleMi.SG.ir.O): no labels are available.
+-------------------------------------------------------------
+Negative selection for station WeisdaleMi.SG.ir.O took 0.000520003 minutes of CPU time.
+-------------------------------------------------------------
+Plotting the flood data and labels ...
+Plotting the training set and its labels ...
+{Operation terminated by user during <a href="matlab:helpUtils.errorDocCallback('weisdaleburn_test', 'C:\Andriy\work\sepa123demo\weisdaleburn_test.m', 116)" style="font-weight:bold">weisdaleburn_test</a> (<a href="matlab: opentoline('C:\Andriy\work\sepa123demo\weisdaleburn_test.m',116,0)">line 116</a>)
+
+} 
+weisdaleburn_test
+Cannot open file data\WeisdaleBurn150222-27.csv!Reading training data for station WeisdaleMi.SG.ir.O took 0 minutes of CPU time.
+File data\nura\nurafl1.csv opened correctly.
+Data in put from file data\nura\nurafl1.csv is completed.
+Total observations have been read: 405.
+Reading training data for station WeisdaleMi.SG.ir.O took 0.0117001 minutes of CPU time.
+No. 1: test set for station WeisdaleMi.SG.ir.O contains 405 observations.
+No. 1: generating training set for station WeisdaleMi.SG.ir.O ... 
+No. 1: training set 1 for station WeisdaleMi.SG.ir.O contains 0 observations.
+No. 1: nothing from station WeisdaleMi.SG.ir.O to form the traing set 
+#1 (WeisdaleMi.SG.ir.O): 405 observations.
+#1 (WeisdaleMi.SG.ir.O): no labels are available.
+-------------------------------------------------------------
+Negative selection for station WeisdaleMi.SG.ir.O took 0 minutes of CPU time.
+-------------------------------------------------------------
+Plotting the flood data and labels ...
+Plotting the training set and its labels ...
+
+ans =
+
+     0     0
+
+{Operation terminated by user during <a href="matlab:helpUtils.errorDocCallback('weisdaleburn_test', 'C:\Andriy\work\sepa123demo\weisdaleburn_test.m', 117)" style="font-weight:bold">weisdaleburn_test</a> (<a href="matlab: opentoline('C:\Andriy\work\sepa123demo\weisdaleburn_test.m',117,0)">line 117</a>)
+
+} 
+clear all
+sepa123csv_demo
+Cannot open file data\WeisdaleBurn150222-27.csv!
+ans =
+
+     0     0
+
+Reading training data for station WeisdaleMi.SG.ir.O took 0 minutes of CPU time.
+File data\nura\nurafl1.csv opened correctly.
+Data in put from file data\nura\nurafl1.csv is completed.
+Total observations have been read: 405.
+Reading training data for station WeisdaleMi.SG.ir.O took 0.0117001 minutes of CPU time.
+No. 1: test set for station WeisdaleMi.SG.ir.O contains 405 observations.
+No. 1: generating training set for station WeisdaleMi.SG.ir.O ... 
+No. 1: training set 1 for station WeisdaleMi.SG.ir.O contains 0 observations.
+No. 1: nothing from station WeisdaleMi.SG.ir.O to form the traing set 
+#1 (WeisdaleMi.SG.ir.O): 405 observations.
+#1 (WeisdaleMi.SG.ir.O): no labels are available.
+-------------------------------------------------------------
+Negative selection for station WeisdaleMi.SG.ir.O took 0 minutes of CPU time.
+-------------------------------------------------------------
+Plotting the flood data and labels ...
+{Operation terminated by user during <a href="matlab:helpUtils.errorDocCallback('weisdaleburn_test', 'C:\Andriy\work\sepa123demo\weisdaleburn_test.m', 108)" style="font-weight:bold">weisdaleburn_test</a> (<a href="matlab: opentoline('C:\Andriy\work\sepa123demo\weisdaleburn_test.m',108,0)">line 108</a>)
+
+} 
+weisdaleburn_test
+File data\sepa\WeisdaleBurn150222-27.csv opened correctly.
+Data in put from file data\sepa\WeisdaleBurn150222-27.csv is completed.
+Total observations have been read: 501.
+Reading training data for station WeisdaleMi.SG.ir.O took 0.0145601 minutes of CPU time.
+File data\nura\nurafl1.csv opened correctly.
+Data in put from file data\nura\nurafl1.csv is completed.
+Total observations have been read: 405.
+Reading training data for station WeisdaleMi.SG.ir.O took 0.0119601 minutes of CPU time.
+No. 1: test set for station WeisdaleMi.SG.ir.O contains 405 observations.
+No. 1: generating training set for station WeisdaleMi.SG.ir.O ... 
+No. 1: training set 1 for station WeisdaleMi.SG.ir.O contains 501 observations.
+No. 1: training the negative election for station WeisdaleMi.SG.ir.O ... 
+#1 (WeisdaleMi.SG.ir.O): 405 observations.
+#1 (WeisdaleMi.SG.ir.O): 231 self, 79 non-self and 95 unavailable.
+#1 (WeisdaleMi.SG.ir.O): sliding window has size 96.
+-------------------------------------------------------------
+Negative selection for station WeisdaleMi.SG.ir.O took 0.0816405 minutes of CPU time.
+-------------------------------------------------------------
+Plotting the flood data and labels ...
+Plotting the training set and its labels ...
+File data\sepa\WeisdaleBurn150222-27.csv opened correctly.
+Data in put from file data\sepa\WeisdaleBurn150222-27.csv is completed.
+Total observations have been read: 501.
+Reading training data for station WeisdaleMi.SG.ir.O took 0.0145601 minutes of CPU time.
+File data\nura\nurafl1.csv opened correctly.
+Data in put from file data\nura\nurafl1.csv is completed.
+Total observations have been read: 405.
+Reading training data for station WeisdaleMi.SG.ir.O took 0.0117001 minutes of CPU time.
+No. 1: test set for station WeisdaleMi.SG.ir.O contains 405 observations.
+No. 1: generating training set for station WeisdaleMi.SG.ir.O ... 
+No. 1: training set 1 for station WeisdaleMi.SG.ir.O contains 501 observations.
+No. 1: training the negative election for station WeisdaleMi.SG.ir.O ... 
+#1 (WeisdaleMi.SG.ir.O): 405 observations.
+#1 (WeisdaleMi.SG.ir.O): 231 self, 79 non-self and 95 unavailable.
+#1 (WeisdaleMi.SG.ir.O): sliding window has size 96.
+-------------------------------------------------------------
+Negative selection for station WeisdaleMi.SG.ir.O took 0.0829405 minutes of CPU time.
+-------------------------------------------------------------
+Plotting the flood data and labels ...
+Plotting the training set and its labels ...
+File data\sepa\WeisdaleBurn150222-27.csv opened correctly.
+Data in put from file data\sepa\WeisdaleBurn150222-27.csv is completed.
+Total observations have been read: 501.
+Reading training data for station WeisdaleMi.SG.ir.O took 0.0150801 minutes of CPU time.
+File data\nura\nurafl1.csv opened correctly.
+Data in put from file data\nura\nurafl1.csv is completed.
+Total observations have been read: 405.
+Reading training data for station WeisdaleMi.SG.ir.O took 0.0114401 minutes of CPU time.
+No. 1: test set for station WeisdaleMi.SG.ir.O contains 405 observations.
+No. 1: generating training set for station WeisdaleMi.SG.ir.O ... 
+No. 1: training set 1 for station WeisdaleMi.SG.ir.O contains 501 observations.
+No. 1: training the negative election for station WeisdaleMi.SG.ir.O ... 
+#1 (WeisdaleMi.SG.ir.O): 405 observations.
+#1 (WeisdaleMi.SG.ir.O): 231 self, 79 non-self and 95 unavailable.
+#1 (WeisdaleMi.SG.ir.O): sliding window has size 96.
+-------------------------------------------------------------
+Negative selection for station WeisdaleMi.SG.ir.O took 0.0819005 minutes of CPU time.
+-------------------------------------------------------------
+Plotting the flood data and labels ...
+Plotting the training set and its labels ...
+File data\sepa\WeisdaleBurn150222-27.csv opened correctly.
+Data in put from file data\sepa\WeisdaleBurn150222-27.csv is completed.
+Total observations have been read: 501.
+Reading training data for station WeisdaleMi.SG.ir.O took 0.0143001 minutes of CPU time.
+File data\nura\nurafl1.csv opened correctly.
+Data in put from file data\nura\nurafl1.csv is completed.
+Total observations have been read: 405.
+Reading training data for station WeisdaleMi.SG.ir.O took 0.0117001 minutes of CPU time.
+No. 1: test set for station WeisdaleMi.SG.ir.O contains 405 observations.
+No. 1: generating training set for station WeisdaleMi.SG.ir.O ... 
+No. 1: training set 1 for station WeisdaleMi.SG.ir.O contains 501 observations.
+No. 1: training the negative election for station WeisdaleMi.SG.ir.O ... 
+#1 (WeisdaleMi.SG.ir.O): 405 observations.
+#1 (WeisdaleMi.SG.ir.O): 231 self, 79 non-self and 95 unavailable.
+#1 (WeisdaleMi.SG.ir.O): sliding window has size 96.
+-------------------------------------------------------------
+Negative selection for station WeisdaleMi.SG.ir.O took 0.0949006 minutes of CPU time.
+-------------------------------------------------------------
+Plotting the flood data and labels ...
+{Undefined function or variable 'ts_tst_levels_norm'.
+
+Error in <a href="matlab:helpUtils.errorDocCallback('weisdaleburn_plot', 'C:\Andriy\work\sepa123demo\weisdaleburn_plot.m', 88)" style="font-weight:bold">weisdaleburn_plot</a> (<a href="matlab: opentoline('C:\Andriy\work\sepa123demo\weisdaleburn_plot.m',88,0)">line 88</a>)
+p = plot(ts_tst_levels_norm, 'Color', 'cyan', 'LineWidth', 4);
+} 
+clear all
+weisdaleburn_plot
+File data\sepa\WeisdaleBurn150222-27.csv opened correctly.
+Data in put from file data\sepa\WeisdaleBurn150222-27.csv is completed.
+Total observations have been read: 501.
+Reading training data for station WeisdaleMi.SG.ir.O took 0.0153401 minutes of CPU time.
+File data\nura\nurafl1.csv opened correctly.
+Data in put from file data\nura\nurafl1.csv is completed.
+Total observations have been read: 405.
+Reading training data for station WeisdaleMi.SG.ir.O took 0.0114401 minutes of CPU time.
+No. 1: test set for station WeisdaleMi.SG.ir.O contains 405 observations.
+No. 1: generating training set for station WeisdaleMi.SG.ir.O ... 
+No. 1: training set 1 for station WeisdaleMi.SG.ir.O contains 501 observations.
+No. 1: training the negative election for station WeisdaleMi.SG.ir.O ... 
+#1 (WeisdaleMi.SG.ir.O): 405 observations.
+#1 (WeisdaleMi.SG.ir.O): 231 self, 79 non-self and 95 unavailable.
+#1 (WeisdaleMi.SG.ir.O): sliding window has size 96.
+-------------------------------------------------------------
+Negative selection for station WeisdaleMi.SG.ir.O took 0.0798205 minutes of CPU time.
+-------------------------------------------------------------
+Plotting the flood data and labels ...
+Plotting the training set and its labels ...
+File data\sepa\WeisdaleBurn150222-27.csv opened correctly.
+Data in put from file data\sepa\WeisdaleBurn150222-27.csv is completed.
+Total observations have been read: 501.
+Reading training data for station WeisdaleMi.SG.ir.O took 0.0148201 minutes of CPU time.
+File data\nura\nurafl1.csv opened correctly.
+Data in put from file data\nura\nurafl1.csv is completed.
+Total observations have been read: 405.
+Reading training data for station WeisdaleMi.SG.ir.O took 0.0109201 minutes of CPU time.
+No. 1: test set for station WeisdaleMi.SG.ir.O contains 405 observations.
+No. 1: generating training set for station WeisdaleMi.SG.ir.O ... 
+No. 1: training set 1 for station WeisdaleMi.SG.ir.O contains 501 observations.
+No. 1: training the negative election for station WeisdaleMi.SG.ir.O ... 
+#1 (WeisdaleMi.SG.ir.O): 405 observations.
+#1 (WeisdaleMi.SG.ir.O): 231 self, 79 non-self and 95 unavailable.
+#1 (WeisdaleMi.SG.ir.O): sliding window has size 96.
+-------------------------------------------------------------
+Negative selection for station WeisdaleMi.SG.ir.O took 0.0793005 minutes of CPU time.
+-------------------------------------------------------------
+Plotting the flood data and labels ...
+{Error using <a href="matlab:helpUtils.errorDocCallback('bar', 'C:\Program Files\MATLAB\R2013a\toolbox\matlab\specgraph\bar.m', 51)" style="font-weight:bold">bar</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2013a\toolbox\matlab\specgraph\bar.m',51,0)">line 51</a>)
+Must supply Y data or X and Y data as first argument(s).
+
+Error in <a href="matlab:helpUtils.errorDocCallback('weisdaleburn_plot', 'C:\Andriy\work\sepa123demo\weisdaleburn_plot.m', 50)" style="font-weight:bold">weisdaleburn_plot</a> (<a href="matlab: opentoline('C:\Andriy\work\sepa123demo\weisdaleburn_plot.m',50,0)">line 50</a>)
+bar(datestr(tst_date_srl), tst_full{1});
+} 
+weisdaleburn_plot
+File data\sepa\WeisdaleBurn150222-27.csv opened correctly.
+Data in put from file data\sepa\WeisdaleBurn150222-27.csv is completed.
+Total observations have been read: 501.
+Reading training data for station WeisdaleMi.SG.ir.O took 0.0137801 minutes of CPU time.
+File data\nura\nurafl1.csv opened correctly.
+Data in put from file data\nura\nurafl1.csv is completed.
+Total observations have been read: 405.
+Reading training data for station WeisdaleMi.SG.ir.O took 0.0114401 minutes of CPU time.
+No. 1: test set for station WeisdaleMi.SG.ir.O contains 405 observations.
+No. 1: generating training set for station WeisdaleMi.SG.ir.O ... 
+No. 1: training set 1 for station WeisdaleMi.SG.ir.O contains 501 observations.
+No. 1: training the negative election for station WeisdaleMi.SG.ir.O ... 
+#1 (WeisdaleMi.SG.ir.O): 405 observations.
+#1 (WeisdaleMi.SG.ir.O): 231 self, 79 non-self and 95 unavailable.
+#1 (WeisdaleMi.SG.ir.O): sliding window has size 96.
+-------------------------------------------------------------
+Negative selection for station WeisdaleMi.SG.ir.O took 0.0816405 minutes of CPU time.
+-------------------------------------------------------------
+Plotting the flood data and labels ...
+{Error using <a href="matlab:helpUtils.errorDocCallback('plot')" style="font-weight:bold">plot</a>
+Invalid property found.
+Object Name: line
+Property Name: 'blue'.
+
+Error in <a href="matlab:helpUtils.errorDocCallback('timeseries/plot', 'C:\Program Files\MATLAB\R2013a\toolbox\matlab\timeseries\@timeseries\plot.m', 135)" style="font-weight:bold">timeseries/plot</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2013a\toolbox\matlab\timeseries\@timeseries\plot.m',135,0)">line 135</a>)
+    p = plot(ax,Time,Data,varargin{:});
+
+Error in <a href="matlab:helpUtils.errorDocCallback('weisdaleburn_plot', 'C:\Andriy\work\sepa123demo\weisdaleburn_plot.m', 53)" style="font-weight:bold">weisdaleburn_plot</a> (<a href="matlab: opentoline('C:\Andriy\work\sepa123demo\weisdaleburn_plot.m',53,0)">line 53</a>)
+p = plot(ts_tst_full, 'blue', 'd');
+} 
+clear all
+weisdaleburn_plot
+File data\sepa\WeisdaleBurn150222-27.csv opened correctly.
+Data in put from file data\sepa\WeisdaleBurn150222-27.csv is completed.
+Total observations have been read: 501.
+Reading training data for station WeisdaleMi.SG.ir.O took 0.0150801 minutes of CPU time.
+File data\nura\nurafl1.csv opened correctly.
+Data in put from file data\nura\nurafl1.csv is completed.
+Total observations have been read: 405.
+Reading training data for station WeisdaleMi.SG.ir.O took 0.0117001 minutes of CPU time.
+No. 1: test set for station WeisdaleMi.SG.ir.O contains 405 observations.
+No. 1: generating training set for station WeisdaleMi.SG.ir.O ... 
+No. 1: training set 1 for station WeisdaleMi.SG.ir.O contains 501 observations.
+No. 1: training the negative election for station WeisdaleMi.SG.ir.O ... 
+#1 (WeisdaleMi.SG.ir.O): 405 observations.
+#1 (WeisdaleMi.SG.ir.O): 231 self, 79 non-self and 95 unavailable.
+#1 (WeisdaleMi.SG.ir.O): sliding window has size 96.
+-------------------------------------------------------------
+Negative selection for station WeisdaleMi.SG.ir.O took 0.0803405 minutes of CPU time.
+-------------------------------------------------------------
+Plotting the flood data and labels ...
+[Warning: Both the first and last dimensions of the data are the same.] 
+{Error using <a href="matlab:helpUtils.errorDocCallback('timeseries.utreshape', 'C:\Program Files\MATLAB\R2013a\toolbox\matlab\timeseries\@timeseries\timeseries.m', 864)" style="font-weight:bold">timeseries.utreshape</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2013a\toolbox\matlab\timeseries\@timeseries\timeseries.m',864,0)">line 864</a>)
+Size of the data array is incompatible with the time vector.
+
+Error in <a href="matlab:helpUtils.errorDocCallback('timeseries/init', 'C:\Program Files\MATLAB\R2013a\toolbox\matlab\timeseries\@timeseries\init.m', 283)" style="font-weight:bold">timeseries/init</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2013a\toolbox\matlab\timeseries\@timeseries\init.m',283,0)">line 283</a>)
+          [data,quality,istimefirst] = timeseries.utreshape(...
+
+Error in <a href="matlab:helpUtils.errorDocCallback('timeseries', 'C:\Program Files\MATLAB\R2013a\toolbox\matlab\timeseries\@timeseries\timeseries.m', 307)" style="font-weight:bold">timeseries</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2013a\toolbox\matlab\timeseries\@timeseries\timeseries.m',307,0)">line 307</a>)
+                  this = init(this,varargin{:});
+
+Error in <a href="matlab:helpUtils.errorDocCallback('weisdaleburn_plot', 'C:\Andriy\work\sepa123demo\weisdaleburn_plot.m', 105)" style="font-weight:bold">weisdaleburn_plot</a> (<a href="matlab: opentoline('C:\Andriy\work\sepa123demo\weisdaleburn_plot.m',105,0)">line 105</a>)
+ts_tst_full = timeseries(tst_full{1}, ...
+} 
+clear all
+weisdaleburn_plot
+File data\sepa\WeisdaleBurn150222-27.csv opened correctly.
+Data in put from file data\sepa\WeisdaleBurn150222-27.csv is completed.
+Total observations have been read: 501.
+Reading training data for station WeisdaleMi.SG.ir.O took 0.0150801 minutes of CPU time.
+File data\nura\nurafl1.csv opened correctly.
+Data in put from file data\nura\nurafl1.csv is completed.
+Total observations have been read: 405.
+Reading training data for station WeisdaleMi.SG.ir.O took 0.0117001 minutes of CPU time.
+No. 1: test set for station WeisdaleMi.SG.ir.O contains 405 observations.
+No. 1: generating training set for station WeisdaleMi.SG.ir.O ... 
+No. 1: training set 1 for station WeisdaleMi.SG.ir.O contains 501 observations.
+No. 1: training the negative election for station WeisdaleMi.SG.ir.O ... 
+#1 (WeisdaleMi.SG.ir.O): 405 observations.
+#1 (WeisdaleMi.SG.ir.O): 231 self, 79 non-self and 95 unavailable.
+#1 (WeisdaleMi.SG.ir.O): sliding window has size 96.
+-------------------------------------------------------------
+Negative selection for station WeisdaleMi.SG.ir.O took 0.0795605 minutes of CPU time.
+-------------------------------------------------------------
+Plotting the flood data and labels ...
+{Error using <a href="matlab:helpUtils.errorDocCallback('plot')" style="font-weight:bold">plot</a>
+Invalid property found.
+Object Name: line
+Property Name: 'blue'.
+
+Error in <a href="matlab:helpUtils.errorDocCallback('timeseries/plot', 'C:\Program Files\MATLAB\R2013a\toolbox\matlab\timeseries\@timeseries\plot.m', 135)" style="font-weight:bold">timeseries/plot</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2013a\toolbox\matlab\timeseries\@timeseries\plot.m',135,0)">line 135</a>)
+    p = plot(ax,Time,Data,varargin{:});
+
+Error in <a href="matlab:helpUtils.errorDocCallback('weisdaleburn_plot', 'C:\Andriy\work\sepa123demo\weisdaleburn_plot.m', 107)" style="font-weight:bold">weisdaleburn_plot</a> (<a href="matlab: opentoline('C:\Andriy\work\sepa123demo\weisdaleburn_plot.m',107,0)">line 107</a>)
+p = plot(ts_tst_full, 'blue', 'd');
+} 
+weisdaleburn_plot
+File data\sepa\WeisdaleBurn150222-27.csv opened correctly.
+Data in put from file data\sepa\WeisdaleBurn150222-27.csv is completed.
+Total observations have been read: 501.
+Reading training data for station WeisdaleMi.SG.ir.O took 0.0140401 minutes of CPU time.
+File data\nura\nurafl1.csv opened correctly.
+Data in put from file data\nura\nurafl1.csv is completed.
+Total observations have been read: 405.
+Reading training data for station WeisdaleMi.SG.ir.O took 0.0122201 minutes of CPU time.
+No. 1: test set for station WeisdaleMi.SG.ir.O contains 405 observations.
+No. 1: generating training set for station WeisdaleMi.SG.ir.O ... 
+No. 1: training set 1 for station WeisdaleMi.SG.ir.O contains 501 observations.
+No. 1: training the negative election for station WeisdaleMi.SG.ir.O ... 
+#1 (WeisdaleMi.SG.ir.O): 405 observations.
+#1 (WeisdaleMi.SG.ir.O): 231 self, 79 non-self and 95 unavailable.
+#1 (WeisdaleMi.SG.ir.O): sliding window has size 96.
+-------------------------------------------------------------
+Negative selection for station WeisdaleMi.SG.ir.O took 0.0819005 minutes of CPU time.
+-------------------------------------------------------------
+Plotting the flood data and labels ...
+[Warning: Plot empty.] 
+[> In <a href="matlab: opentoline('C:\Program Files\MATLAB\R2013a\toolbox\matlab\scribe\legend.m',286,1)">legend at 286</a>
+  In <a href="matlab: opentoline('C:\Andriy\work\sepa123demo\weisdaleburn_plot.m',114,1)">weisdaleburn_plot at 114</a>] 
+{Operation terminated by user during <a href="matlab:helpUtils.errorDocCallback('weisdaleburn_plot', 'C:\Andriy\work\sepa123demo\weisdaleburn_plot.m', 120)" style="font-weight:bold">weisdaleburn_plot</a> (<a href="matlab: opentoline('C:\Andriy\work\sepa123demo\weisdaleburn_plot.m',120,0)">line 120</a>)
+
+} 
+weisdaleburn_plot
+File data\sepa\WeisdaleBurn150222-27.csv opened correctly.
+Data in put from file data\sepa\WeisdaleBurn150222-27.csv is completed.
+Total observations have been read: 501.
+Reading training data for station WeisdaleMi.SG.ir.O took 0.0137801 minutes of CPU time.
+File data\nura\nurafl1.csv opened correctly.
+Data in put from file data\nura\nurafl1.csv is completed.
+Total observations have been read: 405.
+Reading training data for station WeisdaleMi.SG.ir.O took 0.0119601 minutes of CPU time.
+No. 1: test set for station WeisdaleMi.SG.ir.O contains 405 observations.
+No. 1: generating training set for station WeisdaleMi.SG.ir.O ... 
+No. 1: training set 1 for station WeisdaleMi.SG.ir.O contains 501 observations.
+No. 1: training the negative election for station WeisdaleMi.SG.ir.O ... 
+#1 (WeisdaleMi.SG.ir.O): 405 observations.
+#1 (WeisdaleMi.SG.ir.O): 231 self, 79 non-self and 95 unavailable.
+#1 (WeisdaleMi.SG.ir.O): sliding window has size 96.
+-------------------------------------------------------------
+Negative selection for station WeisdaleMi.SG.ir.O took 0.0813805 minutes of CPU time.
+-------------------------------------------------------------
+Plotting the flood data and labels ...
+Plotting the training set and its labels ...
+File data\sepa\WeisdaleBurn150222-27.csv opened correctly.
+Data in put from file data\sepa\WeisdaleBurn150222-27.csv is completed.
+Total observations have been read: 501.
+Reading training data for station WeisdaleMi.SG.ir.O took 0.0140401 minutes of CPU time.
+File data\nura\nurafl1.csv opened correctly.
+Data in put from file data\nura\nurafl1.csv is completed.
+Total observations have been read: 405.
+Reading training data for station WeisdaleMi.SG.ir.O took 0.0111801 minutes of CPU time.
+No. 1: test set for station WeisdaleMi.SG.ir.O contains 405 observations.
+No. 1: generating training set for station WeisdaleMi.SG.ir.O ... 
+No. 1: training set 1 for station WeisdaleMi.SG.ir.O contains 501 observations.
+No. 1: training the negative election for station WeisdaleMi.SG.ir.O ... 
+#1 (WeisdaleMi.SG.ir.O): 405 observations.
+#1 (WeisdaleMi.SG.ir.O): 231 self, 79 non-self and 95 unavailable.
+#1 (WeisdaleMi.SG.ir.O): sliding window has size 96.
+-------------------------------------------------------------
+Negative selection for station WeisdaleMi.SG.ir.O took 0.0813805 minutes of CPU time.
+-------------------------------------------------------------
+Plotting the flood data and labels ...
+Plotting the training set and its labels ...
+File data\sepa\WeisdaleBurn150222-27.csv opened correctly.
+Data in put from file data\sepa\WeisdaleBurn150222-27.csv is completed.
+Total observations have been read: 501.
+Reading training data for station WeisdaleMi.SG.ir.O took 0.0148201 minutes of CPU time.
+File data\nura\nurafl1.csv opened correctly.
+Data in put from file data\nura\nurafl1.csv is completed.
+Total observations have been read: 405.
+Reading training data for station WeisdaleMi.SG.ir.O took 0.0111801 minutes of CPU time.
+No. 1: test set for station WeisdaleMi.SG.ir.O contains 405 observations.
+No. 1: generating training set for station WeisdaleMi.SG.ir.O ... 
+No. 1: training set 1 for station WeisdaleMi.SG.ir.O contains 501 observations.
+No. 1: training the negative election for station WeisdaleMi.SG.ir.O ... 
+#1 (WeisdaleMi.SG.ir.O): 405 observations.
+#1 (WeisdaleMi.SG.ir.O): 231 self, 79 non-self and 95 unavailable.
+#1 (WeisdaleMi.SG.ir.O): sliding window has size 96.
+-------------------------------------------------------------
+Negative selection for station WeisdaleMi.SG.ir.O took 0.0806005 minutes of CPU time.
+-------------------------------------------------------------
+Plotting the flood data and labels ...
+Plotting the training set and its labels ...
+File data\sepa\WeisdaleBurn150222-27.csv opened correctly.
+Data in put from file data\sepa\WeisdaleBurn150222-27.csv is completed.
+Total observations have been read: 501.
+Reading training data for station WeisdaleMi.SG.ir.O took 0.0140401 minutes of CPU time.
+File data\nura\nurafl1.csv opened correctly.
+Data in put from file data\nura\nurafl1.csv is completed.
+Total observations have been read: 405.
+Reading training data for station WeisdaleMi.SG.ir.O took 0.0124801 minutes of CPU time.
+No. 1: test set for station WeisdaleMi.SG.ir.O contains 405 observations.
+No. 1: generating training set for station WeisdaleMi.SG.ir.O ... 
+No. 1: training set 1 for station WeisdaleMi.SG.ir.O contains 501 observations.
+No. 1: training the negative election for station WeisdaleMi.SG.ir.O ... 
+#1 (WeisdaleMi.SG.ir.O): 405 observations.
+#1 (WeisdaleMi.SG.ir.O): 231 self, 79 non-self and 95 unavailable.
+#1 (WeisdaleMi.SG.ir.O): sliding window has size 96.
+-------------------------------------------------------------
+Negative selection for station WeisdaleMi.SG.ir.O took 0.0819005 minutes of CPU time.
+-------------------------------------------------------------
+Plotting the flood data and labels ...
+Plotting the training set and its labels ...
+File data\sepa\WeisdaleBurn150222-27.csv opened correctly.
+Data in put from file data\sepa\WeisdaleBurn150222-27.csv is completed.
+Total observations have been read: 501.
+Reading training data for station WeisdaleMi.SG.ir.O took 0.0143001 minutes of CPU time.
+File data\nura\nurafl1.csv opened correctly.
+Data in put from file data\nura\nurafl1.csv is completed.
+Total observations have been read: 405.
+Reading training data for station WeisdaleMi.SG.ir.O took 0.0117001 minutes of CPU time.
+No. 1: test set for station WeisdaleMi.SG.ir.O contains 405 observations.
+No. 1: generating training set for station WeisdaleMi.SG.ir.O ... 
+No. 1: training set 1 for station WeisdaleMi.SG.ir.O contains 501 observations.
+No. 1: training the negative election for station WeisdaleMi.SG.ir.O ... 
+#1 (WeisdaleMi.SG.ir.O): 405 observations.
+#1 (WeisdaleMi.SG.ir.O): 231 self, 79 non-self and 95 unavailable.
+#1 (WeisdaleMi.SG.ir.O): sliding window has size 96.
+-------------------------------------------------------------
+Negative selection for station WeisdaleMi.SG.ir.O took 0.0837205 minutes of CPU time.
+-------------------------------------------------------------
+Plotting the flood data and labels ...
+Plotting the training set and its labels ...
+
+ans =
+
+   21.9933
+
+File data\sepa\WeisdaleBurn150222-27.csv opened correctly.
+Data in put from file data\sepa\WeisdaleBurn150222-27.csv is completed.
+Total observations have been read: 501.
+Reading training data for station WeisdaleMi.SG.ir.O took 0.0143001 minutes of CPU time.
+File data\nura\nurafl1.csv opened correctly.
+Data in put from file data\nura\nurafl1.csv is completed.
+Total observations have been read: 405.
+Reading training data for station WeisdaleMi.SG.ir.O took 0.0119601 minutes of CPU time.
+No. 1: test set for station WeisdaleMi.SG.ir.O contains 405 observations.
+No. 1: generating training set for station WeisdaleMi.SG.ir.O ... 
+No. 1: training set 1 for station WeisdaleMi.SG.ir.O contains 501 observations.
+No. 1: training the negative election for station WeisdaleMi.SG.ir.O ... 
+#1 (WeisdaleMi.SG.ir.O): 405 observations.
+#1 (WeisdaleMi.SG.ir.O): 231 self, 79 non-self and 95 unavailable.
+#1 (WeisdaleMi.SG.ir.O): sliding window has size 96.
+-------------------------------------------------------------
+Negative selection for station WeisdaleMi.SG.ir.O took 0.0824205 minutes of CPU time.
+-------------------------------------------------------------
+Plotting the flood data and labels ...
+Plotting the training set and its labels ...
+File data\sepa\WeisdaleBurn150222-27.csv opened correctly.
+Data in put from file data\sepa\WeisdaleBurn150222-27.csv is completed.
+Total observations have been read: 501.
+Reading training data for station WeisdaleMi.SG.ir.O took 0.0158601 minutes of CPU time.
+File data\nura\nurafl1.csv opened correctly.
+Data in put from file data\nura\nurafl1.csv is completed.
+Total observations have been read: 405.
+Reading training data for station WeisdaleMi.SG.ir.O took 0.0117001 minutes of CPU time.
+No. 1: test set for station WeisdaleMi.SG.ir.O contains 405 observations.
+No. 1: generating training set for station WeisdaleMi.SG.ir.O ... 
+No. 1: training set 1 for station WeisdaleMi.SG.ir.O contains 501 observations.
+No. 1: training the negative election for station WeisdaleMi.SG.ir.O ... 
+#1 (WeisdaleMi.SG.ir.O): 405 observations.
+#1 (WeisdaleMi.SG.ir.O): 231 self, 79 non-self and 95 unavailable.
+#1 (WeisdaleMi.SG.ir.O): sliding window has size 96.
+-------------------------------------------------------------
+Negative selection for station WeisdaleMi.SG.ir.O took 0.0842405 minutes of CPU time.
+-------------------------------------------------------------
+Plotting the flood data and labels ...
+Plotting the training set and its labels ...
+File data\sepa\WeisdaleBurn150222-27.csv opened correctly.
+Data in put from file data\sepa\WeisdaleBurn150222-27.csv is completed.
+Total observations have been read: 501.
+Reading training data for station WeisdaleMi.SG.ir.O took 0.0150801 minutes of CPU time.
+File data\nura\nurafl1.csv opened correctly.
+Data in put from file data\nura\nurafl1.csv is completed.
+Total observations have been read: 405.
+Reading training data for station WeisdaleMi.SG.ir.O took 0.0124801 minutes of CPU time.
+No. 1: test set for station WeisdaleMi.SG.ir.O contains 405 observations.
+No. 1: generating training set for station WeisdaleMi.SG.ir.O ... 
+No. 1: training set 1 for station WeisdaleMi.SG.ir.O contains 501 observations.
+No. 1: training the negative election for station WeisdaleMi.SG.ir.O ... 
+#1 (WeisdaleMi.SG.ir.O): 405 observations.
+#1 (WeisdaleMi.SG.ir.O): 231 self, 79 non-self and 95 unavailable.
+#1 (WeisdaleMi.SG.ir.O): sliding window has size 96.
+-------------------------------------------------------------
+Negative selection for station WeisdaleMi.SG.ir.O took 0.0852805 minutes of CPU time.
+-------------------------------------------------------------
+Plotting the flood data and labels ...
+Plotting the training set and its labels ...
+File data\sepa\WeisdaleBurn150222-27.csv opened correctly.
+Data in put from file data\sepa\WeisdaleBurn150222-27.csv is completed.
+Total observations have been read: 501.
+Reading training data for station WeisdaleMi.SG.ir.O took 0.0148201 minutes of CPU time.
+File data\nura\nurafl1.csv opened correctly.
+Data in put from file data\nura\nurafl1.csv is completed.
+Total observations have been read: 405.
+Reading training data for station WeisdaleMi.SG.ir.O took 0.0117001 minutes of CPU time.
+No. 1: test set for station WeisdaleMi.SG.ir.O contains 405 observations.
+No. 1: generating training set for station WeisdaleMi.SG.ir.O ... 
+No. 1: training set 1 for station WeisdaleMi.SG.ir.O contains 501 observations.
+No. 1: training the negative election for station WeisdaleMi.SG.ir.O ... 
+#1 (WeisdaleMi.SG.ir.O): 405 observations.
+#1 (WeisdaleMi.SG.ir.O): 231 self, 79 non-self and 95 unavailable.
+#1 (WeisdaleMi.SG.ir.O): sliding window has size 96.
+-------------------------------------------------------------
+Negative selection for station WeisdaleMi.SG.ir.O took 0.0834605 minutes of CPU time.
+-------------------------------------------------------------
+Plotting the flood data and labels ...
+Plotting the training set and its labels ...
+File data\sepa\WeisdaleBurn150222-27.csv opened correctly.
+Data in put from file data\sepa\WeisdaleBurn150222-27.csv is completed.
+Total observations have been read: 501.
+Reading training data for station WeisdaleMi.SG.ir.O took 0.0145601 minutes of CPU time.
+File data\nura\nurafl1.csv opened correctly.
+Data in put from file data\nura\nurafl1.csv is completed.
+Total observations have been read: 405.
+Reading training data for station WeisdaleMi.SG.ir.O took 0.0117001 minutes of CPU time.
+No. 1: test set for station WeisdaleMi.SG.ir.O contains 405 observations.
+No. 1: generating training set for station WeisdaleMi.SG.ir.O ... 
+No. 1: training set 1 for station WeisdaleMi.SG.ir.O contains 501 observations.
+No. 1: training the negative election for station WeisdaleMi.SG.ir.O ... 
+#1 (WeisdaleMi.SG.ir.O): 405 observations.
+#1 (WeisdaleMi.SG.ir.O): 231 self, 79 non-self and 95 unavailable.
+#1 (WeisdaleMi.SG.ir.O): sliding window has size 96.
+-------------------------------------------------------------
+Negative selection for station WeisdaleMi.SG.ir.O took 0.0837205 minutes of CPU time.
+-------------------------------------------------------------
+Plotting the flood data and labels ...
+Plotting the training set and its labels ...
+File data\sepa\WeisdaleBurn150222-27.csv opened correctly.
+Data in put from file data\sepa\WeisdaleBurn150222-27.csv is completed.
+Total observations have been read: 501.
+Reading training data for station WeisdaleMi.SG.ir.O took 0.0153401 minutes of CPU time.
+File data\nura\nurafl1.csv opened correctly.
+Data in put from file data\nura\nurafl1.csv is completed.
+Total observations have been read: 405.
+Reading training data for station WeisdaleMi.SG.ir.O took 0.0119601 minutes of CPU time.
+No. 1: test set for station WeisdaleMi.SG.ir.O contains 405 observations.
+No. 1: generating training set for station WeisdaleMi.SG.ir.O ... 
+No. 1: training set 1 for station WeisdaleMi.SG.ir.O contains 501 observations.
+No. 1: training the negative election for station WeisdaleMi.SG.ir.O ... 
+#1 (WeisdaleMi.SG.ir.O): 405 observations.
+#1 (WeisdaleMi.SG.ir.O): 231 self, 79 non-self and 95 unavailable.
+#1 (WeisdaleMi.SG.ir.O): sliding window has size 96.
+-------------------------------------------------------------
+Negative selection for station WeisdaleMi.SG.ir.O took 0.0852805 minutes of CPU time.
+-------------------------------------------------------------
+Plotting the flood data and labels ...
+Plotting the training set and its labels ...
+File data\sepa\WeisdaleBurn150222-27.csv opened correctly.
+Data in put from file data\sepa\WeisdaleBurn150222-27.csv is completed.
+Total observations have been read: 501.
+Reading training data for station WeisdaleMi.SG.ir.O took 0.0148201 minutes of CPU time.
+File data\nura\nurafl1.csv opened correctly.
+Data in put from file data\nura\nurafl1.csv is completed.
+Total observations have been read: 405.
+Reading training data for station WeisdaleMi.SG.ir.O took 0.0119601 minutes of CPU time.
+No. 1: test set for station WeisdaleMi.SG.ir.O contains 405 observations.
+No. 1: generating training set for station WeisdaleMi.SG.ir.O ... 
+No. 1: training set 1 for station WeisdaleMi.SG.ir.O contains 501 observations.
+No. 1: training the negative election for station WeisdaleMi.SG.ir.O ... 
+#1 (WeisdaleMi.SG.ir.O): 405 observations.
+#1 (WeisdaleMi.SG.ir.O): 231 self, 79 non-self and 95 unavailable.
+#1 (WeisdaleMi.SG.ir.O): sliding window has size 96.
+-------------------------------------------------------------
+Negative selection for station WeisdaleMi.SG.ir.O took 0.0834605 minutes of CPU time.
+-------------------------------------------------------------
+Plotting the flood data and labels ...
+Plotting the training set and its labels ...
+File data\sepa\WeisdaleBurn150222-27.csv opened correctly.
+Data in put from file data\sepa\WeisdaleBurn150222-27.csv is completed.
+Total observations have been read: 501.
+Reading training data for station WeisdaleMi.SG.ir.O took 0.0150801 minutes of CPU time.
+File data\nura\nurafl1.csv opened correctly.
+Data in put from file data\nura\nurafl1.csv is completed.
+Total observations have been read: 405.
+Reading training data for station WeisdaleMi.SG.ir.O took 0.0117001 minutes of CPU time.
+No. 1: test set for station WeisdaleMi.SG.ir.O contains 405 observations.
+No. 1: generating training set for station WeisdaleMi.SG.ir.O ... 
+No. 1: training set 1 for station WeisdaleMi.SG.ir.O contains 501 observations.
+No. 1: training the negative election for station WeisdaleMi.SG.ir.O ... 
+#1 (WeisdaleMi.SG.ir.O): 405 observations.
+#1 (WeisdaleMi.SG.ir.O): 231 self, 79 non-self and 95 unavailable.
+#1 (WeisdaleMi.SG.ir.O): sliding window has size 96.
+-------------------------------------------------------------
+Negative selection for station WeisdaleMi.SG.ir.O took 0.0850205 minutes of CPU time.
+-------------------------------------------------------------
+Plotting the flood data and labels ...
+Plotting the training set and its labels ...
+File data\sepa\WeisdaleBurn150222-27.csv opened correctly.
+Data in put from file data\sepa\WeisdaleBurn150222-27.csv is completed.
+Total observations have been read: 501.
+Reading training data for station WeisdaleMi.SG.ir.O took 0.0150801 minutes of CPU time.
+File data\nura\nurafl1.csv opened correctly.
+Data in put from file data\nura\nurafl1.csv is completed.
+Total observations have been read: 405.
+Reading training data for station WeisdaleMi.SG.ir.O took 0.0122201 minutes of CPU time.
+No. 1: test set for station WeisdaleMi.SG.ir.O contains 405 observations.
+No. 1: generating training set for station WeisdaleMi.SG.ir.O ... 
+No. 1: training set 1 for station WeisdaleMi.SG.ir.O contains 501 observations.
+No. 1: training the negative election for station WeisdaleMi.SG.ir.O ... 
+#1 (WeisdaleMi.SG.ir.O): 405 observations.
+#1 (WeisdaleMi.SG.ir.O): 231 self, 79 non-self and 95 unavailable.
+#1 (WeisdaleMi.SG.ir.O): sliding window has size 96.
+-------------------------------------------------------------
+Negative selection for station WeisdaleMi.SG.ir.O took 0.0855405 minutes of CPU time.
+-------------------------------------------------------------
+Plotting the flood data and labels ...
+Plotting the training set and its labels ...
+File data\sepa\WeisdaleBurn150222-27.csv opened correctly.
+Data in put from file data\sepa\WeisdaleBurn150222-27.csv is completed.
+Total observations have been read: 501.
+Reading training data for station WeisdaleMi.SG.ir.O took 0.0145601 minutes of CPU time.
+File data\nura\nurafl1.csv opened correctly.
+Data in put from file data\nura\nurafl1.csv is completed.
+Total observations have been read: 405.
+Reading training data for station WeisdaleMi.SG.ir.O took 0.0122201 minutes of CPU time.
+No. 1: test set for station WeisdaleMi.SG.ir.O contains 405 observations.
+No. 1: generating training set for station WeisdaleMi.SG.ir.O ... 
+No. 1: training set 1 for station WeisdaleMi.SG.ir.O contains 501 observations.
+No. 1: training the negative election for station WeisdaleMi.SG.ir.O ... 
+#1 (WeisdaleMi.SG.ir.O): 405 observations.
+#1 (WeisdaleMi.SG.ir.O): 231 self, 79 non-self and 95 unavailable.
+#1 (WeisdaleMi.SG.ir.O): sliding window has size 96.
+-------------------------------------------------------------
+Negative selection for station WeisdaleMi.SG.ir.O took 0.0845005 minutes of CPU time.
+-------------------------------------------------------------
+Plotting the flood data and labels ...
+Plotting the training set and its labels ...
+[Warning: Ignoring extra legend entries.] 
+[> In <a href="matlab: opentoline('C:\Program Files\MATLAB\R2013a\toolbox\matlab\scribe\legend.m',286,1)">legend at 286</a>
+  In <a href="matlab: opentoline('C:\Andriy\work\sepa123demo\weisdaleburn_test.m',184,1)">weisdaleburn_test at 184</a>] 
+File data\sepa\WeisdaleBurn150222-27.csv opened correctly.
+Data in put from file data\sepa\WeisdaleBurn150222-27.csv is completed.
+Total observations have been read: 501.
+Reading training data for station WeisdaleMi.SG.ir.O took 0.0153401 minutes of CPU time.
+File data\nura\nurafl1.csv opened correctly.
+Data in put from file data\nura\nurafl1.csv is completed.
+Total observations have been read: 405.
+Reading training data for station WeisdaleMi.SG.ir.O took 0.0119601 minutes of CPU time.
+No. 1: test set for station WeisdaleMi.SG.ir.O contains 405 observations.
+No. 1: generating training set for station WeisdaleMi.SG.ir.O ... 
+No. 1: training set 1 for station WeisdaleMi.SG.ir.O contains 501 observations.
+No. 1: training the negative election for station WeisdaleMi.SG.ir.O ... 
+#1 (WeisdaleMi.SG.ir.O): 405 observations.
+#1 (WeisdaleMi.SG.ir.O): 231 self, 79 non-self and 95 unavailable.
+#1 (WeisdaleMi.SG.ir.O): sliding window has size 96.
+-------------------------------------------------------------
+Negative selection for station WeisdaleMi.SG.ir.O took 0.0858005 minutes of CPU time.
+-------------------------------------------------------------
+Plotting the flood data and labels ...
+Plotting the training set and its labels ...
+File data\sepa\WeisdaleBurn150222-27.csv opened correctly.
+Data in put from file data\sepa\WeisdaleBurn150222-27.csv is completed.
+Total observations have been read: 501.
+Reading training data for station WeisdaleMi.SG.ir.O took 0.0148201 minutes of CPU time.
+File data\nura\nurafl1.csv opened correctly.
+Data in put from file data\nura\nurafl1.csv is completed.
+Total observations have been read: 405.
+Reading training data for station WeisdaleMi.SG.ir.O took 0.0122201 minutes of CPU time.
+No. 1: test set for station WeisdaleMi.SG.ir.O contains 405 observations.
+No. 1: generating training set for station WeisdaleMi.SG.ir.O ... 
+No. 1: training set 1 for station WeisdaleMi.SG.ir.O contains 501 observations.
+No. 1: training the negative election for station WeisdaleMi.SG.ir.O ... 
+#1 (WeisdaleMi.SG.ir.O): 405 observations.
+#1 (WeisdaleMi.SG.ir.O): 231 self, 79 non-self and 95 unavailable.
+#1 (WeisdaleMi.SG.ir.O): sliding window has size 96.
+-------------------------------------------------------------
+Negative selection for station WeisdaleMi.SG.ir.O took 0.0915206 minutes of CPU time.
+-------------------------------------------------------------
+Plotting the flood data and labels ...
+Plotting the training set and its labels ...
+File data\sepa\WeisdaleBurn150222-27.csv opened correctly.
+Data in put from file data\sepa\WeisdaleBurn150222-27.csv is completed.
+Total observations have been read: 501.
+Reading training data for station WeisdaleMi.SG.ir.O took 0.0210601 minutes of CPU time.
+File data\nura\nurafl1.csv opened correctly.
+Data in put from file data\nura\nurafl1.csv is completed.
+Total observations have been read: 405.
+Reading training data for station WeisdaleMi.SG.ir.O took 0.0156001 minutes of CPU time.
+No. 1: test set for station WeisdaleMi.SG.ir.O contains 405 observations.
+No. 1: generating training set for station WeisdaleMi.SG.ir.O ... 
+No. 1: training set 1 for station WeisdaleMi.SG.ir.O contains 501 observations.
+No. 1: training the negative election for station WeisdaleMi.SG.ir.O ... 
+#1 (WeisdaleMi.SG.ir.O): 405 observations.
+#1 (WeisdaleMi.SG.ir.O): 231 self, 79 non-self and 95 unavailable.
+#1 (WeisdaleMi.SG.ir.O): sliding window has size 96.
+-------------------------------------------------------------
+Negative selection for station WeisdaleMi.SG.ir.O took 0.114661 minutes of CPU time.
+-------------------------------------------------------------
+Plotting the flood data and labels ...
+Plotting the training set and its labels ...
+File data\sepa\WeisdaleBurn150222-27.csv opened correctly.
+Data in put from file data\sepa\WeisdaleBurn150222-27.csv is completed.
+Total observations have been read: 501.
+Reading training data for station WeisdaleMi.SG.ir.O took 0.0166401 minutes of CPU time.
+File data\nura\nurafl1.csv opened correctly.
+Data in put from file data\nura\nurafl1.csv is completed.
+Total observations have been read: 405.
+Reading training data for station WeisdaleMi.SG.ir.O took 0.0137801 minutes of CPU time.
+No. 1: test set for station WeisdaleMi.SG.ir.O contains 405 observations.
+No. 1: generating training set for station WeisdaleMi.SG.ir.O ... 
+No. 1: training set 1 for station WeisdaleMi.SG.ir.O contains 501 observations.
+No. 1: training the negative election for station WeisdaleMi.SG.ir.O ... 
+#1 (WeisdaleMi.SG.ir.O): 405 observations.
+#1 (WeisdaleMi.SG.ir.O): 231 self, 79 non-self and 95 unavailable.
+#1 (WeisdaleMi.SG.ir.O): sliding window has size 96.
+-------------------------------------------------------------
+Negative selection for station WeisdaleMi.SG.ir.O took 0.113101 minutes of CPU time.
+-------------------------------------------------------------
+Plotting the flood data and labels ...
+Plotting the training set and its labels ...
+File data\sepa\WeisdaleBurn150222-27.csv opened correctly.
+Data in put from file data\sepa\WeisdaleBurn150222-27.csv is completed.
+Total observations have been read: 501.
+Reading training data for station WeisdaleMi.SG.ir.O took 0.0163801 minutes of CPU time.
+File data\nura\nurafl1.csv opened correctly.
+Data in put from file data\nura\nurafl1.csv is completed.
+Total observations have been read: 405.
+Reading training data for station WeisdaleMi.SG.ir.O took 0.0140401 minutes of CPU time.
+No. 1: test set for station WeisdaleMi.SG.ir.O contains 405 observations.
+No. 1: generating training set for station WeisdaleMi.SG.ir.O ... 
+No. 1: training set 1 for station WeisdaleMi.SG.ir.O contains 501 observations.
+No. 1: training the negative election for station WeisdaleMi.SG.ir.O ... 
+#1 (WeisdaleMi.SG.ir.O): 405 observations.
+#1 (WeisdaleMi.SG.ir.O): 231 self, 79 non-self and 95 unavailable.
+#1 (WeisdaleMi.SG.ir.O): sliding window has size 96.
+-------------------------------------------------------------
+Negative selection for station WeisdaleMi.SG.ir.O took 0.112841 minutes of CPU time.
+-------------------------------------------------------------
+Plotting the flood data and labels ...
+Plotting the training set and its labels ...
+File data\sepa\WeisdaleBurn150222-27.csv opened correctly.
+Data in put from file data\sepa\WeisdaleBurn150222-27.csv is completed.
+Total observations have been read: 501.
+Reading training data for station WeisdaleMi.SG.ir.O took 0.0171601 minutes of CPU time.
+File data\nura\nurafl1.csv opened correctly.
+Data in put from file data\nura\nurafl1.csv is completed.
+Total observations have been read: 405.
+Reading training data for station WeisdaleMi.SG.ir.O took 0.0137801 minutes of CPU time.
+No. 1: test set for station WeisdaleMi.SG.ir.O contains 405 observations.
+No. 1: generating training set for station WeisdaleMi.SG.ir.O ... 
+No. 1: training set 1 for station WeisdaleMi.SG.ir.O contains 501 observations.
+No. 1: training the negative election for station WeisdaleMi.SG.ir.O ... 
+#1 (WeisdaleMi.SG.ir.O): 405 observations.
+#1 (WeisdaleMi.SG.ir.O): 231 self, 79 non-self and 95 unavailable.
+#1 (WeisdaleMi.SG.ir.O): sliding window has size 96.
+-------------------------------------------------------------
+Negative selection for station WeisdaleMi.SG.ir.O took 0.112581 minutes of CPU time.
+-------------------------------------------------------------
+Plotting the flood data and labels ...
+Plotting the training set and its labels ...

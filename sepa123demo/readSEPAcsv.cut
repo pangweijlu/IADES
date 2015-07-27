@@ -1,0 +1,69 @@
+if (count > 0)
+                st_No = st_No + 1;
+                st_Data{st_No} = levels;
+                st_Names{st_No} = snm;
+                disp(sprintf('Data input for station %d (%s) is over.', st_No, snm));
+                disp(sprintf('Total observations: %d.', count));
+                
+                count = 0;
+                levels = [];
+                snm = '';
+                date_srl = [];
+                time_hh = [];
+                time_mm = [];   
+                time_ss = [];
+                
+            else
+                snm_pos = strfind(tline, 'TSNAME');
+                % st_No = st_No + 1;
+                % st_Names{st_No + 1} = levels;
+                if length(snm_pos) > 0
+                    snm_i = 6;
+                    while(((snm_pos + snm_i) <= length(tline)) ...
+                            && (tline(snm_pos + snm_i) ~= ';'))
+                        snm_i = snm_i + 1;
+                    end
+                    snm_i = snm_i - 1;
+                    if ((snm_pos + snm_i) <= length(tline))
+                        snm = tline((snm_pos + 6):(snm_pos + snm_i));
+                    end
+                end
+            end
+
+
+if (count > 0)
+        st_No = st_No + 1;
+        st_Data{st_No} = levels;
+        st_Names{st_No} = snm;
+        fprintf('Data input for station %d (%s) is over.\n', st_No, snm);
+        fprintf('Total observations: %d.\n', count);
+    end
+    
+% 08/03/2015
+ while ischar(tline)
+     count = count + 1;
+     tmpstr = strsplit(tline);
+     
+     % check if the line cotains at least three values
+     if (length(tmpstr) < 2) && (length(tmpstr{1}) ~= 10)
+         error('Wrong date format!');
+     else
+         % fprintf('#%d: %s %s\n', count, tmpstr{1}, tmpstr{2});
+         date_srl(count) = datenum(sprintf('%s-%s-%s', tmpstr{1}(7:10), ...
+             tmpstr{1}(4:5), tmpstr{1}(1:2)), 'yyyy-mm-dd');
+     end
+     
+     tmlvl = strsplit(tmpstr{2}, ',');
+     if (length(tmplvl) < 2) && (length(tmlvl{1}) ~= 5)
+         error('Wrong time format!');
+     else
+         % fprintf('#%d: %s %s\n', count, tmlvl{1}, tmlvl{2});
+         time_hh(count) = str2num(tmlvl{1}(1:2));
+         time_mm(count) = str2num(tmlvl{1}(4:5));
+         % time_ss(count) = str2num(tmpstr{1}(13:14));
+     end
+     
+     levels(count) = str2num(tmlvl{2});
+     tline = fgetl(fid);
+ end
+     

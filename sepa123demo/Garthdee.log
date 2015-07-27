@@ -1,0 +1,14 @@
+clear all
+testDeeStation('Garthdee');
+No. 1: test set for station Garthdee.SG.ir.O contains 170110 observations.
+No. 1: generating training set for station Garthdee.SG.ir.O ... 
+No. 1: training set 1 for station Garthdee.SG.ir.O contains 693 observations.
+No. 1: training the negative election for station Garthdee.SG.ir.O ... 
+#1 (Garthdee.SG.ir.O): 170110 observations.
+#1 (Garthdee.SG.ir.O): 144018 self, 25997 non-self and 95 unavailable.
+#1 (Garthdee.SG.ir.O): sliding window has size 96.
+-------------------------------------------------------------
+Negative selection for station Garthdee.SG.ir.O took 2.70064 minutes of CPU time.
+-------------------------------------------------------------
+Plotting the flood data and labels ...
+Plotting the training set and its labels ...

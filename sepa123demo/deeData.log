@@ -1,0 +1,45 @@
+Reading 2 collections ..\deeData\DeeData1\ ...
+File ..\deeData\DeeData1\Garthdee.SG.zrx opened correctly.
+Header block is by-passed.
+Input of river levels for station 1 (Garthdee) is over.
+First: 03-Dec-2008 11:15:00. Last: 10-Oct-2013 15:00:00. Total: 170110.
+Data in put from file ..\deeData\DeeData1\Garthdee.SG.zrx is completed.
+In total, observations from 1 stations were read.
+Reading data Garthdee.SG took 3.22506 minutes of CPU time.
+Observations for station Garthdee have been saved in Garthdee.SG.mat file
+File ..\deeData\DeeData1\Mar Lodge.SG.zrx opened correctly.
+Header block is by-passed.
+Input of river levels for station 1 (Mar Lodge) is over.
+First: 01-Jan-2000. Last: 10-Oct-2013 04:45:00. Total: 482996.
+Data in put from file ..\deeData\DeeData1\Mar Lodge.SG.zrx is completed.
+In total, observations from 1 stations were read.
+Reading data Mar Lodge.SG took 8.71604 minutes of CPU time.
+Observations for station Mar Lodge have been saved in Mar Lodge.SG.mat file
+Collections ..\deeData\DeeData1\ have been input.
+Reading 2 collections ..\deeData\DeeData2\ ...
+File ..\deeData\DeeData2\Park.SG.zrx opened correctly.
+Header block is by-passed.
+Input of river levels for station 1 (Park) is over.
+First: 01-Jan-2000. Last: 10-Oct-2013 05:00:00. Total: 482997.
+Data in put from file ..\deeData\DeeData2\Park.SG.zrx is completed.
+In total, observations from 1 stations were read.
+Reading data Park.SG took 8.59618 minutes of CPU time.
+Observations for station Park have been saved in Park.SG.mat file
+File ..\deeData\DeeData2\Polhollick.SG.zrx opened correctly.
+Header block is by-passed.
+Input of river levels for station 1 (Polhollick) is over.
+First: 01-Jan-2000. Last: 10-Oct-2013 04:45:00. Total: 482996.
+Data in put from file ..\deeData\DeeData2\Polhollick.SG.zrx is completed.
+In total, observations from 1 stations were read.
+Reading data Polhollick.SG took 8.73736 minutes of CPU time.
+Observations for station Polhollick have been saved in Polhollick.SG.mat file
+Collections ..\deeData\DeeData2\ have been input.
+Reading 2 collections ..\deeData\DeeData3\ ...
+File ..\deeData\DeeData3\Woodend.SG.zrx opened correctly.
+Header block is by-passed.
+Input of river levels for station 1 (Woodend) is over.
+First: 01-Jan-2000. Last: 10-Oct-2013 04:45:00. Total: 482996.
+Data in put from file ..\deeData\DeeData3\Woodend.SG.zrx is completed.
+In total, observations from 1 stations were read.
+Reading data Woodend.SG took 8.7475 minutes of CPU time.
+Observations for station Woodend have been saved in Woodend.SG.mat file

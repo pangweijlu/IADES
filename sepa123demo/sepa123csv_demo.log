@@ -1,0 +1,2471 @@
+File data\WeisdaleBurn Station.csv opened correctly.
+Data in put from file data\WeisdaleBurn Station.csv is completed.
+Total observations have been read: 927.
+Reading data for station WeisdaleMi.SG.ir.O took 0.0286002 minutes of CPU time.
+File data\WeisdaleBurn Station.csv opened correctly.
+Data in put from file data\WeisdaleBurn Station.csv is completed.
+Total observations have been read: 927.
+Reading data for station WeisdaleMi.SG.ir.O took 0.0267802 minutes of CPU time.
+No. 1: test set for station WeisdaleMi.SG.ir.O contains 927 observations.
+No. 1: generating training set for station WeisdaleMi.SG.ir.O ... 
+No. 1: training set 1 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 2 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 3 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training the negative election for station WeisdaleMi.SG.ir.O ... 
+
+tst_self = 
+
+    [832x1 double]
+
+File data\WeisdaleBurn Station.csv opened correctly.
+Data in put from file data\WeisdaleBurn Station.csv is completed.
+Total observations have been read: 927.
+Reading data for station WeisdaleMi.SG.ir.O took 0.0278202 minutes of CPU time.
+No. 1: test set for station WeisdaleMi.SG.ir.O contains 927 observations.
+No. 1: generating training set for station WeisdaleMi.SG.ir.O ... 
+No. 1: training set 1 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 2 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 3 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training the negative election for station WeisdaleMi.SG.ir.O ... 
+Negative selection for station WeisdaleMi.SG.ir.O took 0.178101 minutes of CPU time.
+There are 552 non-self out of total 832 observations.
+#1 (WeisdaleMi.SG.ir.O): 927 observations.
+#1 (WeisdaleMi.SG.ir.O): 692 self, 140 non-self and 95 unavailable.
+#1 (WeisdaleMi.SG.ir.O): sliding window has size 96.
+-------------------------------------------------------------
+File data\WeisdaleBurn Station.csv opened correctly.
+Data in put from file data\WeisdaleBurn Station.csv is completed.
+Total observations have been read: 927.
+Reading data for station WeisdaleMi.SG.ir.O took 0.0275602 minutes of CPU time.
+No. 1: test set for station WeisdaleMi.SG.ir.O contains 927 observations.
+No. 1: generating training set for station WeisdaleMi.SG.ir.O ... 
+No. 1: training set 1 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 2 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 3 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training the negative election for station WeisdaleMi.SG.ir.O ... 
+Negative selection for station WeisdaleMi.SG.ir.O took 0.170041 minutes of CPU time.
+#1 (WeisdaleMi.SG.ir.O): 927 observations.
+#1 (WeisdaleMi.SG.ir.O): 692 self, 140 non-self and 95 unavailable.
+#1 (WeisdaleMi.SG.ir.O): sliding window has size 96.
+-------------------------------------------------------------
+File data\WeisdaleBurn Station.csv opened correctly.
+Data in put from file data\WeisdaleBurn Station.csv is completed.
+Total observations have been read: 927.
+Reading data for station WeisdaleMi.SG.ir.O took 0.0275602 minutes of CPU time.
+No. 1: test set for station WeisdaleMi.SG.ir.O contains 927 observations.
+No. 1: generating training set for station WeisdaleMi.SG.ir.O ... 
+No. 1: training set 1 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 2 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 3 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training the negative election for station WeisdaleMi.SG.ir.O ... 
+Negative selection for station WeisdaleMi.SG.ir.O took 0.185641 minutes of CPU time.
+#1 (WeisdaleMi.SG.ir.O): 927 observations.
+#1 (WeisdaleMi.SG.ir.O): 692 self, 140 non-self and 95 unavailable.
+#1 (WeisdaleMi.SG.ir.O): sliding window has size 96.
+-------------------------------------------------------------
+File data\WeisdaleBurn Station.csv opened correctly.
+Data in put from file data\WeisdaleBurn Station.csv is completed.
+Total observations have been read: 927.
+Reading data for station WeisdaleMi.SG.ir.O took 0.0296402 minutes of CPU time.
+No. 1: test set for station WeisdaleMi.SG.ir.O contains 927 observations.
+No. 1: generating training set for station WeisdaleMi.SG.ir.O ... 
+No. 1: training set 1 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 2 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 3 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training the negative election for station WeisdaleMi.SG.ir.O ... 
+Negative selection for station WeisdaleMi.SG.ir.O took 0.182261 minutes of CPU time.
+{Undefined variable "tst_full" or class "tst_full".
+
+Error in <a href="matlab:helpUtils.errorDocCallback('sepa123csv_demo', 'C:\Andriy\work\sepa123demo\sepa123csv_demo.m', 52)" style="font-weight:bold">sepa123csv_demo</a> (<a href="matlab: opentoline('C:\Andriy\work\sepa123demo\sepa123csv_demo.m',52,0)">line 52</a>)
+bar(tst_full{1});
+} 
+sepa123csv_demo
+File data\WeisdaleBurn Station.csv opened correctly.
+Data in put from file data\WeisdaleBurn Station.csv is completed.
+Total observations have been read: 927.
+Reading data for station WeisdaleMi.SG.ir.O took 0.0275602 minutes of CPU time.
+No. 1: test set for station WeisdaleMi.SG.ir.O contains 927 observations.
+No. 1: generating training set for station WeisdaleMi.SG.ir.O ... 
+No. 1: training set 1 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 2 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 3 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training the negative election for station WeisdaleMi.SG.ir.O ... 
+Negative selection for station WeisdaleMi.SG.ir.O took 0.180441 minutes of CPU time.
+{Undefined function or variable 'levels_norm'.
+
+Error in <a href="matlab:helpUtils.errorDocCallback('sepa123csv_demo', 'C:\Andriy\work\sepa123demo\sepa123csv_demo.m', 58)" style="font-weight:bold">sepa123csv_demo</a> (<a href="matlab: opentoline('C:\Andriy\work\sepa123demo\sepa123csv_demo.m',58,0)">line 58</a>)
+levels_norm = (levels - mean(levels_norm))/std(levels_norm);
+} 
+diary off
+File data\WeisdaleBurn Station.csv opened correctly.
+Data in put from file data\WeisdaleBurn Station.csv is completed.
+Total observations have been read: 927.
+Reading data for station WeisdaleMi.SG.ir.O took 0.0283402 minutes of CPU time.
+No. 1: test set for station WeisdaleMi.SG.ir.O contains 927 observations.
+No. 1: generating training set for station WeisdaleMi.SG.ir.O ... 
+No. 1: training set 1 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 2 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 3 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training the negative election for station WeisdaleMi.SG.ir.O ... 
+Negative selection for station WeisdaleMi.SG.ir.O took 0.181481 minutes of CPU time.
+{Undefined function or variable 'levels_norm'.
+
+Error in <a href="matlab:helpUtils.errorDocCallback('sepa123csv_demo', 'C:\Andriy\work\sepa123demo\sepa123csv_demo.m', 58)" style="font-weight:bold">sepa123csv_demo</a> (<a href="matlab: opentoline('C:\Andriy\work\sepa123demo\sepa123csv_demo.m',58,0)">line 58</a>)
+levels_norm = (levels - mean(levels_norm))/std(levels_norm);
+} 
+sepa123csv_demo
+File data\WeisdaleBurn Station.csv opened correctly.
+Data in put from file data\WeisdaleBurn Station.csv is completed.
+Total observations have been read: 927.
+Reading data for station WeisdaleMi.SG.ir.O took 0.0278202 minutes of CPU time.
+No. 1: test set for station WeisdaleMi.SG.ir.O contains 927 observations.
+No. 1: generating training set for station WeisdaleMi.SG.ir.O ... 
+No. 1: training set 1 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 2 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 3 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training the negative election for station WeisdaleMi.SG.ir.O ... 
+Negative selection for station WeisdaleMi.SG.ir.O took 0.179661 minutes of CPU time.
+#1 (WeisdaleMi.SG.ir.O): 927 observations.
+#1 (WeisdaleMi.SG.ir.O): 692 self, 140 non-self and 95 unavailable.
+#1 (WeisdaleMi.SG.ir.O): sliding window has size 96.
+-------------------------------------------------------------
+File data\WeisdaleBurn Station.csv opened correctly.
+Data in put from file data\WeisdaleBurn Station.csv is completed.
+Total observations have been read: 927.
+Reading data for station WeisdaleMi.SG.ir.O took 0.0273002 minutes of CPU time.
+No. 1: test set for station WeisdaleMi.SG.ir.O contains 927 observations.
+No. 1: generating training set for station WeisdaleMi.SG.ir.O ... 
+No. 1: training set 1 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 2 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 3 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training the negative election for station WeisdaleMi.SG.ir.O ... 
+Negative selection for station WeisdaleMi.SG.ir.O took 0.179141 minutes of CPU time.
+#1 (WeisdaleMi.SG.ir.O): 927 observations.
+#1 (WeisdaleMi.SG.ir.O): 692 self, 140 non-self and 95 unavailable.
+#1 (WeisdaleMi.SG.ir.O): sliding window has size 96.
+-------------------------------------------------------------
+File data\WeisdaleBurn Station.csv opened correctly.
+Data in put from file data\WeisdaleBurn Station.csv is completed.
+Total observations have been read: 927.
+Reading data for station WeisdaleMi.SG.ir.O took 0.0275602 minutes of CPU time.
+No. 1: test set for station WeisdaleMi.SG.ir.O contains 927 observations.
+No. 1: generating training set for station WeisdaleMi.SG.ir.O ... 
+No. 1: training set 1 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 2 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 3 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training the negative election for station WeisdaleMi.SG.ir.O ... 
+Negative selection for station WeisdaleMi.SG.ir.O took 0.181481 minutes of CPU time.
+#1 (WeisdaleMi.SG.ir.O): 927 observations.
+#1 (WeisdaleMi.SG.ir.O): 692 self, 140 non-self and 95 unavailable.
+#1 (WeisdaleMi.SG.ir.O): sliding window has size 96.
+-------------------------------------------------------------
+File data\WeisdaleBurn Station.csv opened correctly.
+Data in put from file data\WeisdaleBurn Station.csv is completed.
+Total observations have been read: 927.
+Reading data for station WeisdaleMi.SG.ir.O took 0.0270402 minutes of CPU time.
+No. 1: test set for station WeisdaleMi.SG.ir.O contains 927 observations.
+No. 1: generating training set for station WeisdaleMi.SG.ir.O ... 
+No. 1: training set 1 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 2 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 3 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training the negative election for station WeisdaleMi.SG.ir.O ... 
+Negative selection for station WeisdaleMi.SG.ir.O took 0.185381 minutes of CPU time.
+{Undefined function or variable 'tst_name'.
+
+Error in <a href="matlab:helpUtils.errorDocCallback('sepa123csv_demo', 'C:\Andriy\work\sepa123demo\sepa123csv_demo.m', 51)" style="font-weight:bold">sepa123csv_demo</a> (<a href="matlab: opentoline('C:\Andriy\work\sepa123demo\sepa123csv_demo.m',51,0)">line 51</a>)
+s1_23labels = crossValidationSEPA123(s1_levels, tst_name, s2_data, s2_names, ...
+} 
+diary off
+File data\WeisdaleBurn Station.csv opened correctly.
+Data in put from file data\WeisdaleBurn Station.csv is completed.
+Total observations have been read: 927.
+Reading data for station WeisdaleMi.SG.ir.O took 0.0270402 minutes of CPU time.
+No. 1: test set for station WeisdaleMi.SG.ir.O contains 927 observations.
+No. 1: generating training set for station WeisdaleMi.SG.ir.O ... 
+No. 1: training set 1 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 2 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 3 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training the negative election for station WeisdaleMi.SG.ir.O ... 
+Negative selection for station WeisdaleMi.SG.ir.O took 0.180701 minutes of CPU time.
+{Cell contents reference from a non-cell array object.
+
+Error in <a href="matlab:helpUtils.errorDocCallback('crossValidationSEPA123', 'C:\Andriy\work\sepa123demo\crossValidationSEPA123.m', 12)" style="font-weight:bold">crossValidationSEPA123</a> (<a href="matlab: opentoline('C:\Andriy\work\sepa123demo\crossValidationSEPA123.m',12,0)">line 12</a>)
+         if (length(tst_data{ii}) < wind_sz)
+
+Error in <a href="matlab:helpUtils.errorDocCallback('sepa123csv_demo', 'C:\Andriy\work\sepa123demo\sepa123csv_demo.m', 51)" style="font-weight:bold">sepa123csv_demo</a> (<a href="matlab: opentoline('C:\Andriy\work\sepa123demo\sepa123csv_demo.m',51,0)">line 51</a>)
+s1_23labels = crossValidationSEPA123(s1_levels, tst_names, s2_data, s2_names, ...
+} 
+sepa123csv_demo
+File data\WeisdaleBurn Station.csv opened correctly.
+Data in put from file data\WeisdaleBurn Station.csv is completed.
+Total observations have been read: 927.
+Reading data for station WeisdaleMi.SG.ir.O took 0.0280802 minutes of CPU time.
+No. 1: test set for station WeisdaleMi.SG.ir.O contains 927 observations.
+No. 1: generating training set for station WeisdaleMi.SG.ir.O ... 
+No. 1: training set 1 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 2 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 3 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training the negative election for station WeisdaleMi.SG.ir.O ... 
+Negative selection for station WeisdaleMi.SG.ir.O took 0.182261 minutes of CPU time.
+No. 1: test set for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: generating training set for station WeisdaleMi.SG.ir.O ... 
+No. 1: training set 1 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 2 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training the negative election for station WeisdaleMi.SG.ir.O ... 
+Negative selection took 0.0990606 minutes of CPU time on set 1.
+#1 (WeisdaleMi.SG.ir.O): 927 observations.
+#1 (WeisdaleMi.SG.ir.O): 692 self, 140 non-self and 95 unavailable.
+#1 (WeisdaleMi.SG.ir.O): sliding window has size 96.
+-------------------------------------------------------------
+{Undefined function or variable 's_lbls'.
+
+Error in <a href="matlab:helpUtils.errorDocCallback('sepa123csv_demo', 'C:\Andriy\work\sepa123demo\sepa123csv_demo.m', 69)" style="font-weight:bold">sepa123csv_demo</a> (<a href="matlab: opentoline('C:\Andriy\work\sepa123demo\sepa123csv_demo.m',69,0)">line 69</a>)
+[~, s1_full] = SEPA123expandLabels(s_lbls, tst_data, tst_names, ...
+} 
+sepa123csv_demo
+File data\WeisdaleBurn Station.csv opened correctly.
+Data in put from file data\WeisdaleBurn Station.csv is completed.
+Total observations have been read: 927.
+Reading data for station WeisdaleMi.SG.ir.O took 0.0278202 minutes of CPU time.
+No. 1: test set for station WeisdaleMi.SG.ir.O contains 927 observations.
+No. 1: generating training set for station WeisdaleMi.SG.ir.O ... 
+No. 1: training set 1 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 2 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 3 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training the negative election for station WeisdaleMi.SG.ir.O ... 
+Negative selection for station WeisdaleMi.SG.ir.O took 0.182781 minutes of CPU time.
+No. 1: test set for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: generating training set for station WeisdaleMi.SG.ir.O ... 
+No. 1: training set 1 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 2 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training the negative election for station WeisdaleMi.SG.ir.O ... 
+Negative selection took 0.0860606 minutes of CPU time on set 1.
+No. 1: test set for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: generating training set for station WeisdaleMi.SG.ir.O ... 
+No. 1: training set 1 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 2 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training the negative election for station WeisdaleMi.SG.ir.O ... 
+Negative selection took 0.0925606 minutes of CPU time on set 2.
+No. 1: test set for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: generating training set for station WeisdaleMi.SG.ir.O ... 
+No. 1: training set 1 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 2 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training the negative election for station WeisdaleMi.SG.ir.O ... 
+Negative selection took 0.0821605 minutes of CPU time on set 3.
+#1 (WeisdaleMi.SG.ir.O): 927 observations.
+#1 (WeisdaleMi.SG.ir.O): 692 self, 140 non-self and 95 unavailable.
+#1 (WeisdaleMi.SG.ir.O): sliding window has size 96.
+-------------------------------------------------------------
+{Undefined function or variable 's_lbls'.
+
+Error in <a href="matlab:helpUtils.errorDocCallback('sepa123csv_demo', 'C:\Andriy\work\sepa123demo\sepa123csv_demo.m', 86)" style="font-weight:bold">sepa123csv_demo</a> (<a href="matlab: opentoline('C:\Andriy\work\sepa123demo\sepa123csv_demo.m',86,0)">line 86</a>)
+[~, s1_full] = SEPA123expandLabels(s_lbls, tst_data, tst_names, ...
+} 
+diary off
+File data\WeisdaleBurn Station.csv opened correctly.
+Data in put from file data\WeisdaleBurn Station.csv is completed.
+Total observations have been read: 927.
+Reading data for station WeisdaleMi.SG.ir.O took 0.0278202 minutes of CPU time.
+No. 1: test set for station WeisdaleMi.SG.ir.O contains 927 observations.
+No. 1: generating training set for station WeisdaleMi.SG.ir.O ... 
+No. 1: training set 1 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 2 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 3 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training the negative election for station WeisdaleMi.SG.ir.O ... 
+#1 (WeisdaleMi.SG.ir.O): 927 observations.
+#1 (WeisdaleMi.SG.ir.O): 692 self, 140 non-self and 95 unavailable.
+#1 (WeisdaleMi.SG.ir.O): sliding window has size 96.
+-------------------------------------------------------------
+Negative selection for station WeisdaleMi.SG.ir.O took 0.180181 minutes of CPU time.
+No. 1: test set for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: generating training set for station WeisdaleMi.SG.ir.O ... 
+No. 1: training set 1 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 2 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training the negative election for station WeisdaleMi.SG.ir.O ... 
+{Undefined function or variable 's1_lbls'.
+
+Error in <a href="matlab:helpUtils.errorDocCallback('sepa123csv_demo', 'C:\Andriy\work\sepa123demo\sepa123csv_demo.m', 58)" style="font-weight:bold">sepa123csv_demo</a> (<a href="matlab: opentoline('C:\Andriy\work\sepa123demo\sepa123csv_demo.m',58,0)">line 58</a>)
+[~, s1_full] = SEPA123expandLabels(s1_lbls, tst_data, tst_names, ...
+} 
+diary off
+File data\WeisdaleBurn Station.csv opened correctly.
+Data in put from file data\WeisdaleBurn Station.csv is completed.
+Total observations have been read: 927.
+Reading data for station WeisdaleMi.SG.ir.O took 0.0280802 minutes of CPU time.
+No. 1: test set for station WeisdaleMi.SG.ir.O contains 927 observations.
+No. 1: generating training set for station WeisdaleMi.SG.ir.O ... 
+No. 1: training set 1 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 2 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 3 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training the negative election for station WeisdaleMi.SG.ir.O ... 
+#1 (WeisdaleMi.SG.ir.O): 927 observations.
+#1 (WeisdaleMi.SG.ir.O): 692 self, 140 non-self and 95 unavailable.
+#1 (WeisdaleMi.SG.ir.O): sliding window has size 96.
+-------------------------------------------------------------
+Negative selection for station WeisdaleMi.SG.ir.O took 0.183301 minutes of CPU time.
+No. 1: test set for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: generating training set for station WeisdaleMi.SG.ir.O ... 
+No. 1: training set 1 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 2 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training the negative election for station WeisdaleMi.SG.ir.O ... 
+#1 (WeisdaleMi.SG.ir.O): 927 observations.
+#1 (WeisdaleMi.SG.ir.O): 185 self, 28 non-self and 714 unavailable.
+Negative selection took 0.0850205 minutes of CPU time on set 1.
+Paused ...
+{Operation terminated by user during <a href="matlab:helpUtils.errorDocCallback('sepa123csv_demo', 'C:\Andriy\work\sepa123demo\sepa123csv_demo.m', 67)" style="font-weight:bold">sepa123csv_demo</a> (<a href="matlab: opentoline('C:\Andriy\work\sepa123demo\sepa123csv_demo.m',67,0)">line 67</a>)
+
+} 
+quit
+File data\WeisdaleBurn Station.csv opened correctly.
+Data in put from file data\WeisdaleBurn Station.csv is completed.
+Total observations have been read: 927.
+Reading data for station WeisdaleMi.SG.ir.O took 0.0280802 minutes of CPU time.
+No. 1: test set for station WeisdaleMi.SG.ir.O contains 927 observations.
+No. 1: generating training set for station WeisdaleMi.SG.ir.O ... 
+No. 1: training set 1 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 2 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 3 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training the negative election for station WeisdaleMi.SG.ir.O ... 
+#1 (WeisdaleMi.SG.ir.O): 927 observations.
+#1 (WeisdaleMi.SG.ir.O): 692 self, 140 non-self and 95 unavailable.
+#1 (WeisdaleMi.SG.ir.O): sliding window has size 96.
+-------------------------------------------------------------
+Negative selection for station WeisdaleMi.SG.ir.O took 0.167181 minutes of CPU time.
+No. 1: test set for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: generating training set for station WeisdaleMi.SG.ir.O ... 
+No. 1: training set 1 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 2 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training the negative election for station WeisdaleMi.SG.ir.O ... 
+#1 (WeisdaleMi.SG.ir.O): 927 observations.
+#1 (WeisdaleMi.SG.ir.O): 185 self, 28 non-self and 714 unavailable.
+Negative selection took 0.0767005 minutes of CPU time on set 1.
+Paused ...
+No. 1: test set for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: generating training set for station WeisdaleMi.SG.ir.O ... 
+No. 1: training set 1 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 2 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training the negative election for station WeisdaleMi.SG.ir.O ... 
+Negative selection took 0.0728005 minutes of CPU time on set 2.
+No. 1: test set for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: generating training set for station WeisdaleMi.SG.ir.O ... 
+No. 1: training set 1 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 2 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training the negative election for station WeisdaleMi.SG.ir.O ... 
+Negative selection took 0.0748805 minutes of CPU time on set 3.
+Plotting the dataset and its labels.
+{Undefined function or variable 'st_names'.
+
+Error in <a href="matlab:helpUtils.errorDocCallback('sepa123csv_demo', 'C:\Andriy\work\sepa123demo\sepa123csv_demo.m', 109)" style="font-weight:bold">sepa123csv_demo</a> (<a href="matlab: opentoline('C:\Andriy\work\sepa123demo\sepa123csv_demo.m',109,0)">line 109</a>)
+s1_self = crossValidationSEPA123(tst_data, st_names, s2_data, ...
+} 
+sepa123csv_demo
+File data\WeisdaleBurn Station.csv opened correctly.
+Data in put from file data\WeisdaleBurn Station.csv is completed.
+Total observations have been read: 927.
+Reading data for station WeisdaleMi.SG.ir.O took 0.0275602 minutes of CPU time.
+No. 1: test set for station WeisdaleMi.SG.ir.O contains 927 observations.
+No. 1: generating training set for station WeisdaleMi.SG.ir.O ... 
+No. 1: training set 1 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 2 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 3 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training the negative election for station WeisdaleMi.SG.ir.O ... 
+#1 (WeisdaleMi.SG.ir.O): 927 observations.
+#1 (WeisdaleMi.SG.ir.O): 692 self, 140 non-self and 95 unavailable.
+#1 (WeisdaleMi.SG.ir.O): sliding window has size 96.
+-------------------------------------------------------------
+Negative selection for station WeisdaleMi.SG.ir.O took 0.165101 minutes of CPU time.
+-------------------------------------------------------------
+No. 1: test set for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 1 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 2 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training the negative election for station WeisdaleMi.SG.ir.O ... 
+#1 (WeisdaleMi.SG.ir.O): 308 observations.
+#1 (WeisdaleMi.SG.ir.O): 185 self, 28 non-self and 95 unavailable.
+#1 (WeisdaleMi.SG.ir.O): sliding window has size 96.
+-------------------------------------------------------------
+Negative selection took 0.0764405 minutes of CPU time on set 1.
+-------------------------------------------------------------
+Paused ...
+No. 1: test set for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 1 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 2 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training the negative election for station WeisdaleMi.SG.ir.O ... 
+#1 (WeisdaleMi.SG.ir.O): 308 observations.
+#1 (WeisdaleMi.SG.ir.O): 166 self, 47 non-self and 95 unavailable.
+#1 (WeisdaleMi.SG.ir.O): sliding window has size 96.
+-------------------------------------------------------------
+Negative selection took 0.0730605 minutes of CPU time on set 2.
+-------------------------------------------------------------
+Paused ...
+No. 1: test set for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 1 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 2 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training the negative election for station WeisdaleMi.SG.ir.O ... 
+#1 (WeisdaleMi.SG.ir.O): 308 observations.
+#1 (WeisdaleMi.SG.ir.O): 201 self, 12 non-self and 95 unavailable.
+#1 (WeisdaleMi.SG.ir.O): sliding window has size 96.
+-------------------------------------------------------------
+Negative selection took 0.0772205 minutes of CPU time on set 3.
+-------------------------------------------------------------
+Paused ...
+Plotting the dataset and its labels.
+{Undefined function or variable 'st_names'.
+
+Error in <a href="matlab:helpUtils.errorDocCallback('sepa123csv_demo', 'C:\Andriy\work\sepa123demo\sepa123csv_demo.m', 120)" style="font-weight:bold">sepa123csv_demo</a> (<a href="matlab: opentoline('C:\Andriy\work\sepa123demo\sepa123csv_demo.m',120,0)">line 120</a>)
+s1_self = crossValidationSEPA123(tst_data, st_names, s2_data, ...
+} 
+diary off
+File data\WeisdaleBurn Station.csv opened correctly.
+Data in put from file data\WeisdaleBurn Station.csv is completed.
+Total observations have been read: 927.
+Reading data for station WeisdaleMi.SG.ir.O took 0.0265202 minutes of CPU time.
+No. 1: test set for station WeisdaleMi.SG.ir.O contains 927 observations.
+No. 1: generating training set for station WeisdaleMi.SG.ir.O ... 
+No. 1: training set 1 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 2 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 3 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training the negative election for station WeisdaleMi.SG.ir.O ... 
+#1 (WeisdaleMi.SG.ir.O): 927 observations.
+#1 (WeisdaleMi.SG.ir.O): 692 self, 140 non-self and 95 unavailable.
+#1 (WeisdaleMi.SG.ir.O): sliding window has size 96.
+-------------------------------------------------------------
+Negative selection for station WeisdaleMi.SG.ir.O took 0.166401 minutes of CPU time.
+-------------------------------------------------------------
+No. 1: test set for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 1 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 2 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training the negative election for station WeisdaleMi.SG.ir.O ... 
+#1 (WeisdaleMi.SG.ir.O): 308 observations.
+#1 (WeisdaleMi.SG.ir.O): 185 self, 28 non-self and 95 unavailable.
+#1 (WeisdaleMi.SG.ir.O): sliding window has size 96.
+-------------------------------------------------------------
+Negative selection took 0.0767005 minutes of CPU time on set 1.
+-------------------------------------------------------------
+Paused ...
+No. 1: test set for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 1 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 2 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training the negative election for station WeisdaleMi.SG.ir.O ... 
+#1 (WeisdaleMi.SG.ir.O): 308 observations.
+#1 (WeisdaleMi.SG.ir.O): 166 self, 47 non-self and 95 unavailable.
+#1 (WeisdaleMi.SG.ir.O): sliding window has size 96.
+-------------------------------------------------------------
+Negative selection took 0.0759205 minutes of CPU time on set 2.
+-------------------------------------------------------------
+Paused ...
+No. 1: test set for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 1 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 2 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training the negative election for station WeisdaleMi.SG.ir.O ... 
+#1 (WeisdaleMi.SG.ir.O): 308 observations.
+#1 (WeisdaleMi.SG.ir.O): 201 self, 12 non-self and 95 unavailable.
+#1 (WeisdaleMi.SG.ir.O): sliding window has size 96.
+-------------------------------------------------------------
+Negative selection took 0.0764405 minutes of CPU time on set 3.
+-------------------------------------------------------------
+Paused ...
+Plotting the flood data and labels ...
+Plotting dataset 1 and its labels ...
+{Error using <a href="matlab:helpUtils.errorDocCallback('plot')" style="font-weight:bold">plot</a>
+Conversion to double from cell is not possible.
+
+Error in <a href="matlab:helpUtils.errorDocCallback('sepa123csv_demo', 'C:\Andriy\work\sepa123demo\sepa123csv_demo.m', 117)" style="font-weight:bold">sepa123csv_demo</a> (<a href="matlab: opentoline('C:\Andriy\work\sepa123demo\sepa123csv_demo.m',117,0)">line 117</a>)
+p = plot(s1_levels);
+} 
+helpUtils.errorDocCallback('plot')
+sepa123csv_demo
+File data\WeisdaleBurn Station.csv opened correctly.
+Data in put from file data\WeisdaleBurn Station.csv is completed.
+Total observations have been read: 927.
+Reading data for station WeisdaleMi.SG.ir.O took 0.0267802 minutes of CPU time.
+No. 1: test set for station WeisdaleMi.SG.ir.O contains 927 observations.
+No. 1: generating training set for station WeisdaleMi.SG.ir.O ... 
+No. 1: training set 1 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 2 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 3 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training the negative election for station WeisdaleMi.SG.ir.O ... 
+#1 (WeisdaleMi.SG.ir.O): 927 observations.
+#1 (WeisdaleMi.SG.ir.O): 692 self, 140 non-self and 95 unavailable.
+#1 (WeisdaleMi.SG.ir.O): sliding window has size 96.
+-------------------------------------------------------------
+Negative selection for station WeisdaleMi.SG.ir.O took 0.166141 minutes of CPU time.
+-------------------------------------------------------------
+No. 1: test set for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 1 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 2 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training the negative election for station WeisdaleMi.SG.ir.O ... 
+#1 (WeisdaleMi.SG.ir.O): 308 observations.
+#1 (WeisdaleMi.SG.ir.O): 185 self, 28 non-self and 95 unavailable.
+#1 (WeisdaleMi.SG.ir.O): sliding window has size 96.
+-------------------------------------------------------------
+Negative selection took 0.0777405 minutes of CPU time on set 1.
+-------------------------------------------------------------
+No. 1: test set for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 1 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 2 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training the negative election for station WeisdaleMi.SG.ir.O ... 
+#1 (WeisdaleMi.SG.ir.O): 308 observations.
+#1 (WeisdaleMi.SG.ir.O): 166 self, 47 non-self and 95 unavailable.
+#1 (WeisdaleMi.SG.ir.O): sliding window has size 96.
+-------------------------------------------------------------
+Negative selection took 0.0720205 minutes of CPU time on set 2.
+-------------------------------------------------------------
+No. 1: test set for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 1 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 2 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training the negative election for station WeisdaleMi.SG.ir.O ... 
+#1 (WeisdaleMi.SG.ir.O): 308 observations.
+#1 (WeisdaleMi.SG.ir.O): 201 self, 12 non-self and 95 unavailable.
+#1 (WeisdaleMi.SG.ir.O): sliding window has size 96.
+-------------------------------------------------------------
+Negative selection took 0.0761805 minutes of CPU time on set 3.
+-------------------------------------------------------------
+Plotting the flood data and labels ...
+Plotting dataset 1 and its labels ...
+File data\WeisdaleBurn Station.csv opened correctly.
+Data in put from file data\WeisdaleBurn Station.csv is completed.
+Total observations have been read: 927.
+Reading data for station WeisdaleMi.SG.ir.O took 0.0267802 minutes of CPU time.
+No. 1: test set for station WeisdaleMi.SG.ir.O contains 927 observations.
+No. 1: generating training set for station WeisdaleMi.SG.ir.O ... 
+No. 1: training set 1 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 2 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 3 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training the negative election for station WeisdaleMi.SG.ir.O ... 
+#1 (WeisdaleMi.SG.ir.O): 927 observations.
+#1 (WeisdaleMi.SG.ir.O): 692 self, 140 non-self and 95 unavailable.
+#1 (WeisdaleMi.SG.ir.O): sliding window has size 96.
+-------------------------------------------------------------
+Negative selection for station WeisdaleMi.SG.ir.O took 0.165361 minutes of CPU time.
+-------------------------------------------------------------
+No. 1: test set for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 1 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 2 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training the negative election for station WeisdaleMi.SG.ir.O ... 
+#1 (WeisdaleMi.SG.ir.O): 308 observations.
+#1 (WeisdaleMi.SG.ir.O): 185 self, 28 non-self and 95 unavailable.
+#1 (WeisdaleMi.SG.ir.O): sliding window has size 96.
+-------------------------------------------------------------
+Negative selection took 0.0777405 minutes of CPU time on set 1.
+-------------------------------------------------------------
+No. 1: test set for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 1 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 2 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training the negative election for station WeisdaleMi.SG.ir.O ... 
+#1 (WeisdaleMi.SG.ir.O): 308 observations.
+#1 (WeisdaleMi.SG.ir.O): 166 self, 47 non-self and 95 unavailable.
+#1 (WeisdaleMi.SG.ir.O): sliding window has size 96.
+-------------------------------------------------------------
+Negative selection took 0.0733205 minutes of CPU time on set 2.
+-------------------------------------------------------------
+No. 1: test set for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 1 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 2 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training the negative election for station WeisdaleMi.SG.ir.O ... 
+#1 (WeisdaleMi.SG.ir.O): 308 observations.
+#1 (WeisdaleMi.SG.ir.O): 201 self, 12 non-self and 95 unavailable.
+#1 (WeisdaleMi.SG.ir.O): sliding window has size 96.
+-------------------------------------------------------------
+Negative selection took 0.0785205 minutes of CPU time on set 3.
+-------------------------------------------------------------
+Plotting the flood data and labels ...
+Plotting dataset 1 and its labels ...
+File data\WeisdaleBurn Station.csv opened correctly.
+Data in put from file data\WeisdaleBurn Station.csv is completed.
+Total observations have been read: 927.
+Reading data for station WeisdaleMi.SG.ir.O took 0.0267802 minutes of CPU time.
+No. 1: test set for station WeisdaleMi.SG.ir.O contains 927 observations.
+No. 1: generating training set for station WeisdaleMi.SG.ir.O ... 
+No. 1: training set 1 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 2 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 3 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training the negative election for station WeisdaleMi.SG.ir.O ... 
+#1 (WeisdaleMi.SG.ir.O): 927 observations.
+#1 (WeisdaleMi.SG.ir.O): 692 self, 140 non-self and 95 unavailable.
+#1 (WeisdaleMi.SG.ir.O): sliding window has size 96.
+-------------------------------------------------------------
+Negative selection for station WeisdaleMi.SG.ir.O took 0.165361 minutes of CPU time.
+-------------------------------------------------------------
+No. 1: test set for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 1 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 2 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training the negative election for station WeisdaleMi.SG.ir.O ... 
+#1 (WeisdaleMi.SG.ir.O): 308 observations.
+#1 (WeisdaleMi.SG.ir.O): 185 self, 28 non-self and 95 unavailable.
+#1 (WeisdaleMi.SG.ir.O): sliding window has size 96.
+-------------------------------------------------------------
+Negative selection took 0.0780005 minutes of CPU time on set 1.
+-------------------------------------------------------------
+No. 1: test set for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 1 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 2 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training the negative election for station WeisdaleMi.SG.ir.O ... 
+#1 (WeisdaleMi.SG.ir.O): 308 observations.
+#1 (WeisdaleMi.SG.ir.O): 166 self, 47 non-self and 95 unavailable.
+#1 (WeisdaleMi.SG.ir.O): sliding window has size 96.
+-------------------------------------------------------------
+Negative selection took 0.0728005 minutes of CPU time on set 2.
+-------------------------------------------------------------
+No. 1: test set for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 1 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 2 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training the negative election for station WeisdaleMi.SG.ir.O ... 
+#1 (WeisdaleMi.SG.ir.O): 308 observations.
+#1 (WeisdaleMi.SG.ir.O): 201 self, 12 non-self and 95 unavailable.
+#1 (WeisdaleMi.SG.ir.O): sliding window has size 96.
+-------------------------------------------------------------
+Negative selection took 0.0759205 minutes of CPU time on set 3.
+-------------------------------------------------------------
+Plotting the flood data and labels ...
+Plotting dataset 1 and its labels ...
+Plotting dataset 2 and its labels ...
+Plotting dataset 1 and its labels ...
+File data\WeisdaleBurn Station.csv opened correctly.
+Data in put from file data\WeisdaleBurn Station.csv is completed.
+Total observations have been read: 927.
+Reading data for station WeisdaleMi.SG.ir.O took 0.0265202 minutes of CPU time.
+No. 1: test set for station WeisdaleMi.SG.ir.O contains 927 observations.
+No. 1: generating training set for station WeisdaleMi.SG.ir.O ... 
+No. 1: training set 1 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 2 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 3 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training the negative election for station WeisdaleMi.SG.ir.O ... 
+#1 (WeisdaleMi.SG.ir.O): 927 observations.
+#1 (WeisdaleMi.SG.ir.O): 692 self, 140 non-self and 95 unavailable.
+#1 (WeisdaleMi.SG.ir.O): sliding window has size 96.
+-------------------------------------------------------------
+Negative selection for station WeisdaleMi.SG.ir.O took 0.164841 minutes of CPU time.
+-------------------------------------------------------------
+No. 1: test set for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 1 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 2 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training the negative election for station WeisdaleMi.SG.ir.O ... 
+#1 (WeisdaleMi.SG.ir.O): 308 observations.
+#1 (WeisdaleMi.SG.ir.O): 185 self, 28 non-self and 95 unavailable.
+#1 (WeisdaleMi.SG.ir.O): sliding window has size 96.
+-------------------------------------------------------------
+Negative selection took 0.0751405 minutes of CPU time on set 1.
+-------------------------------------------------------------
+No. 1: test set for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 1 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 2 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training the negative election for station WeisdaleMi.SG.ir.O ... 
+#1 (WeisdaleMi.SG.ir.O): 308 observations.
+#1 (WeisdaleMi.SG.ir.O): 166 self, 47 non-self and 95 unavailable.
+#1 (WeisdaleMi.SG.ir.O): sliding window has size 96.
+-------------------------------------------------------------
+Negative selection took 0.0717605 minutes of CPU time on set 2.
+-------------------------------------------------------------
+No. 1: test set for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 1 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 2 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training the negative election for station WeisdaleMi.SG.ir.O ... 
+#1 (WeisdaleMi.SG.ir.O): 308 observations.
+#1 (WeisdaleMi.SG.ir.O): 201 self, 12 non-self and 95 unavailable.
+#1 (WeisdaleMi.SG.ir.O): sliding window has size 96.
+-------------------------------------------------------------
+Negative selection took 0.0748805 minutes of CPU time on set 3.
+-------------------------------------------------------------
+Plotting the flood data and labels ...
+Plotting dataset 1 and its labels ...
+Plotting dataset 2 and its labels ...
+Plotting dataset 3 and its labels ...
+File data\WeisdaleBurn Station.csv opened correctly.
+Data in put from file data\WeisdaleBurn Station.csv is completed.
+Total observations have been read: 927.
+Reading data for station WeisdaleMi.SG.ir.O took 0.0273002 minutes of CPU time.
+No. 1: test set for station WeisdaleMi.SG.ir.O contains 927 observations.
+No. 1: generating training set for station WeisdaleMi.SG.ir.O ... 
+No. 1: training set 1 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 2 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 3 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training the negative election for station WeisdaleMi.SG.ir.O ... 
+#1 (WeisdaleMi.SG.ir.O): 927 observations.
+#1 (WeisdaleMi.SG.ir.O): 692 self, 140 non-self and 95 unavailable.
+#1 (WeisdaleMi.SG.ir.O): sliding window has size 96.
+-------------------------------------------------------------
+Negative selection for station WeisdaleMi.SG.ir.O took 0.167441 minutes of CPU time.
+-------------------------------------------------------------
+No. 1: test set for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 1 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 2 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training the negative election for station WeisdaleMi.SG.ir.O ... 
+#1 (WeisdaleMi.SG.ir.O): 308 observations.
+#1 (WeisdaleMi.SG.ir.O): 185 self, 28 non-self and 95 unavailable.
+#1 (WeisdaleMi.SG.ir.O): sliding window has size 96.
+-------------------------------------------------------------
+Negative selection took 0.0769605 minutes of CPU time on set 1.
+-------------------------------------------------------------
+No. 1: test set for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 1 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 2 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training the negative election for station WeisdaleMi.SG.ir.O ... 
+#1 (WeisdaleMi.SG.ir.O): 308 observations.
+#1 (WeisdaleMi.SG.ir.O): 166 self, 47 non-self and 95 unavailable.
+#1 (WeisdaleMi.SG.ir.O): sliding window has size 96.
+-------------------------------------------------------------
+Negative selection took 0.0738405 minutes of CPU time on set 2.
+-------------------------------------------------------------
+No. 1: test set for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 1 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 2 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training the negative election for station WeisdaleMi.SG.ir.O ... 
+#1 (WeisdaleMi.SG.ir.O): 308 observations.
+#1 (WeisdaleMi.SG.ir.O): 201 self, 12 non-self and 95 unavailable.
+#1 (WeisdaleMi.SG.ir.O): sliding window has size 96.
+-------------------------------------------------------------
+Negative selection took 0.0769605 minutes of CPU time on set 3.
+-------------------------------------------------------------
+Plotting the flood data and labels ...
+Plotting dataset 1 and its labels ...
+Plotting dataset 2 and its labels ...
+Plotting dataset 3 and its labels ...
+File data\WeisdaleBurn Station.csv opened correctly.
+Data in put from file data\WeisdaleBurn Station.csv is completed.
+Total observations have been read: 927.
+Reading data for station WeisdaleMi.SG.ir.O took 0.0270402 minutes of CPU time.
+No. 1: test set for station WeisdaleMi.SG.ir.O contains 927 observations.
+No. 1: generating training set for station WeisdaleMi.SG.ir.O ... 
+No. 1: training set 1 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 2 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 3 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training the negative election for station WeisdaleMi.SG.ir.O ... 
+#1 (WeisdaleMi.SG.ir.O): 927 observations.
+#1 (WeisdaleMi.SG.ir.O): 692 self, 140 non-self and 95 unavailable.
+#1 (WeisdaleMi.SG.ir.O): sliding window has size 96.
+-------------------------------------------------------------
+Negative selection for station WeisdaleMi.SG.ir.O took 0.165621 minutes of CPU time.
+-------------------------------------------------------------
+No. 1: test set for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 1 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 2 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training the negative election for station WeisdaleMi.SG.ir.O ... 
+#1 (WeisdaleMi.SG.ir.O): 308 observations.
+#1 (WeisdaleMi.SG.ir.O): 185 self, 28 non-self and 95 unavailable.
+#1 (WeisdaleMi.SG.ir.O): sliding window has size 96.
+-------------------------------------------------------------
+Negative selection took 0.0790405 minutes of CPU time on set 1.
+-------------------------------------------------------------
+No. 1: test set for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 1 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 2 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training the negative election for station WeisdaleMi.SG.ir.O ... 
+#1 (WeisdaleMi.SG.ir.O): 308 observations.
+#1 (WeisdaleMi.SG.ir.O): 166 self, 47 non-self and 95 unavailable.
+#1 (WeisdaleMi.SG.ir.O): sliding window has size 96.
+-------------------------------------------------------------
+Negative selection took 0.0746205 minutes of CPU time on set 2.
+-------------------------------------------------------------
+No. 1: test set for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 1 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 2 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training the negative election for station WeisdaleMi.SG.ir.O ... 
+#1 (WeisdaleMi.SG.ir.O): 308 observations.
+#1 (WeisdaleMi.SG.ir.O): 201 self, 12 non-self and 95 unavailable.
+#1 (WeisdaleMi.SG.ir.O): sliding window has size 96.
+-------------------------------------------------------------
+Negative selection took 0.0774805 minutes of CPU time on set 3.
+-------------------------------------------------------------
+Plotting the flood data and labels ...
+Plotting dataset 1 and its labels ...
+Plotting dataset 2 and its labels ...
+Plotting dataset 3 and its labels ...
+File data\WeisdaleBurn Station.csv opened correctly.
+Data in put from file data\WeisdaleBurn Station.csv is completed.
+Total observations have been read: 927.
+Reading data for station WeisdaleMi.SG.ir.O took 0.0270402 minutes of CPU time.
+No. 1: test set for station WeisdaleMi.SG.ir.O contains 927 observations.
+No. 1: generating training set for station WeisdaleMi.SG.ir.O ... 
+No. 1: training set 1 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 2 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 3 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training the negative election for station WeisdaleMi.SG.ir.O ... 
+#1 (WeisdaleMi.SG.ir.O): 927 observations.
+#1 (WeisdaleMi.SG.ir.O): 692 self, 140 non-self and 95 unavailable.
+#1 (WeisdaleMi.SG.ir.O): sliding window has size 96.
+-------------------------------------------------------------
+Negative selection for station WeisdaleMi.SG.ir.O took 0.167441 minutes of CPU time.
+-------------------------------------------------------------
+No. 1: test set for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 1 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 2 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training the negative election for station WeisdaleMi.SG.ir.O ... 
+#1 (WeisdaleMi.SG.ir.O): 308 observations.
+#1 (WeisdaleMi.SG.ir.O): 185 self, 28 non-self and 95 unavailable.
+#1 (WeisdaleMi.SG.ir.O): sliding window has size 96.
+-------------------------------------------------------------
+Negative selection took 0.0787805 minutes of CPU time on set 1.
+-------------------------------------------------------------
+No. 1: test set for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 1 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 2 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training the negative election for station WeisdaleMi.SG.ir.O ... 
+#1 (WeisdaleMi.SG.ir.O): 308 observations.
+#1 (WeisdaleMi.SG.ir.O): 166 self, 47 non-self and 95 unavailable.
+#1 (WeisdaleMi.SG.ir.O): sliding window has size 96.
+-------------------------------------------------------------
+Negative selection took 0.0741005 minutes of CPU time on set 2.
+-------------------------------------------------------------
+No. 1: test set for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 1 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 2 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training the negative election for station WeisdaleMi.SG.ir.O ... 
+#1 (WeisdaleMi.SG.ir.O): 308 observations.
+#1 (WeisdaleMi.SG.ir.O): 201 self, 12 non-self and 95 unavailable.
+#1 (WeisdaleMi.SG.ir.O): sliding window has size 96.
+-------------------------------------------------------------
+Negative selection took 0.0772205 minutes of CPU time on set 3.
+-------------------------------------------------------------
+Plotting the flood data and labels ...
+Plotting dataset 1 and its labels ...
+Plotting dataset 2 and its labels ...
+Plotting dataset 3 and its labels ...
+File data\WeisdaleBurn Station.csv opened correctly.
+Data in put from file data\WeisdaleBurn Station.csv is completed.
+Total observations have been read: 927.
+Reading data for station WeisdaleMi.SG.ir.O took 0.0267802 minutes of CPU time.
+No. 1: test set for station WeisdaleMi.SG.ir.O contains 927 observations.
+No. 1: generating training set for station WeisdaleMi.SG.ir.O ... 
+No. 1: training set 1 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 2 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 3 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training the negative election for station WeisdaleMi.SG.ir.O ... 
+#1 (WeisdaleMi.SG.ir.O): 927 observations.
+#1 (WeisdaleMi.SG.ir.O): 692 self, 140 non-self and 95 unavailable.
+#1 (WeisdaleMi.SG.ir.O): sliding window has size 96.
+-------------------------------------------------------------
+Negative selection for station WeisdaleMi.SG.ir.O took 0.170561 minutes of CPU time.
+-------------------------------------------------------------
+No. 1: test set for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 1 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 2 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training the negative election for station WeisdaleMi.SG.ir.O ... 
+#1 (WeisdaleMi.SG.ir.O): 308 observations.
+#1 (WeisdaleMi.SG.ir.O): 185 self, 28 non-self and 95 unavailable.
+#1 (WeisdaleMi.SG.ir.O): sliding window has size 96.
+-------------------------------------------------------------
+Negative selection took 0.0787805 minutes of CPU time on set 1.
+-------------------------------------------------------------
+No. 1: test set for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 1 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 2 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training the negative election for station WeisdaleMi.SG.ir.O ... 
+#1 (WeisdaleMi.SG.ir.O): 308 observations.
+#1 (WeisdaleMi.SG.ir.O): 166 self, 47 non-self and 95 unavailable.
+#1 (WeisdaleMi.SG.ir.O): sliding window has size 96.
+-------------------------------------------------------------
+Negative selection took 0.0725405 minutes of CPU time on set 2.
+-------------------------------------------------------------
+No. 1: test set for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 1 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 2 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training the negative election for station WeisdaleMi.SG.ir.O ... 
+#1 (WeisdaleMi.SG.ir.O): 308 observations.
+#1 (WeisdaleMi.SG.ir.O): 201 self, 12 non-self and 95 unavailable.
+#1 (WeisdaleMi.SG.ir.O): sliding window has size 96.
+-------------------------------------------------------------
+Negative selection took 0.0772205 minutes of CPU time on set 3.
+-------------------------------------------------------------
+Plotting the flood data and labels ...
+Plotting dataset 1 and its labels ...
+Plotting dataset 2 and its labels ...
+Plotting dataset 3 and its labels ...
+File data\WeisdaleBurn Station.csv opened correctly.
+Data in put from file data\WeisdaleBurn Station.csv is completed.
+Total observations have been read: 927.
+Reading data for station WeisdaleMi.SG.ir.O took 0.0283402 minutes of CPU time.
+No. 1: test set for station WeisdaleMi.SG.ir.O contains 927 observations.
+No. 1: generating training set for station WeisdaleMi.SG.ir.O ... 
+No. 1: training set 1 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 2 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 3 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training the negative election for station WeisdaleMi.SG.ir.O ... 
+#1 (WeisdaleMi.SG.ir.O): 927 observations.
+#1 (WeisdaleMi.SG.ir.O): 692 self, 140 non-self and 95 unavailable.
+#1 (WeisdaleMi.SG.ir.O): sliding window has size 96.
+-------------------------------------------------------------
+Negative selection for station WeisdaleMi.SG.ir.O took 0.179141 minutes of CPU time.
+-------------------------------------------------------------
+No. 1: test set for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 1 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 2 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training the negative election for station WeisdaleMi.SG.ir.O ... 
+#1 (WeisdaleMi.SG.ir.O): 308 observations.
+#1 (WeisdaleMi.SG.ir.O): 185 self, 28 non-self and 95 unavailable.
+#1 (WeisdaleMi.SG.ir.O): sliding window has size 96.
+-------------------------------------------------------------
+Negative selection took 0.0845005 minutes of CPU time on set 1.
+-------------------------------------------------------------
+No. 1: test set for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 1 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 2 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training the negative election for station WeisdaleMi.SG.ir.O ... 
+#1 (WeisdaleMi.SG.ir.O): 308 observations.
+#1 (WeisdaleMi.SG.ir.O): 166 self, 47 non-self and 95 unavailable.
+#1 (WeisdaleMi.SG.ir.O): sliding window has size 96.
+-------------------------------------------------------------
+Negative selection took 0.0782605 minutes of CPU time on set 2.
+-------------------------------------------------------------
+No. 1: test set for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 1 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 2 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training the negative election for station WeisdaleMi.SG.ir.O ... 
+#1 (WeisdaleMi.SG.ir.O): 308 observations.
+#1 (WeisdaleMi.SG.ir.O): 201 self, 12 non-self and 95 unavailable.
+#1 (WeisdaleMi.SG.ir.O): sliding window has size 96.
+-------------------------------------------------------------
+Negative selection took 0.0813805 minutes of CPU time on set 3.
+-------------------------------------------------------------
+Plotting the flood data and labels ...
+Plotting dataset 1 and its labels ...
+Plotting dataset 2 and its labels ...
+Plotting dataset 3 and its labels ...
+Cannot open file data\WeisdaleBurn Station.csv!Error in <a href="matlab:helpUtils.errorDocCallback('readSEPAcsv', 'C:\Andriy\work\sepa123demo\readSEPAcsv.m', 11)" style="font-weight:bold">readSEPAcsv</a> (<a href="matlab: opentoline('C:\Andriy\work\sepa123demo\readSEPAcsv.m',11,0)">line 11</a>)
+    if nargin < 1
+
+{Output argument "levels" (and maybe others) not assigned during call to
+"C:\Andriy\work\sepa123demo\readSEPAcsv.m>readSEPAcsv".
+
+Error in <a href="matlab:helpUtils.errorDocCallback('sepa123csv_demo', 'C:\Andriy\work\sepa123demo\sepa123csv_demo.m', 11)" style="font-weight:bold">sepa123csv_demo</a> (<a href="matlab: opentoline('C:\Andriy\work\sepa123demo\sepa123csv_demo.m',11,0)">line 11</a>)
+[levels, date_srl, time_hh, time_mm] = readSEPAcsv(fname);
+} 
+sepa123csv_demo
+File data\nura\nurafl1.csv opened correctly.
+Data in put from file data\nura\nurafl1.csv is completed.
+Total observations have been read: 405.
+Reading data for station WeisdaleMi.SG.ir.O took 0.0124801 minutes of CPU time.
+No. 1: test set for station WeisdaleMi.SG.ir.O contains 405 observations.
+No. 1: generating training set for station WeisdaleMi.SG.ir.O ... 
+No. 1: training set 1 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 2 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 3 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training the negative election for station WeisdaleMi.SG.ir.O ... 
+#1 (WeisdaleMi.SG.ir.O): 405 observations.
+#1 (WeisdaleMi.SG.ir.O): 231 self, 79 non-self and 95 unavailable.
+#1 (WeisdaleMi.SG.ir.O): sliding window has size 96.
+-------------------------------------------------------------
+Negative selection for station WeisdaleMi.SG.ir.O took 0.162241 minutes of CPU time.
+-------------------------------------------------------------
+No. 1: test set for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 1 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 2 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training the negative election for station WeisdaleMi.SG.ir.O ... 
+#1 (WeisdaleMi.SG.ir.O): 308 observations.
+#1 (WeisdaleMi.SG.ir.O): 185 self, 28 non-self and 95 unavailable.
+#1 (WeisdaleMi.SG.ir.O): sliding window has size 96.
+-------------------------------------------------------------
+Negative selection took 0.0876206 minutes of CPU time on set 1.
+-------------------------------------------------------------
+No. 1: test set for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 1 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 2 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training the negative election for station WeisdaleMi.SG.ir.O ... 
+#1 (WeisdaleMi.SG.ir.O): 308 observations.
+#1 (WeisdaleMi.SG.ir.O): 166 self, 47 non-self and 95 unavailable.
+#1 (WeisdaleMi.SG.ir.O): sliding window has size 96.
+-------------------------------------------------------------
+Negative selection took 0.0878806 minutes of CPU time on set 2.
+-------------------------------------------------------------
+No. 1: test set for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 1 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 2 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training the negative election for station WeisdaleMi.SG.ir.O ... 
+#1 (WeisdaleMi.SG.ir.O): 308 observations.
+#1 (WeisdaleMi.SG.ir.O): 201 self, 12 non-self and 95 unavailable.
+#1 (WeisdaleMi.SG.ir.O): sliding window has size 96.
+-------------------------------------------------------------
+Negative selection took 0.0850205 minutes of CPU time on set 3.
+-------------------------------------------------------------
+Plotting the flood data and labels ...
+Plotting dataset 1 and its labels ...
+Plotting dataset 2 and its labels ...
+Plotting dataset 3 and its labels ...
+File data\nura\nurafl1.csv opened correctly.
+Data in put from file data\nura\nurafl1.csv is completed.
+Total observations have been read: 405.
+Reading data for station WeisdaleMi.SG.ir.O took 0.0124801 minutes of CPU time.
+No. 1: test set for station WeisdaleMi.SG.ir.O contains 405 observations.
+No. 1: generating training set for station WeisdaleMi.SG.ir.O ... 
+No. 1: training set 1 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 2 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 3 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training the negative election for station WeisdaleMi.SG.ir.O ... 
+#1 (WeisdaleMi.SG.ir.O): 405 observations.
+#1 (WeisdaleMi.SG.ir.O): 231 self, 79 non-self and 95 unavailable.
+#1 (WeisdaleMi.SG.ir.O): sliding window has size 96.
+-------------------------------------------------------------
+Negative selection for station WeisdaleMi.SG.ir.O took 0.168741 minutes of CPU time.
+-------------------------------------------------------------
+No. 1: test set for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 1 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 2 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training the negative election for station WeisdaleMi.SG.ir.O ... 
+#1 (WeisdaleMi.SG.ir.O): 308 observations.
+#1 (WeisdaleMi.SG.ir.O): 185 self, 28 non-self and 95 unavailable.
+#1 (WeisdaleMi.SG.ir.O): sliding window has size 96.
+-------------------------------------------------------------
+Negative selection took 0.0891806 minutes of CPU time on set 1.
+-------------------------------------------------------------
+No. 1: test set for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 1 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 2 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training the negative election for station WeisdaleMi.SG.ir.O ... 
+#1 (WeisdaleMi.SG.ir.O): 308 observations.
+#1 (WeisdaleMi.SG.ir.O): 166 self, 47 non-self and 95 unavailable.
+#1 (WeisdaleMi.SG.ir.O): sliding window has size 96.
+-------------------------------------------------------------
+Negative selection took 0.0832005 minutes of CPU time on set 2.
+-------------------------------------------------------------
+No. 1: test set for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 1 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 2 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training the negative election for station WeisdaleMi.SG.ir.O ... 
+#1 (WeisdaleMi.SG.ir.O): 308 observations.
+#1 (WeisdaleMi.SG.ir.O): 201 self, 12 non-self and 95 unavailable.
+#1 (WeisdaleMi.SG.ir.O): sliding window has size 96.
+-------------------------------------------------------------
+Negative selection took 0.0886606 minutes of CPU time on set 3.
+-------------------------------------------------------------
+Plotting the flood data and labels ...
+{Undefined function or variable 'tst_levels'.
+} 
+diary off
+File data\nura\nurafl1.csv opened correctly.
+Data in put from file data\nura\nurafl1.csv is completed.
+Total observations have been read: 405.
+Reading data for station WeisdaleMi.SG.ir.O took 0.0132601 minutes of CPU time.
+No. 1: test set for station WeisdaleMi.SG.ir.O contains 405 observations.
+No. 1: generating training set for station WeisdaleMi.SG.ir.O ... 
+No. 1: training set 1 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 2 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 3 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training the negative election for station WeisdaleMi.SG.ir.O ... 
+#1 (WeisdaleMi.SG.ir.O): 405 observations.
+#1 (WeisdaleMi.SG.ir.O): 231 self, 79 non-self and 95 unavailable.
+#1 (WeisdaleMi.SG.ir.O): sliding window has size 96.
+-------------------------------------------------------------
+Negative selection for station WeisdaleMi.SG.ir.O took 0.161721 minutes of CPU time.
+-------------------------------------------------------------
+No. 1: test set for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 1 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 2 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training the negative election for station WeisdaleMi.SG.ir.O ... 
+#1 (WeisdaleMi.SG.ir.O): 308 observations.
+#1 (WeisdaleMi.SG.ir.O): 185 self, 28 non-self and 95 unavailable.
+#1 (WeisdaleMi.SG.ir.O): sliding window has size 96.
+-------------------------------------------------------------
+Negative selection took 0.0858005 minutes of CPU time on set 1.
+-------------------------------------------------------------
+No. 1: test set for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 1 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 2 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training the negative election for station WeisdaleMi.SG.ir.O ... 
+#1 (WeisdaleMi.SG.ir.O): 308 observations.
+#1 (WeisdaleMi.SG.ir.O): 166 self, 47 non-self and 95 unavailable.
+#1 (WeisdaleMi.SG.ir.O): sliding window has size 96.
+-------------------------------------------------------------
+Negative selection took 0.0808605 minutes of CPU time on set 2.
+-------------------------------------------------------------
+No. 1: test set for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 1 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 2 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training the negative election for station WeisdaleMi.SG.ir.O ... 
+#1 (WeisdaleMi.SG.ir.O): 308 observations.
+#1 (WeisdaleMi.SG.ir.O): 201 self, 12 non-self and 95 unavailable.
+#1 (WeisdaleMi.SG.ir.O): sliding window has size 96.
+-------------------------------------------------------------
+Negative selection took 0.0837205 minutes of CPU time on set 3.
+-------------------------------------------------------------
+Plotting the flood data and labels ...
+Plotting dataset 1 and its labels ...
+Plotting dataset 2 and its labels ...
+Plotting dataset 3 and its labels ...
+File data\nura\nurafl1.csv opened correctly.
+Data in put from file data\nura\nurafl1.csv is completed.
+Total observations have been read: 405.
+Reading data for station WeisdaleMi.SG.ir.O took 0.0127401 minutes of CPU time.
+No. 1: test set for station WeisdaleMi.SG.ir.O contains 405 observations.
+No. 1: generating training set for station WeisdaleMi.SG.ir.O ... 
+No. 1: training set 1 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 2 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 3 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training the negative election for station WeisdaleMi.SG.ir.O ... 
+#1 (WeisdaleMi.SG.ir.O): 405 observations.
+#1 (WeisdaleMi.SG.ir.O): 231 self, 79 non-self and 95 unavailable.
+#1 (WeisdaleMi.SG.ir.O): sliding window has size 96.
+-------------------------------------------------------------
+Negative selection for station WeisdaleMi.SG.ir.O took 0.162761 minutes of CPU time.
+-------------------------------------------------------------
+No. 1: test set for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 1 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 2 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training the negative election for station WeisdaleMi.SG.ir.O ... 
+#1 (WeisdaleMi.SG.ir.O): 308 observations.
+#1 (WeisdaleMi.SG.ir.O): 185 self, 28 non-self and 95 unavailable.
+#1 (WeisdaleMi.SG.ir.O): sliding window has size 96.
+-------------------------------------------------------------
+Negative selection took 0.0847605 minutes of CPU time on set 1.
+-------------------------------------------------------------
+No. 1: test set for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 1 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 2 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training the negative election for station WeisdaleMi.SG.ir.O ... 
+#1 (WeisdaleMi.SG.ir.O): 308 observations.
+#1 (WeisdaleMi.SG.ir.O): 166 self, 47 non-self and 95 unavailable.
+#1 (WeisdaleMi.SG.ir.O): sliding window has size 96.
+-------------------------------------------------------------
+Negative selection took 0.0790405 minutes of CPU time on set 2.
+-------------------------------------------------------------
+No. 1: test set for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 1 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 2 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training the negative election for station WeisdaleMi.SG.ir.O ... 
+#1 (WeisdaleMi.SG.ir.O): 308 observations.
+#1 (WeisdaleMi.SG.ir.O): 201 self, 12 non-self and 95 unavailable.
+#1 (WeisdaleMi.SG.ir.O): sliding window has size 96.
+-------------------------------------------------------------
+Negative selection took 0.0834605 minutes of CPU time on set 3.
+-------------------------------------------------------------
+Plotting the flood data and labels ...
+Plotting dataset 1 and its labels ...
+Plotting dataset 2 and its labels ...
+Plotting dataset 3 and its labels ...
+File data\nura\nurafl1.csv opened correctly.
+Data in put from file data\nura\nurafl1.csv is completed.
+Total observations have been read: 405.
+Reading data for station WeisdaleMi.SG.ir.O took 0.0130001 minutes of CPU time.
+No. 1: test set for station WeisdaleMi.SG.ir.O contains 405 observations.
+No. 1: generating training set for station WeisdaleMi.SG.ir.O ... 
+No. 1: training set 1 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 2 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 3 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training the negative election for station WeisdaleMi.SG.ir.O ... 
+#1 (WeisdaleMi.SG.ir.O): 405 observations.
+#1 (WeisdaleMi.SG.ir.O): 231 self, 79 non-self and 95 unavailable.
+#1 (WeisdaleMi.SG.ir.O): sliding window has size 96.
+-------------------------------------------------------------
+Negative selection for station WeisdaleMi.SG.ir.O took 0.164321 minutes of CPU time.
+-------------------------------------------------------------
+No. 1: test set for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 1 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 2 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training the negative election for station WeisdaleMi.SG.ir.O ... 
+#1 (WeisdaleMi.SG.ir.O): 308 observations.
+#1 (WeisdaleMi.SG.ir.O): 185 self, 28 non-self and 95 unavailable.
+#1 (WeisdaleMi.SG.ir.O): sliding window has size 96.
+-------------------------------------------------------------
+Negative selection took 0.0876206 minutes of CPU time on set 1.
+-------------------------------------------------------------
+No. 1: test set for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 1 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 2 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training the negative election for station WeisdaleMi.SG.ir.O ... 
+#1 (WeisdaleMi.SG.ir.O): 308 observations.
+#1 (WeisdaleMi.SG.ir.O): 166 self, 47 non-self and 95 unavailable.
+#1 (WeisdaleMi.SG.ir.O): sliding window has size 96.
+-------------------------------------------------------------
+Negative selection took 0.0821605 minutes of CPU time on set 2.
+-------------------------------------------------------------
+No. 1: test set for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 1 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 2 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training the negative election for station WeisdaleMi.SG.ir.O ... 
+#1 (WeisdaleMi.SG.ir.O): 308 observations.
+#1 (WeisdaleMi.SG.ir.O): 201 self, 12 non-self and 95 unavailable.
+#1 (WeisdaleMi.SG.ir.O): sliding window has size 96.
+-------------------------------------------------------------
+Negative selection took 0.0868406 minutes of CPU time on set 3.
+-------------------------------------------------------------
+Plotting the flood data and labels ...
+Plotting dataset 1 and its labels ...
+Plotting dataset 2 and its labels ...
+Plotting dataset 3 and its labels ...
+File data\nura\nurafl1.csv opened correctly.
+Data in put from file data\nura\nurafl1.csv is completed.
+Total observations have been read: 405.
+Reading data for station WeisdaleMi.SG.ir.O took 0.0137801 minutes of CPU time.
+No. 1: test set for station WeisdaleMi.SG.ir.O contains 405 observations.
+No. 1: generating training set for station WeisdaleMi.SG.ir.O ... 
+No. 1: training set 1 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 2 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 3 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training the negative election for station WeisdaleMi.SG.ir.O ... 
+#1 (WeisdaleMi.SG.ir.O): 405 observations.
+#1 (WeisdaleMi.SG.ir.O): 231 self, 79 non-self and 95 unavailable.
+#1 (WeisdaleMi.SG.ir.O): sliding window has size 96.
+-------------------------------------------------------------
+Negative selection for station WeisdaleMi.SG.ir.O took 0.162241 minutes of CPU time.
+-------------------------------------------------------------
+No. 1: test set for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 1 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 2 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training the negative election for station WeisdaleMi.SG.ir.O ... 
+#1 (WeisdaleMi.SG.ir.O): 308 observations.
+#1 (WeisdaleMi.SG.ir.O): 185 self, 28 non-self and 95 unavailable.
+#1 (WeisdaleMi.SG.ir.O): sliding window has size 96.
+-------------------------------------------------------------
+Negative selection took 0.0845005 minutes of CPU time on set 1.
+-------------------------------------------------------------
+No. 1: test set for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 1 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 2 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training the negative election for station WeisdaleMi.SG.ir.O ... 
+#1 (WeisdaleMi.SG.ir.O): 308 observations.
+#1 (WeisdaleMi.SG.ir.O): 166 self, 47 non-self and 95 unavailable.
+#1 (WeisdaleMi.SG.ir.O): sliding window has size 96.
+-------------------------------------------------------------
+Negative selection took 0.0787805 minutes of CPU time on set 2.
+-------------------------------------------------------------
+No. 1: test set for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 1 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 2 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training the negative election for station WeisdaleMi.SG.ir.O ... 
+#1 (WeisdaleMi.SG.ir.O): 308 observations.
+#1 (WeisdaleMi.SG.ir.O): 201 self, 12 non-self and 95 unavailable.
+#1 (WeisdaleMi.SG.ir.O): sliding window has size 96.
+-------------------------------------------------------------
+Negative selection took 0.0837205 minutes of CPU time on set 3.
+-------------------------------------------------------------
+Plotting the flood data and labels ...
+Plotting dataset 1 and its labels ...
+Plotting dataset 2 and its labels ...
+Plotting dataset 3 and its labels ...
+File data\nura\nurafl1.csv opened correctly.
+Data in put from file data\nura\nurafl1.csv is completed.
+Total observations have been read: 405.
+Reading data for station WeisdaleMi.SG.ir.O took 0.0130001 minutes of CPU time.
+No. 1: test set for station WeisdaleMi.SG.ir.O contains 405 observations.
+No. 1: generating training set for station WeisdaleMi.SG.ir.O ... 
+No. 1: training set 1 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 2 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 3 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training the negative election for station WeisdaleMi.SG.ir.O ... 
+#1 (WeisdaleMi.SG.ir.O): 405 observations.
+#1 (WeisdaleMi.SG.ir.O): 231 self, 79 non-self and 95 unavailable.
+#1 (WeisdaleMi.SG.ir.O): sliding window has size 96.
+-------------------------------------------------------------
+Negative selection for station WeisdaleMi.SG.ir.O took 0.168481 minutes of CPU time.
+-------------------------------------------------------------
+No. 1: test set for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 1 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 2 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training the negative election for station WeisdaleMi.SG.ir.O ... 
+#1 (WeisdaleMi.SG.ir.O): 308 observations.
+#1 (WeisdaleMi.SG.ir.O): 185 self, 28 non-self and 95 unavailable.
+#1 (WeisdaleMi.SG.ir.O): sliding window has size 96.
+-------------------------------------------------------------
+Negative selection took 0.0855405 minutes of CPU time on set 1.
+-------------------------------------------------------------
+No. 1: test set for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 1 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 2 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training the negative election for station WeisdaleMi.SG.ir.O ... 
+#1 (WeisdaleMi.SG.ir.O): 308 observations.
+#1 (WeisdaleMi.SG.ir.O): 166 self, 47 non-self and 95 unavailable.
+#1 (WeisdaleMi.SG.ir.O): sliding window has size 96.
+-------------------------------------------------------------
+Negative selection took 0.0793005 minutes of CPU time on set 2.
+-------------------------------------------------------------
+No. 1: test set for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 1 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 2 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training the negative election for station WeisdaleMi.SG.ir.O ... 
+#1 (WeisdaleMi.SG.ir.O): 308 observations.
+#1 (WeisdaleMi.SG.ir.O): 201 self, 12 non-self and 95 unavailable.
+#1 (WeisdaleMi.SG.ir.O): sliding window has size 96.
+-------------------------------------------------------------
+Negative selection took 0.0842405 minutes of CPU time on set 3.
+-------------------------------------------------------------
+Plotting the flood data and labels ...
+Plotting dataset 1 and its labels ...
+Plotting dataset 2 and its labels ...
+Plotting dataset 3 and its labels ...
+File data\nura\nurafl1.csv opened correctly.
+Data in put from file data\nura\nurafl1.csv is completed.
+Total observations have been read: 405.
+Reading data for station WeisdaleMi.SG.ir.O took 0.0124801 minutes of CPU time.
+No. 1: test set for station WeisdaleMi.SG.ir.O contains 405 observations.
+No. 1: generating training set for station WeisdaleMi.SG.ir.O ... 
+No. 1: training set 1 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 2 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 3 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training the negative election for station WeisdaleMi.SG.ir.O ... 
+#1 (WeisdaleMi.SG.ir.O): 405 observations.
+#1 (WeisdaleMi.SG.ir.O): 231 self, 79 non-self and 95 unavailable.
+#1 (WeisdaleMi.SG.ir.O): sliding window has size 96.
+-------------------------------------------------------------
+Negative selection for station WeisdaleMi.SG.ir.O took 0.165101 minutes of CPU time.
+-------------------------------------------------------------
+No. 1: test set for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 1 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 2 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training the negative election for station WeisdaleMi.SG.ir.O ... 
+#1 (WeisdaleMi.SG.ir.O): 308 observations.
+#1 (WeisdaleMi.SG.ir.O): 185 self, 28 non-self and 95 unavailable.
+#1 (WeisdaleMi.SG.ir.O): sliding window has size 96.
+-------------------------------------------------------------
+Negative selection took 0.0886606 minutes of CPU time on set 1.
+-------------------------------------------------------------
+No. 1: test set for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 1 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 2 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training the negative election for station WeisdaleMi.SG.ir.O ... 
+#1 (WeisdaleMi.SG.ir.O): 308 observations.
+#1 (WeisdaleMi.SG.ir.O): 166 self, 47 non-self and 95 unavailable.
+#1 (WeisdaleMi.SG.ir.O): sliding window has size 96.
+-------------------------------------------------------------
+Negative selection took 0.0795605 minutes of CPU time on set 2.
+-------------------------------------------------------------
+No. 1: test set for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 1 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 2 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training the negative election for station WeisdaleMi.SG.ir.O ... 
+#1 (WeisdaleMi.SG.ir.O): 308 observations.
+#1 (WeisdaleMi.SG.ir.O): 201 self, 12 non-self and 95 unavailable.
+#1 (WeisdaleMi.SG.ir.O): sliding window has size 96.
+-------------------------------------------------------------
+Negative selection took 0.0832005 minutes of CPU time on set 3.
+-------------------------------------------------------------
+Plotting the flood data and labels ...
+Plotting dataset 1 and its labels ...
+Plotting dataset 2 and its labels ...
+Plotting dataset 3 and its labels ...
+File data\nura\nurafl1.csv opened correctly.
+Data in put from file data\nura\nurafl1.csv is completed.
+Total observations have been read: 405.
+Reading data for station WeisdaleMi.SG.ir.O took 0.0119601 minutes of CPU time.
+No. 1: test set for station WeisdaleMi.SG.ir.O contains 405 observations.
+No. 1: generating training set for station WeisdaleMi.SG.ir.O ... 
+No. 1: training set 1 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 2 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 3 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training the negative election for station WeisdaleMi.SG.ir.O ... 
+#1 (WeisdaleMi.SG.ir.O): 405 observations.
+#1 (WeisdaleMi.SG.ir.O): 231 self, 79 non-self and 95 unavailable.
+#1 (WeisdaleMi.SG.ir.O): sliding window has size 96.
+-------------------------------------------------------------
+Negative selection for station WeisdaleMi.SG.ir.O took 0.164321 minutes of CPU time.
+-------------------------------------------------------------
+No. 1: test set for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 1 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 2 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training the negative election for station WeisdaleMi.SG.ir.O ... 
+#1 (WeisdaleMi.SG.ir.O): 308 observations.
+#1 (WeisdaleMi.SG.ir.O): 185 self, 28 non-self and 95 unavailable.
+#1 (WeisdaleMi.SG.ir.O): sliding window has size 96.
+-------------------------------------------------------------
+Negative selection took 0.0852805 minutes of CPU time on set 1.
+-------------------------------------------------------------
+No. 1: test set for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 1 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 2 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training the negative election for station WeisdaleMi.SG.ir.O ... 
+#1 (WeisdaleMi.SG.ir.O): 308 observations.
+#1 (WeisdaleMi.SG.ir.O): 166 self, 47 non-self and 95 unavailable.
+#1 (WeisdaleMi.SG.ir.O): sliding window has size 96.
+-------------------------------------------------------------
+Negative selection took 0.0819005 minutes of CPU time on set 2.
+-------------------------------------------------------------
+No. 1: test set for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 1 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 2 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training the negative election for station WeisdaleMi.SG.ir.O ... 
+#1 (WeisdaleMi.SG.ir.O): 308 observations.
+#1 (WeisdaleMi.SG.ir.O): 201 self, 12 non-self and 95 unavailable.
+#1 (WeisdaleMi.SG.ir.O): sliding window has size 96.
+-------------------------------------------------------------
+Negative selection took 0.0847605 minutes of CPU time on set 3.
+-------------------------------------------------------------
+Plotting the flood data and labels ...
+Plotting dataset 1 and its labels ...
+Plotting dataset 2 and its labels ...
+Plotting dataset 3 and its labels ...
+File data\nura\nurafl1.csv opened correctly.
+Data in put from file data\nura\nurafl1.csv is completed.
+Total observations have been read: 405.
+Reading data for station WeisdaleMi.SG.ir.O took 0.0132601 minutes of CPU time.
+No. 1: test set for station WeisdaleMi.SG.ir.O contains 405 observations.
+No. 1: generating training set for station WeisdaleMi.SG.ir.O ... 
+No. 1: training set 1 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 2 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 3 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training the negative election for station WeisdaleMi.SG.ir.O ... 
+#1 (WeisdaleMi.SG.ir.O): 405 observations.
+#1 (WeisdaleMi.SG.ir.O): 231 self, 79 non-self and 95 unavailable.
+#1 (WeisdaleMi.SG.ir.O): sliding window has size 96.
+-------------------------------------------------------------
+Negative selection for station WeisdaleMi.SG.ir.O took 0.159121 minutes of CPU time.
+-------------------------------------------------------------
+No. 1: test set for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 1 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 2 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training the negative election for station WeisdaleMi.SG.ir.O ... 
+#1 (WeisdaleMi.SG.ir.O): 308 observations.
+#1 (WeisdaleMi.SG.ir.O): 185 self, 28 non-self and 95 unavailable.
+#1 (WeisdaleMi.SG.ir.O): sliding window has size 96.
+-------------------------------------------------------------
+Negative selection took 0.0795605 minutes of CPU time on set 1.
+-------------------------------------------------------------
+No. 1: test set for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 1 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 2 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training the negative election for station WeisdaleMi.SG.ir.O ... 
+#1 (WeisdaleMi.SG.ir.O): 308 observations.
+#1 (WeisdaleMi.SG.ir.O): 166 self, 47 non-self and 95 unavailable.
+#1 (WeisdaleMi.SG.ir.O): sliding window has size 96.
+-------------------------------------------------------------
+Negative selection took 0.0756605 minutes of CPU time on set 2.
+-------------------------------------------------------------
+No. 1: test set for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 1 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 2 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training the negative election for station WeisdaleMi.SG.ir.O ... 
+#1 (WeisdaleMi.SG.ir.O): 308 observations.
+#1 (WeisdaleMi.SG.ir.O): 201 self, 12 non-self and 95 unavailable.
+#1 (WeisdaleMi.SG.ir.O): sliding window has size 96.
+-------------------------------------------------------------
+Negative selection took 0.0793005 minutes of CPU time on set 3.
+-------------------------------------------------------------
+Plotting the flood data and labels ...
+Plotting dataset 1 and its labels ...
+Plotting dataset 2 and its labels ...
+Plotting dataset 3 and its labels ...
+File data\nura\nurafl1.csv opened correctly.
+Data in put from file data\nura\nurafl1.csv is completed.
+Total observations have been read: 405.
+Reading data for station WeisdaleMi.SG.ir.O took 0.0124801 minutes of CPU time.
+No. 1: test set for station WeisdaleMi.SG.ir.O contains 405 observations.
+No. 1: generating training set for station WeisdaleMi.SG.ir.O ... 
+No. 1: training set 1 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 2 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 3 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training the negative election for station WeisdaleMi.SG.ir.O ... 
+#1 (WeisdaleMi.SG.ir.O): 405 observations.
+#1 (WeisdaleMi.SG.ir.O): 231 self, 79 non-self and 95 unavailable.
+#1 (WeisdaleMi.SG.ir.O): sliding window has size 96.
+-------------------------------------------------------------
+Negative selection for station WeisdaleMi.SG.ir.O took 0.152361 minutes of CPU time.
+-------------------------------------------------------------
+No. 1: test set for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 1 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 2 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training the negative election for station WeisdaleMi.SG.ir.O ... 
+#1 (WeisdaleMi.SG.ir.O): 308 observations.
+#1 (WeisdaleMi.SG.ir.O): 185 self, 28 non-self and 95 unavailable.
+#1 (WeisdaleMi.SG.ir.O): sliding window has size 96.
+-------------------------------------------------------------
+Negative selection took 0.0787805 minutes of CPU time on set 1.
+-------------------------------------------------------------
+No. 1: test set for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 1 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 2 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training the negative election for station WeisdaleMi.SG.ir.O ... 
+#1 (WeisdaleMi.SG.ir.O): 308 observations.
+#1 (WeisdaleMi.SG.ir.O): 166 self, 47 non-self and 95 unavailable.
+#1 (WeisdaleMi.SG.ir.O): sliding window has size 96.
+-------------------------------------------------------------
+Negative selection took 0.0738405 minutes of CPU time on set 2.
+-------------------------------------------------------------
+No. 1: test set for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 1 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 2 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training the negative election for station WeisdaleMi.SG.ir.O ... 
+#1 (WeisdaleMi.SG.ir.O): 308 observations.
+#1 (WeisdaleMi.SG.ir.O): 201 self, 12 non-self and 95 unavailable.
+#1 (WeisdaleMi.SG.ir.O): sliding window has size 96.
+-------------------------------------------------------------
+Negative selection took 0.0772205 minutes of CPU time on set 3.
+-------------------------------------------------------------
+Plotting the flood data and labels ...
+Plotting dataset 1 and its labels ...
+Plotting dataset 2 and its labels ...
+Plotting dataset 3 and its labels ...
+File data\nura\nurafl1.csv opened correctly.
+{Error using <a href="matlab:helpUtils.errorDocCallback('datenum', 'C:\Program Files\MATLAB\R2013a\toolbox\matlab\timefun\datenum.m', 179)" style="font-weight:bold">datenum</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2013a\toolbox\matlab\timefun\datenum.m',179,0)">line 179</a>)
+DATENUM failed.
+
+Error in <a href="matlab:helpUtils.errorDocCallback('readSEPAcsv', 'C:\Andriy\work\sepa123demo\readSEPAcsv.m', 45)" style="font-weight:bold">readSEPAcsv</a> (<a href="matlab: opentoline('C:\Andriy\work\sepa123demo\readSEPAcsv.m',45,0)">line 45</a>)
+             date_srl(count) = datenum(sprintf('%s-%s-%s %s:%s:00' , ...
+
+Error in <a href="matlab:helpUtils.errorDocCallback('sepa123csv_demo', 'C:\Andriy\work\sepa123demo\sepa123csv_demo.m', 12)" style="font-weight:bold">sepa123csv_demo</a> (<a href="matlab: opentoline('C:\Andriy\work\sepa123demo\sepa123csv_demo.m',12,0)">line 12</a>)
+[levels, date_srl, time_hh, time_mm] = readSEPAcsv(fname);
+
+Caused by:
+    Error using <a href="matlab:helpUtils.errorDocCallback('datenum', 'C:\Program Files\MATLAB\R2013a\toolbox\matlab\timefun\datenum.m', 165)" style="font-weight:bold">datenum</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2013a\toolbox\matlab\timefun\datenum.m',165,0)">line 165</a>)
+    Incorrect number of arguments
+} 
+clear all
+sepa123csv_demo
+File data\nura\nurafl1.csv opened correctly.
+{Error using <a href="matlab:helpUtils.errorDocCallback('datenum', 'C:\Program Files\MATLAB\R2013a\toolbox\matlab\timefun\datenum.m', 179)" style="font-weight:bold">datenum</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2013a\toolbox\matlab\timefun\datenum.m',179,0)">line 179</a>)
+DATENUM failed.
+
+Error in <a href="matlab:helpUtils.errorDocCallback('readSEPAcsv', 'C:\Andriy\work\sepa123demo\readSEPAcsv.m', 45)" style="font-weight:bold">readSEPAcsv</a> (<a href="matlab: opentoline('C:\Andriy\work\sepa123demo\readSEPAcsv.m',45,0)">line 45</a>)
+             date_srl(count) = datenum(sprintf('%s-%s-%s %d:%d:00' , ...
+
+Error in <a href="matlab:helpUtils.errorDocCallback('sepa123csv_demo', 'C:\Andriy\work\sepa123demo\sepa123csv_demo.m', 12)" style="font-weight:bold">sepa123csv_demo</a> (<a href="matlab: opentoline('C:\Andriy\work\sepa123demo\sepa123csv_demo.m',12,0)">line 12</a>)
+[levels, date_srl, time_hh, time_mm] = readSEPAcsv(fname);
+
+Caused by:
+    Error using <a href="matlab:helpUtils.errorDocCallback('datenum', 'C:\Program Files\MATLAB\R2013a\toolbox\matlab\timefun\datenum.m', 165)" style="font-weight:bold">datenum</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2013a\toolbox\matlab\timefun\datenum.m',165,0)">line 165</a>)
+    Incorrect number of arguments
+} 
+clear all
+sepa123csv_demo
+File data\nura\nurafl1.csv opened correctly.
+Data in put from file data\nura\nurafl1.csv is completed.
+Total observations have been read: 405.
+Reading data for station WeisdaleMi.SG.ir.O took 0.0132601 minutes of CPU time.
+No. 1: test set for station WeisdaleMi.SG.ir.O contains 405 observations.
+No. 1: generating training set for station WeisdaleMi.SG.ir.O ... 
+No. 1: training set 1 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 2 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 3 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training the negative election for station WeisdaleMi.SG.ir.O ... 
+#1 (WeisdaleMi.SG.ir.O): 405 observations.
+#1 (WeisdaleMi.SG.ir.O): 231 self, 79 non-self and 95 unavailable.
+#1 (WeisdaleMi.SG.ir.O): sliding window has size 96.
+-------------------------------------------------------------
+Negative selection for station WeisdaleMi.SG.ir.O took 0.157561 minutes of CPU time.
+-------------------------------------------------------------
+No. 1: test set for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 1 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 2 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training the negative election for station WeisdaleMi.SG.ir.O ... 
+#1 (WeisdaleMi.SG.ir.O): 308 observations.
+#1 (WeisdaleMi.SG.ir.O): 185 self, 28 non-self and 95 unavailable.
+#1 (WeisdaleMi.SG.ir.O): sliding window has size 96.
+-------------------------------------------------------------
+Negative selection took 0.0806005 minutes of CPU time on set 1.
+-------------------------------------------------------------
+No. 1: test set for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 1 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 2 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training the negative election for station WeisdaleMi.SG.ir.O ... 
+#1 (WeisdaleMi.SG.ir.O): 308 observations.
+#1 (WeisdaleMi.SG.ir.O): 166 self, 47 non-self and 95 unavailable.
+#1 (WeisdaleMi.SG.ir.O): sliding window has size 96.
+-------------------------------------------------------------
+Negative selection took 0.0733205 minutes of CPU time on set 2.
+-------------------------------------------------------------
+No. 1: test set for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 1 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 2 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training the negative election for station WeisdaleMi.SG.ir.O ... 
+#1 (WeisdaleMi.SG.ir.O): 308 observations.
+#1 (WeisdaleMi.SG.ir.O): 201 self, 12 non-self and 95 unavailable.
+#1 (WeisdaleMi.SG.ir.O): sliding window has size 96.
+-------------------------------------------------------------
+Negative selection took 0.0941206 minutes of CPU time on set 3.
+-------------------------------------------------------------
+Plotting the flood data and labels ...
+Plotting dataset 1 and its labels ...
+Plotting dataset 2 and its labels ...
+Plotting dataset 3 and its labels ...
+File data\nura\nurafl1.csv opened correctly.
+Data in put from file data\nura\nurafl1.csv is completed.
+Total observations have been read: 405.
+Reading data for station WeisdaleMi.SG.ir.O took 0.0130001 minutes of CPU time.
+No. 1: test set for station WeisdaleMi.SG.ir.O contains 405 observations.
+No. 1: generating training set for station WeisdaleMi.SG.ir.O ... 
+No. 1: training set 1 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 2 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 3 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training the negative election for station WeisdaleMi.SG.ir.O ... 
+#1 (WeisdaleMi.SG.ir.O): 405 observations.
+#1 (WeisdaleMi.SG.ir.O): 231 self, 79 non-self and 95 unavailable.
+#1 (WeisdaleMi.SG.ir.O): sliding window has size 96.
+-------------------------------------------------------------
+Negative selection for station WeisdaleMi.SG.ir.O took 0.156521 minutes of CPU time.
+-------------------------------------------------------------
+No. 1: test set for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 1 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 2 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training the negative election for station WeisdaleMi.SG.ir.O ... 
+#1 (WeisdaleMi.SG.ir.O): 308 observations.
+#1 (WeisdaleMi.SG.ir.O): 185 self, 28 non-self and 95 unavailable.
+#1 (WeisdaleMi.SG.ir.O): sliding window has size 96.
+-------------------------------------------------------------
+Negative selection took 0.0764405 minutes of CPU time on set 1.
+-------------------------------------------------------------
+No. 1: test set for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 1 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 2 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training the negative election for station WeisdaleMi.SG.ir.O ... 
+#1 (WeisdaleMi.SG.ir.O): 308 observations.
+#1 (WeisdaleMi.SG.ir.O): 166 self, 47 non-self and 95 unavailable.
+#1 (WeisdaleMi.SG.ir.O): sliding window has size 96.
+-------------------------------------------------------------
+Negative selection took 0.0717605 minutes of CPU time on set 2.
+-------------------------------------------------------------
+No. 1: test set for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 1 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 2 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training the negative election for station WeisdaleMi.SG.ir.O ... 
+#1 (WeisdaleMi.SG.ir.O): 308 observations.
+#1 (WeisdaleMi.SG.ir.O): 201 self, 12 non-self and 95 unavailable.
+#1 (WeisdaleMi.SG.ir.O): sliding window has size 96.
+-------------------------------------------------------------
+Negative selection took 0.0756605 minutes of CPU time on set 3.
+-------------------------------------------------------------
+Plotting the flood data and labels ...
+Plotting dataset 1 and its labels ...
+Plotting dataset 2 and its labels ...
+Plotting dataset 3 and its labels ...
+File data\nura\nurafl1.csv opened correctly.
+Data in put from file data\nura\nurafl1.csv is completed.
+Total observations have been read: 405.
+Reading data for station WeisdaleMi.SG.ir.O took 0.0135201 minutes of CPU time.
+No. 1: test set for station WeisdaleMi.SG.ir.O contains 405 observations.
+No. 1: generating training set for station WeisdaleMi.SG.ir.O ... 
+No. 1: training set 1 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 2 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 3 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training the negative election for station WeisdaleMi.SG.ir.O ... 
+#1 (WeisdaleMi.SG.ir.O): 405 observations.
+#1 (WeisdaleMi.SG.ir.O): 231 self, 79 non-self and 95 unavailable.
+#1 (WeisdaleMi.SG.ir.O): sliding window has size 96.
+-------------------------------------------------------------
+Negative selection for station WeisdaleMi.SG.ir.O took 0.154181 minutes of CPU time.
+-------------------------------------------------------------
+No. 1: test set for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 1 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 2 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training the negative election for station WeisdaleMi.SG.ir.O ... 
+#1 (WeisdaleMi.SG.ir.O): 308 observations.
+#1 (WeisdaleMi.SG.ir.O): 185 self, 28 non-self and 95 unavailable.
+#1 (WeisdaleMi.SG.ir.O): sliding window has size 96.
+-------------------------------------------------------------
+Negative selection took 0.0808605 minutes of CPU time on set 1.
+-------------------------------------------------------------
+No. 1: test set for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 1 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 2 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training the negative election for station WeisdaleMi.SG.ir.O ... 
+#1 (WeisdaleMi.SG.ir.O): 308 observations.
+#1 (WeisdaleMi.SG.ir.O): 166 self, 47 non-self and 95 unavailable.
+#1 (WeisdaleMi.SG.ir.O): sliding window has size 96.
+-------------------------------------------------------------
+Negative selection took 0.0759205 minutes of CPU time on set 2.
+-------------------------------------------------------------
+No. 1: test set for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 1 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 2 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training the negative election for station WeisdaleMi.SG.ir.O ... 
+#1 (WeisdaleMi.SG.ir.O): 308 observations.
+#1 (WeisdaleMi.SG.ir.O): 201 self, 12 non-self and 95 unavailable.
+#1 (WeisdaleMi.SG.ir.O): sliding window has size 96.
+-------------------------------------------------------------
+Negative selection took 0.0785205 minutes of CPU time on set 3.
+-------------------------------------------------------------
+Plotting the flood data and labels ...
+Plotting dataset 1 and its labels ...
+Plotting dataset 2 and its labels ...
+Plotting dataset 3 and its labels ...
+{Error using <a href="matlab:helpUtils.errorDocCallback('readSEPAcsv')" style="font-weight:bold">readSEPAcsv</a>
+Too many output arguments.
+
+Error in <a href="matlab:helpUtils.errorDocCallback('sepa123csv_demo', 'C:\Andriy\work\sepa123demo\sepa123csv_demo.m', 12)" style="font-weight:bold">sepa123csv_demo</a> (<a href="matlab: opentoline('C:\Andriy\work\sepa123demo\sepa123csv_demo.m',12,0)">line 12</a>)
+[levels, date_srl, time_hh, time_mm] = readSEPAcsv(fname);
+} 
+sepa123csv_demo
+File data\nura\nurafl1.csv opened correctly.
+Data in put from file data\nura\nurafl1.csv is completed.
+Total observations have been read: 405.
+Reading data for station WeisdaleMi.SG.ir.O took 0.0124801 minutes of CPU time.
+No. 1: test set for station WeisdaleMi.SG.ir.O contains 405 observations.
+No. 1: generating training set for station WeisdaleMi.SG.ir.O ... 
+No. 1: training set 1 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 2 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 3 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training the negative election for station WeisdaleMi.SG.ir.O ... 
+#1 (WeisdaleMi.SG.ir.O): 405 observations.
+#1 (WeisdaleMi.SG.ir.O): 231 self, 79 non-self and 95 unavailable.
+#1 (WeisdaleMi.SG.ir.O): sliding window has size 96.
+-------------------------------------------------------------
+Negative selection for station WeisdaleMi.SG.ir.O took 0.156781 minutes of CPU time.
+-------------------------------------------------------------
+No. 1: test set for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 1 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 2 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training the negative election for station WeisdaleMi.SG.ir.O ... 
+#1 (WeisdaleMi.SG.ir.O): 308 observations.
+#1 (WeisdaleMi.SG.ir.O): 185 self, 28 non-self and 95 unavailable.
+#1 (WeisdaleMi.SG.ir.O): sliding window has size 96.
+-------------------------------------------------------------
+Negative selection took 0.0842405 minutes of CPU time on set 1.
+-------------------------------------------------------------
+No. 1: test set for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 1 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 2 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training the negative election for station WeisdaleMi.SG.ir.O ... 
+#1 (WeisdaleMi.SG.ir.O): 308 observations.
+#1 (WeisdaleMi.SG.ir.O): 166 self, 47 non-self and 95 unavailable.
+#1 (WeisdaleMi.SG.ir.O): sliding window has size 96.
+-------------------------------------------------------------
+Negative selection took 0.0780005 minutes of CPU time on set 2.
+-------------------------------------------------------------
+No. 1: test set for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 1 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 2 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training the negative election for station WeisdaleMi.SG.ir.O ... 
+#1 (WeisdaleMi.SG.ir.O): 308 observations.
+#1 (WeisdaleMi.SG.ir.O): 201 self, 12 non-self and 95 unavailable.
+#1 (WeisdaleMi.SG.ir.O): sliding window has size 96.
+-------------------------------------------------------------
+Negative selection took 0.0819005 minutes of CPU time on set 3.
+-------------------------------------------------------------
+Plotting the flood data and labels ...
+Plotting dataset 1 and its labels ...
+Plotting dataset 2 and its labels ...
+Plotting dataset 3 and its labels ...
+File data\nura\nurafl1.csv opened correctly.
+Data in put from file data\nura\nurafl1.csv is completed.
+Total observations have been read: 405.
+Reading data for station WeisdaleMi.SG.ir.O took 0.0130001 minutes of CPU time.
+No. 1: test set for station WeisdaleMi.SG.ir.O contains 405 observations.
+No. 1: generating training set for station WeisdaleMi.SG.ir.O ... 
+No. 1: training set 1 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 2 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 3 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training the negative election for station WeisdaleMi.SG.ir.O ... 
+#1 (WeisdaleMi.SG.ir.O): 405 observations.
+#1 (WeisdaleMi.SG.ir.O): 231 self, 79 non-self and 95 unavailable.
+#1 (WeisdaleMi.SG.ir.O): sliding window has size 96.
+-------------------------------------------------------------
+Negative selection for station WeisdaleMi.SG.ir.O took 0.155741 minutes of CPU time.
+-------------------------------------------------------------
+No. 1: test set for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 1 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 2 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training the negative election for station WeisdaleMi.SG.ir.O ... 
+#1 (WeisdaleMi.SG.ir.O): 308 observations.
+#1 (WeisdaleMi.SG.ir.O): 185 self, 28 non-self and 95 unavailable.
+#1 (WeisdaleMi.SG.ir.O): sliding window has size 96.
+-------------------------------------------------------------
+Negative selection took 0.0816405 minutes of CPU time on set 1.
+-------------------------------------------------------------
+No. 1: test set for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 1 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 2 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training the negative election for station WeisdaleMi.SG.ir.O ... 
+#1 (WeisdaleMi.SG.ir.O): 308 observations.
+#1 (WeisdaleMi.SG.ir.O): 166 self, 47 non-self and 95 unavailable.
+#1 (WeisdaleMi.SG.ir.O): sliding window has size 96.
+-------------------------------------------------------------
+Negative selection took 0.0759205 minutes of CPU time on set 2.
+-------------------------------------------------------------
+No. 1: test set for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 1 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 2 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training the negative election for station WeisdaleMi.SG.ir.O ... 
+#1 (WeisdaleMi.SG.ir.O): 308 observations.
+#1 (WeisdaleMi.SG.ir.O): 201 self, 12 non-self and 95 unavailable.
+#1 (WeisdaleMi.SG.ir.O): sliding window has size 96.
+-------------------------------------------------------------
+Negative selection took 0.0808605 minutes of CPU time on set 3.
+-------------------------------------------------------------
+Plotting the flood data and labels ...
+Plotting dataset 1 and its labels ...
+Plotting dataset 2 and its labels ...
+Plotting dataset 3 and its labels ...
+File data\nura\nurafl1.csv opened correctly.
+Data in put from file data\nura\nurafl1.csv is completed.
+Total observations have been read: 405.
+Reading data for station WeisdaleMi.SG.ir.O took 0.0137801 minutes of CPU time.
+No. 1: test set for station WeisdaleMi.SG.ir.O contains 405 observations.
+No. 1: generating training set for station WeisdaleMi.SG.ir.O ... 
+No. 1: training set 1 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 2 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 3 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training the negative election for station WeisdaleMi.SG.ir.O ... 
+#1 (WeisdaleMi.SG.ir.O): 405 observations.
+#1 (WeisdaleMi.SG.ir.O): 231 self, 79 non-self and 95 unavailable.
+#1 (WeisdaleMi.SG.ir.O): sliding window has size 96.
+-------------------------------------------------------------
+Negative selection for station WeisdaleMi.SG.ir.O took 0.171861 minutes of CPU time.
+-------------------------------------------------------------
+No. 1: test set for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 1 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 2 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training the negative election for station WeisdaleMi.SG.ir.O ... 
+#1 (WeisdaleMi.SG.ir.O): 308 observations.
+#1 (WeisdaleMi.SG.ir.O): 185 self, 28 non-self and 95 unavailable.
+#1 (WeisdaleMi.SG.ir.O): sliding window has size 96.
+-------------------------------------------------------------
+Negative selection took 0.0915206 minutes of CPU time on set 1.
+-------------------------------------------------------------
+No. 1: test set for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 1 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 2 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training the negative election for station WeisdaleMi.SG.ir.O ... 
+#1 (WeisdaleMi.SG.ir.O): 308 observations.
+#1 (WeisdaleMi.SG.ir.O): 166 self, 47 non-self and 95 unavailable.
+#1 (WeisdaleMi.SG.ir.O): sliding window has size 96.
+-------------------------------------------------------------
+Negative selection took 0.102961 minutes of CPU time on set 2.
+-------------------------------------------------------------
+No. 1: test set for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 1 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 2 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training the negative election for station WeisdaleMi.SG.ir.O ... 
+#1 (WeisdaleMi.SG.ir.O): 308 observations.
+#1 (WeisdaleMi.SG.ir.O): 201 self, 12 non-self and 95 unavailable.
+#1 (WeisdaleMi.SG.ir.O): sliding window has size 96.
+-------------------------------------------------------------
+Negative selection took 0.0943806 minutes of CPU time on set 3.
+-------------------------------------------------------------
+Plotting the flood data and labels ...
+Plotting dataset 1 and its labels ...
+Plotting dataset 2 and its labels ...
+Plotting dataset 3 and its labels ...
+File data\nura\nurafl1.csv opened correctly.
+Data in put from file data\nura\nurafl1.csv is completed.
+Total observations have been read: 405.
+Reading data for station WeisdaleMi.SG.ir.O took 0.0127401 minutes of CPU time.
+No. 1: test set for station WeisdaleMi.SG.ir.O contains 405 observations.
+No. 1: generating training set for station WeisdaleMi.SG.ir.O ... 
+No. 1: training set 1 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 2 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 3 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training the negative election for station WeisdaleMi.SG.ir.O ... 
+#1 (WeisdaleMi.SG.ir.O): 405 observations.
+#1 (WeisdaleMi.SG.ir.O): 231 self, 79 non-self and 95 unavailable.
+#1 (WeisdaleMi.SG.ir.O): sliding window has size 96.
+-------------------------------------------------------------
+Negative selection for station WeisdaleMi.SG.ir.O took 0.178881 minutes of CPU time.
+-------------------------------------------------------------
+No. 1: test set for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 1 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 2 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training the negative election for station WeisdaleMi.SG.ir.O ... 
+#1 (WeisdaleMi.SG.ir.O): 308 observations.
+#1 (WeisdaleMi.SG.ir.O): 185 self, 28 non-self and 95 unavailable.
+#1 (WeisdaleMi.SG.ir.O): sliding window has size 96.
+-------------------------------------------------------------
+Negative selection took 0.0943806 minutes of CPU time on set 1.
+-------------------------------------------------------------
+No. 1: test set for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 1 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 2 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training the negative election for station WeisdaleMi.SG.ir.O ... 
+#1 (WeisdaleMi.SG.ir.O): 308 observations.
+#1 (WeisdaleMi.SG.ir.O): 166 self, 47 non-self and 95 unavailable.
+#1 (WeisdaleMi.SG.ir.O): sliding window has size 96.
+-------------------------------------------------------------
+Negative selection took 0.0904806 minutes of CPU time on set 2.
+-------------------------------------------------------------
+No. 1: test set for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 1 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 2 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training the negative election for station WeisdaleMi.SG.ir.O ... 
+#1 (WeisdaleMi.SG.ir.O): 308 observations.
+#1 (WeisdaleMi.SG.ir.O): 201 self, 12 non-self and 95 unavailable.
+#1 (WeisdaleMi.SG.ir.O): sliding window has size 96.
+-------------------------------------------------------------
+Negative selection took 0.0956806 minutes of CPU time on set 3.
+-------------------------------------------------------------
+Plotting the flood data and labels ...
+Plotting dataset 1 and its labels ...
+Plotting dataset 2 and its labels ...
+Plotting dataset 3 and its labels ...
+File data\nura\nurafl1.csv opened correctly.
+Data in put from file data\nura\nurafl1.csv is completed.
+Total observations have been read: 405.
+Reading data for station WeisdaleMi.SG.ir.O took 0.0119601 minutes of CPU time.
+No. 1: test set for station WeisdaleMi.SG.ir.O contains 405 observations.
+No. 1: generating training set for station WeisdaleMi.SG.ir.O ... 
+No. 1: training set 1 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 2 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 3 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training the negative election for station WeisdaleMi.SG.ir.O ... 
+#1 (WeisdaleMi.SG.ir.O): 405 observations.
+#1 (WeisdaleMi.SG.ir.O): 231 self, 79 non-self and 95 unavailable.
+#1 (WeisdaleMi.SG.ir.O): sliding window has size 96.
+-------------------------------------------------------------
+Negative selection for station WeisdaleMi.SG.ir.O took 0.175761 minutes of CPU time.
+-------------------------------------------------------------
+No. 1: test set for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 1 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 2 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training the negative election for station WeisdaleMi.SG.ir.O ... 
+#1 (WeisdaleMi.SG.ir.O): 308 observations.
+#1 (WeisdaleMi.SG.ir.O): 185 self, 28 non-self and 95 unavailable.
+#1 (WeisdaleMi.SG.ir.O): sliding window has size 96.
+-------------------------------------------------------------
+Negative selection took 0.0972406 minutes of CPU time on set 1.
+-------------------------------------------------------------
+No. 1: test set for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 1 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 2 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training the negative election for station WeisdaleMi.SG.ir.O ... 
+#1 (WeisdaleMi.SG.ir.O): 308 observations.
+#1 (WeisdaleMi.SG.ir.O): 166 self, 47 non-self and 95 unavailable.
+#1 (WeisdaleMi.SG.ir.O): sliding window has size 96.
+-------------------------------------------------------------
+Negative selection took 0.0907406 minutes of CPU time on set 2.
+-------------------------------------------------------------
+No. 1: test set for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 1 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 2 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training the negative election for station WeisdaleMi.SG.ir.O ... 
+#1 (WeisdaleMi.SG.ir.O): 308 observations.
+#1 (WeisdaleMi.SG.ir.O): 201 self, 12 non-self and 95 unavailable.
+#1 (WeisdaleMi.SG.ir.O): sliding window has size 96.
+-------------------------------------------------------------
+Negative selection took 0.0956806 minutes of CPU time on set 3.
+-------------------------------------------------------------
+Plotting the flood data and labels ...
+Plotting dataset 1 and its labels ...
+Plotting dataset 2 and its labels ...
+Plotting dataset 3 and its labels ...
+File data\nura\nurafl1.csv opened correctly.
+Data in put from file data\nura\nurafl1.csv is completed.
+Total observations have been read: 405.
+Reading data for station WeisdaleMi.SG.ir.O took 0.0119601 minutes of CPU time.
+No. 1: test set for station WeisdaleMi.SG.ir.O contains 405 observations.
+No. 1: generating training set for station WeisdaleMi.SG.ir.O ... 
+No. 1: training set 1 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 2 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 3 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training the negative election for station WeisdaleMi.SG.ir.O ... 
+#1 (WeisdaleMi.SG.ir.O): 405 observations.
+#1 (WeisdaleMi.SG.ir.O): 231 self, 79 non-self and 95 unavailable.
+#1 (WeisdaleMi.SG.ir.O): sliding window has size 96.
+-------------------------------------------------------------
+Negative selection for station WeisdaleMi.SG.ir.O took 0.175501 minutes of CPU time.
+-------------------------------------------------------------
+No. 1: test set for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 1 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 2 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training the negative election for station WeisdaleMi.SG.ir.O ... 
+#1 (WeisdaleMi.SG.ir.O): 308 observations.
+#1 (WeisdaleMi.SG.ir.O): 185 self, 28 non-self and 95 unavailable.
+#1 (WeisdaleMi.SG.ir.O): sliding window has size 96.
+-------------------------------------------------------------
+Negative selection took 0.0936006 minutes of CPU time on set 1.
+-------------------------------------------------------------
+No. 1: test set for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 1 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 2 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training the negative election for station WeisdaleMi.SG.ir.O ... 
+#1 (WeisdaleMi.SG.ir.O): 308 observations.
+#1 (WeisdaleMi.SG.ir.O): 166 self, 47 non-self and 95 unavailable.
+#1 (WeisdaleMi.SG.ir.O): sliding window has size 96.
+-------------------------------------------------------------
+Negative selection took 0.0886606 minutes of CPU time on set 2.
+-------------------------------------------------------------
+No. 1: test set for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 1 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 2 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training the negative election for station WeisdaleMi.SG.ir.O ... 
+#1 (WeisdaleMi.SG.ir.O): 308 observations.
+#1 (WeisdaleMi.SG.ir.O): 201 self, 12 non-self and 95 unavailable.
+#1 (WeisdaleMi.SG.ir.O): sliding window has size 96.
+-------------------------------------------------------------
+Negative selection took 0.0967206 minutes of CPU time on set 3.
+-------------------------------------------------------------
+Plotting the flood data and labels ...
+Plotting dataset 1 and its labels ...
+Plotting dataset 2 and its labels ...
+Plotting dataset 3 and its labels ...
+File data\nura\nurafl1.csv opened correctly.
+Data in put from file data\nura\nurafl1.csv is completed.
+Total observations have been read: 405.
+Reading data for station WeisdaleMi.SG.ir.O took 0.0119601 minutes of CPU time.
+No. 1: test set for station WeisdaleMi.SG.ir.O contains 405 observations.
+No. 1: generating training set for station WeisdaleMi.SG.ir.O ... 
+No. 1: training set 1 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 2 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 3 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training the negative election for station WeisdaleMi.SG.ir.O ... 
+#1 (WeisdaleMi.SG.ir.O): 405 observations.
+#1 (WeisdaleMi.SG.ir.O): 231 self, 79 non-self and 95 unavailable.
+#1 (WeisdaleMi.SG.ir.O): sliding window has size 96.
+-------------------------------------------------------------
+Negative selection for station WeisdaleMi.SG.ir.O took 0.173161 minutes of CPU time.
+-------------------------------------------------------------
+No. 1: test set for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 1 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 2 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training the negative election for station WeisdaleMi.SG.ir.O ... 
+#1 (WeisdaleMi.SG.ir.O): 308 observations.
+#1 (WeisdaleMi.SG.ir.O): 185 self, 28 non-self and 95 unavailable.
+#1 (WeisdaleMi.SG.ir.O): sliding window has size 96.
+-------------------------------------------------------------
+Negative selection took 0.0891806 minutes of CPU time on set 1.
+-------------------------------------------------------------
+No. 1: test set for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 1 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 2 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training the negative election for station WeisdaleMi.SG.ir.O ... 
+#1 (WeisdaleMi.SG.ir.O): 308 observations.
+#1 (WeisdaleMi.SG.ir.O): 166 self, 47 non-self and 95 unavailable.
+#1 (WeisdaleMi.SG.ir.O): sliding window has size 96.
+-------------------------------------------------------------
+Negative selection took 0.0858005 minutes of CPU time on set 2.
+-------------------------------------------------------------
+No. 1: test set for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 1 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 2 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training the negative election for station WeisdaleMi.SG.ir.O ... 
+#1 (WeisdaleMi.SG.ir.O): 308 observations.
+#1 (WeisdaleMi.SG.ir.O): 201 self, 12 non-self and 95 unavailable.
+#1 (WeisdaleMi.SG.ir.O): sliding window has size 96.
+-------------------------------------------------------------
+Negative selection took 0.0972406 minutes of CPU time on set 3.
+-------------------------------------------------------------
+Plotting the flood data and labels ...
+Plotting dataset 1 and its labels ...
+Plotting dataset 2 and its labels ...
+Plotting dataset 3 and its labels ...
+File data\nura\nurafl1.csv opened correctly.
+Data in put from file data\nura\nurafl1.csv is completed.
+Total observations have been read: 405.
+Reading data for station WeisdaleMi.SG.ir.O took 0.0137801 minutes of CPU time.
+No. 1: test set for station WeisdaleMi.SG.ir.O contains 405 observations.
+No. 1: generating training set for station WeisdaleMi.SG.ir.O ... 
+No. 1: training set 1 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 2 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 3 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training the negative election for station WeisdaleMi.SG.ir.O ... 
+#1 (WeisdaleMi.SG.ir.O): 405 observations.
+#1 (WeisdaleMi.SG.ir.O): 231 self, 79 non-self and 95 unavailable.
+#1 (WeisdaleMi.SG.ir.O): sliding window has size 96.
+-------------------------------------------------------------
+Negative selection for station WeisdaleMi.SG.ir.O took 0.152621 minutes of CPU time.
+-------------------------------------------------------------
+No. 1: test set for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 1 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 2 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training the negative election for station WeisdaleMi.SG.ir.O ... 
+#1 (WeisdaleMi.SG.ir.O): 308 observations.
+#1 (WeisdaleMi.SG.ir.O): 185 self, 28 non-self and 95 unavailable.
+#1 (WeisdaleMi.SG.ir.O): sliding window has size 96.
+-------------------------------------------------------------
+Negative selection took 0.0816405 minutes of CPU time on set 1.
+-------------------------------------------------------------
+No. 1: test set for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 1 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 2 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training the negative election for station WeisdaleMi.SG.ir.O ... 
+#1 (WeisdaleMi.SG.ir.O): 308 observations.
+#1 (WeisdaleMi.SG.ir.O): 166 self, 47 non-self and 95 unavailable.
+#1 (WeisdaleMi.SG.ir.O): sliding window has size 96.
+-------------------------------------------------------------
+Negative selection took 0.0764405 minutes of CPU time on set 2.
+-------------------------------------------------------------
+No. 1: test set for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 1 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 2 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training the negative election for station WeisdaleMi.SG.ir.O ... 
+#1 (WeisdaleMi.SG.ir.O): 308 observations.
+#1 (WeisdaleMi.SG.ir.O): 201 self, 12 non-self and 95 unavailable.
+#1 (WeisdaleMi.SG.ir.O): sliding window has size 96.
+-------------------------------------------------------------
+Negative selection took 0.0806005 minutes of CPU time on set 3.
+-------------------------------------------------------------
+Plotting the flood data and labels ...
+Plotting dataset 1 and its labels ...
+Plotting dataset 2 and its labels ...
+Plotting dataset 3 and its labels ...
+File data\nura\nurafl1.csv opened correctly.
+Data in put from file data\nura\nurafl1.csv is completed.
+Total observations have been read: 405.
+Reading data for station WeisdaleMi.SG.ir.O took 0.0122201 minutes of CPU time.
+No. 1: test set for station WeisdaleMi.SG.ir.O contains 405 observations.
+No. 1: generating training set for station WeisdaleMi.SG.ir.O ... 
+No. 1: training set 1 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 2 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 3 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training the negative election for station WeisdaleMi.SG.ir.O ... 
+#1 (WeisdaleMi.SG.ir.O): 405 observations.
+#1 (WeisdaleMi.SG.ir.O): 231 self, 79 non-self and 95 unavailable.
+#1 (WeisdaleMi.SG.ir.O): sliding window has size 96.
+-------------------------------------------------------------
+Negative selection for station WeisdaleMi.SG.ir.O took 0.157301 minutes of CPU time.
+-------------------------------------------------------------
+No. 1: test set for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 1 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 2 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training the negative election for station WeisdaleMi.SG.ir.O ... 
+#1 (WeisdaleMi.SG.ir.O): 308 observations.
+#1 (WeisdaleMi.SG.ir.O): 185 self, 28 non-self and 95 unavailable.
+#1 (WeisdaleMi.SG.ir.O): sliding window has size 96.
+-------------------------------------------------------------
+Negative selection took 0.0811205 minutes of CPU time on set 1.
+-------------------------------------------------------------
+No. 1: test set for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 1 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 2 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training the negative election for station WeisdaleMi.SG.ir.O ... 
+#1 (WeisdaleMi.SG.ir.O): 308 observations.
+#1 (WeisdaleMi.SG.ir.O): 166 self, 47 non-self and 95 unavailable.
+#1 (WeisdaleMi.SG.ir.O): sliding window has size 96.
+-------------------------------------------------------------
+Negative selection took 0.0764405 minutes of CPU time on set 2.
+-------------------------------------------------------------
+No. 1: test set for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 1 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 2 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training the negative election for station WeisdaleMi.SG.ir.O ... 
+#1 (WeisdaleMi.SG.ir.O): 308 observations.
+#1 (WeisdaleMi.SG.ir.O): 201 self, 12 non-self and 95 unavailable.
+#1 (WeisdaleMi.SG.ir.O): sliding window has size 96.
+-------------------------------------------------------------
+Negative selection took 0.0793005 minutes of CPU time on set 3.
+-------------------------------------------------------------
+Plotting the flood data and labels ...
+Plotting dataset 1 and its labels ...
+Plotting dataset 2 and its labels ...
+Plotting dataset 3 and its labels ...
+File data\nura\nurafl1.csv opened correctly.
+Data in put from file data\nura\nurafl1.csv is completed.
+Total observations have been read: 405.
+Reading data for station WeisdaleMi.SG.ir.O took 0.0119601 minutes of CPU time.
+No. 1: test set for station WeisdaleMi.SG.ir.O contains 405 observations.
+No. 1: generating training set for station WeisdaleMi.SG.ir.O ... 
+No. 1: training set 1 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 2 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 3 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training the negative election for station WeisdaleMi.SG.ir.O ... 
+#1 (WeisdaleMi.SG.ir.O): 405 observations.
+#1 (WeisdaleMi.SG.ir.O): 231 self, 79 non-self and 95 unavailable.
+#1 (WeisdaleMi.SG.ir.O): sliding window has size 96.
+-------------------------------------------------------------
+Negative selection for station WeisdaleMi.SG.ir.O took 0.155481 minutes of CPU time.
+-------------------------------------------------------------
+No. 1: test set for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 1 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 2 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training the negative election for station WeisdaleMi.SG.ir.O ... 
+#1 (WeisdaleMi.SG.ir.O): 308 observations.
+#1 (WeisdaleMi.SG.ir.O): 185 self, 28 non-self and 95 unavailable.
+#1 (WeisdaleMi.SG.ir.O): sliding window has size 96.
+-------------------------------------------------------------
+Negative selection took 0.0806005 minutes of CPU time on set 1.
+-------------------------------------------------------------
+No. 1: test set for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 1 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 2 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training the negative election for station WeisdaleMi.SG.ir.O ... 
+#1 (WeisdaleMi.SG.ir.O): 308 observations.
+#1 (WeisdaleMi.SG.ir.O): 166 self, 47 non-self and 95 unavailable.
+#1 (WeisdaleMi.SG.ir.O): sliding window has size 96.
+-------------------------------------------------------------
+Negative selection took 0.0743605 minutes of CPU time on set 2.
+-------------------------------------------------------------
+No. 1: test set for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 1 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 2 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training the negative election for station WeisdaleMi.SG.ir.O ... 
+#1 (WeisdaleMi.SG.ir.O): 308 observations.
+#1 (WeisdaleMi.SG.ir.O): 201 self, 12 non-self and 95 unavailable.
+#1 (WeisdaleMi.SG.ir.O): sliding window has size 96.
+-------------------------------------------------------------
+Negative selection took 0.0790405 minutes of CPU time on set 3.
+-------------------------------------------------------------
+Plotting the flood data and labels ...
+Plotting dataset 1 and its labels ...
+Plotting dataset 2 and its labels ...
+Plotting dataset 3 and its labels ...
+File data\nura\nurafl1.csv opened correctly.
+Data in put from file data\nura\nurafl1.csv is completed.
+Total observations have been read: 405.
+Reading data for station WeisdaleMi.SG.ir.O took 0.0114401 minutes of CPU time.
+No. 1: test set for station WeisdaleMi.SG.ir.O contains 405 observations.
+No. 1: generating training set for station WeisdaleMi.SG.ir.O ... 
+No. 1: training set 1 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 2 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 3 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training the negative election for station WeisdaleMi.SG.ir.O ... 
+#1 (WeisdaleMi.SG.ir.O): 405 observations.
+#1 (WeisdaleMi.SG.ir.O): 231 self, 79 non-self and 95 unavailable.
+#1 (WeisdaleMi.SG.ir.O): sliding window has size 96.
+-------------------------------------------------------------
+Negative selection for station WeisdaleMi.SG.ir.O took 0.157041 minutes of CPU time.
+-------------------------------------------------------------
+No. 1: test set for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 1 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 2 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training the negative election for station WeisdaleMi.SG.ir.O ... 
+#1 (WeisdaleMi.SG.ir.O): 308 observations.
+#1 (WeisdaleMi.SG.ir.O): 185 self, 28 non-self and 95 unavailable.
+#1 (WeisdaleMi.SG.ir.O): sliding window has size 96.
+-------------------------------------------------------------
+Negative selection took 0.0787805 minutes of CPU time on set 1.
+-------------------------------------------------------------
+No. 1: test set for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 1 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 2 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training the negative election for station WeisdaleMi.SG.ir.O ... 
+#1 (WeisdaleMi.SG.ir.O): 308 observations.
+#1 (WeisdaleMi.SG.ir.O): 166 self, 47 non-self and 95 unavailable.
+#1 (WeisdaleMi.SG.ir.O): sliding window has size 96.
+-------------------------------------------------------------
+Negative selection took 0.0798205 minutes of CPU time on set 2.
+-------------------------------------------------------------
+No. 1: test set for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 1 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 2 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training the negative election for station WeisdaleMi.SG.ir.O ... 
+#1 (WeisdaleMi.SG.ir.O): 308 observations.
+#1 (WeisdaleMi.SG.ir.O): 201 self, 12 non-self and 95 unavailable.
+#1 (WeisdaleMi.SG.ir.O): sliding window has size 96.
+-------------------------------------------------------------
+Negative selection took 0.0790405 minutes of CPU time on set 3.
+-------------------------------------------------------------
+Plotting the flood data and labels ...
+Plotting dataset 1 and its labels ...
+Plotting dataset 2 and its labels ...
+Plotting dataset 3 and its labels ...
+File data\nura\nurafl1.csv opened correctly.
+Data in put from file data\nura\nurafl1.csv is completed.
+Total observations have been read: 405.
+Reading data for station WeisdaleMi.SG.ir.O took 0.0114401 minutes of CPU time.
+No. 1: test set for station WeisdaleMi.SG.ir.O contains 405 observations.
+No. 1: generating training set for station WeisdaleMi.SG.ir.O ... 
+No. 1: training set 1 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 2 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 3 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training the negative election for station WeisdaleMi.SG.ir.O ... 
+#1 (WeisdaleMi.SG.ir.O): 405 observations.
+#1 (WeisdaleMi.SG.ir.O): 231 self, 79 non-self and 95 unavailable.
+#1 (WeisdaleMi.SG.ir.O): sliding window has size 96.
+-------------------------------------------------------------
+Negative selection for station WeisdaleMi.SG.ir.O took 0.151581 minutes of CPU time.
+-------------------------------------------------------------
+No. 1: test set for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 1 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 2 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training the negative election for station WeisdaleMi.SG.ir.O ... 
+#1 (WeisdaleMi.SG.ir.O): 308 observations.
+#1 (WeisdaleMi.SG.ir.O): 185 self, 28 non-self and 95 unavailable.
+#1 (WeisdaleMi.SG.ir.O): sliding window has size 96.
+-------------------------------------------------------------
+Negative selection took 0.0790405 minutes of CPU time on set 1.
+-------------------------------------------------------------
+No. 1: test set for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 1 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 2 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training the negative election for station WeisdaleMi.SG.ir.O ... 
+#1 (WeisdaleMi.SG.ir.O): 308 observations.
+#1 (WeisdaleMi.SG.ir.O): 166 self, 47 non-self and 95 unavailable.
+#1 (WeisdaleMi.SG.ir.O): sliding window has size 96.
+-------------------------------------------------------------
+Negative selection took 0.0735805 minutes of CPU time on set 2.
+-------------------------------------------------------------
+No. 1: test set for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 1 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 2 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training the negative election for station WeisdaleMi.SG.ir.O ... 
+#1 (WeisdaleMi.SG.ir.O): 308 observations.
+#1 (WeisdaleMi.SG.ir.O): 201 self, 12 non-self and 95 unavailable.
+#1 (WeisdaleMi.SG.ir.O): sliding window has size 96.
+-------------------------------------------------------------
+Negative selection took 0.0780005 minutes of CPU time on set 3.
+-------------------------------------------------------------
+Plotting the flood data and labels ...
+Plotting dataset 1 and its labels ...
+Plotting dataset 2 and its labels ...
+Plotting dataset 3 and its labels ...
+File data\nura\nurafl1.csv opened correctly.
+Data in put from file data\nura\nurafl1.csv is completed.
+Total observations have been read: 405.
+Reading data for station WeisdaleMi.SG.ir.O took 0.0114401 minutes of CPU time.
+No. 1: test set for station WeisdaleMi.SG.ir.O contains 405 observations.
+No. 1: generating training set for station WeisdaleMi.SG.ir.O ... 
+No. 1: training set 1 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 2 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 3 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training the negative election for station WeisdaleMi.SG.ir.O ... 
+#1 (WeisdaleMi.SG.ir.O): 405 observations.
+#1 (WeisdaleMi.SG.ir.O): 231 self, 79 non-self and 95 unavailable.
+#1 (WeisdaleMi.SG.ir.O): sliding window has size 96.
+-------------------------------------------------------------
+Negative selection for station WeisdaleMi.SG.ir.O took 0.151841 minutes of CPU time.
+-------------------------------------------------------------
+No. 1: test set for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 1 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 2 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training the negative election for station WeisdaleMi.SG.ir.O ... 
+#1 (WeisdaleMi.SG.ir.O): 308 observations.
+#1 (WeisdaleMi.SG.ir.O): 185 self, 28 non-self and 95 unavailable.
+#1 (WeisdaleMi.SG.ir.O): sliding window has size 96.
+-------------------------------------------------------------
+Negative selection took 0.0787805 minutes of CPU time on set 1.
+-------------------------------------------------------------
+No. 1: test set for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 1 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 2 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training the negative election for station WeisdaleMi.SG.ir.O ... 
+#1 (WeisdaleMi.SG.ir.O): 308 observations.
+#1 (WeisdaleMi.SG.ir.O): 166 self, 47 non-self and 95 unavailable.
+#1 (WeisdaleMi.SG.ir.O): sliding window has size 96.
+-------------------------------------------------------------
+Negative selection took 0.0725405 minutes of CPU time on set 2.
+-------------------------------------------------------------
+No. 1: test set for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 1 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 2 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training the negative election for station WeisdaleMi.SG.ir.O ... 
+#1 (WeisdaleMi.SG.ir.O): 308 observations.
+#1 (WeisdaleMi.SG.ir.O): 201 self, 12 non-self and 95 unavailable.
+#1 (WeisdaleMi.SG.ir.O): sliding window has size 96.
+-------------------------------------------------------------
+Negative selection took 0.0772205 minutes of CPU time on set 3.
+-------------------------------------------------------------
+Plotting the flood data and labels ...
+Plotting dataset 1 and its labels ...
+Plotting dataset 2 and its labels ...
+Plotting dataset 3 and its labels ...
+File data\nura\nurafl1.csv opened correctly.
+Data in put from file data\nura\nurafl1.csv is completed.
+Total observations have been read: 405.
+Reading data for station WeisdaleMi.SG.ir.O took 0.0111801 minutes of CPU time.
+No. 1: test set for station WeisdaleMi.SG.ir.O contains 405 observations.
+No. 1: generating training set for station WeisdaleMi.SG.ir.O ... 
+No. 1: training set 1 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 2 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 3 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training the negative election for station WeisdaleMi.SG.ir.O ... 
+#1 (WeisdaleMi.SG.ir.O): 405 observations.
+#1 (WeisdaleMi.SG.ir.O): 231 self, 79 non-self and 95 unavailable.
+#1 (WeisdaleMi.SG.ir.O): sliding window has size 96.
+-------------------------------------------------------------
+Negative selection for station WeisdaleMi.SG.ir.O took 0.151321 minutes of CPU time.
+-------------------------------------------------------------
+No. 1: test set for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 1 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 2 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training the negative election for station WeisdaleMi.SG.ir.O ... 
+#1 (WeisdaleMi.SG.ir.O): 308 observations.
+#1 (WeisdaleMi.SG.ir.O): 185 self, 28 non-self and 95 unavailable.
+#1 (WeisdaleMi.SG.ir.O): sliding window has size 96.
+-------------------------------------------------------------
+Negative selection took 0.0808605 minutes of CPU time on set 1.
+-------------------------------------------------------------
+No. 1: test set for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 1 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 2 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training the negative election for station WeisdaleMi.SG.ir.O ... 
+#1 (WeisdaleMi.SG.ir.O): 308 observations.
+#1 (WeisdaleMi.SG.ir.O): 166 self, 47 non-self and 95 unavailable.
+#1 (WeisdaleMi.SG.ir.O): sliding window has size 96.
+-------------------------------------------------------------
+Negative selection took 0.0759205 minutes of CPU time on set 2.
+-------------------------------------------------------------
+No. 1: test set for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 1 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 2 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training the negative election for station WeisdaleMi.SG.ir.O ... 
+#1 (WeisdaleMi.SG.ir.O): 308 observations.
+#1 (WeisdaleMi.SG.ir.O): 201 self, 12 non-self and 95 unavailable.
+#1 (WeisdaleMi.SG.ir.O): sliding window has size 96.
+-------------------------------------------------------------
+Negative selection took 0.0808605 minutes of CPU time on set 3.
+-------------------------------------------------------------
+Plotting the flood data and labels ...
+Plotting dataset 1 and its labels ...
+Plotting dataset 2 and its labels ...
+Plotting dataset 3 and its labels ...
+File data\nura\nurafl1.csv opened correctly.
+Data in put from file data\nura\nurafl1.csv is completed.
+Total observations have been read: 405.
+Reading data for station WeisdaleMi.SG.ir.O took 0.0114401 minutes of CPU time.
+No. 1: test set for station WeisdaleMi.SG.ir.O contains 405 observations.
+No. 1: generating training set for station WeisdaleMi.SG.ir.O ... 
+No. 1: training set 1 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 2 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 3 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training the negative election for station WeisdaleMi.SG.ir.O ... 
+#1 (WeisdaleMi.SG.ir.O): 405 observations.
+#1 (WeisdaleMi.SG.ir.O): 231 self, 79 non-self and 95 unavailable.
+#1 (WeisdaleMi.SG.ir.O): sliding window has size 96.
+-------------------------------------------------------------
+Negative selection for station WeisdaleMi.SG.ir.O took 0.155741 minutes of CPU time.
+-------------------------------------------------------------
+No. 1: test set for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 1 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 2 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training the negative election for station WeisdaleMi.SG.ir.O ... 
+#1 (WeisdaleMi.SG.ir.O): 308 observations.
+#1 (WeisdaleMi.SG.ir.O): 185 self, 28 non-self and 95 unavailable.
+#1 (WeisdaleMi.SG.ir.O): sliding window has size 96.
+-------------------------------------------------------------
+Negative selection took 0.0800805 minutes of CPU time on set 1.
+-------------------------------------------------------------
+No. 1: test set for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 1 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 2 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training the negative election for station WeisdaleMi.SG.ir.O ... 
+#1 (WeisdaleMi.SG.ir.O): 308 observations.
+#1 (WeisdaleMi.SG.ir.O): 166 self, 47 non-self and 95 unavailable.
+#1 (WeisdaleMi.SG.ir.O): sliding window has size 96.
+-------------------------------------------------------------
+Negative selection took 0.0746205 minutes of CPU time on set 2.
+-------------------------------------------------------------
+No. 1: test set for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 1 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 2 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training the negative election for station WeisdaleMi.SG.ir.O ... 
+#1 (WeisdaleMi.SG.ir.O): 308 observations.
+#1 (WeisdaleMi.SG.ir.O): 201 self, 12 non-self and 95 unavailable.
+#1 (WeisdaleMi.SG.ir.O): sliding window has size 96.
+-------------------------------------------------------------
+Negative selection took 0.0800805 minutes of CPU time on set 3.
+-------------------------------------------------------------
+Plotting the flood data and labels ...
+Plotting dataset 1 and its labels ...
+Plotting dataset 2 and its labels ...
+Plotting dataset 3 and its labels ...
+File data\nura\nurafl1.csv opened correctly.
+Data in put from file data\nura\nurafl1.csv is completed.
+Total observations have been read: 405.
+Reading data for station WeisdaleMi.SG.ir.O took 0.0119601 minutes of CPU time.
+No. 1: test set for station WeisdaleMi.SG.ir.O contains 405 observations.
+No. 1: generating training set for station WeisdaleMi.SG.ir.O ... 
+No. 1: training set 1 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 2 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 3 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training the negative election for station WeisdaleMi.SG.ir.O ... 
+#1 (WeisdaleMi.SG.ir.O): 405 observations.
+#1 (WeisdaleMi.SG.ir.O): 231 self, 79 non-self and 95 unavailable.
+#1 (WeisdaleMi.SG.ir.O): sliding window has size 96.
+-------------------------------------------------------------
+Negative selection for station WeisdaleMi.SG.ir.O took 0.157561 minutes of CPU time.
+-------------------------------------------------------------
+No. 1: test set for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 1 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 2 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training the negative election for station WeisdaleMi.SG.ir.O ... 
+#1 (WeisdaleMi.SG.ir.O): 308 observations.
+#1 (WeisdaleMi.SG.ir.O): 185 self, 28 non-self and 95 unavailable.
+#1 (WeisdaleMi.SG.ir.O): sliding window has size 96.
+-------------------------------------------------------------
+Negative selection took 0.0824205 minutes of CPU time on set 1.
+-------------------------------------------------------------
+No. 1: test set for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 1 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 2 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training the negative election for station WeisdaleMi.SG.ir.O ... 
+#1 (WeisdaleMi.SG.ir.O): 308 observations.
+#1 (WeisdaleMi.SG.ir.O): 166 self, 47 non-self and 95 unavailable.
+#1 (WeisdaleMi.SG.ir.O): sliding window has size 96.
+-------------------------------------------------------------
+Negative selection took 0.0751405 minutes of CPU time on set 2.
+-------------------------------------------------------------
+No. 1: test set for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 1 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training set 2 for station WeisdaleMi.SG.ir.O contains 308 observations.
+No. 1: training the negative election for station WeisdaleMi.SG.ir.O ... 
+#1 (WeisdaleMi.SG.ir.O): 308 observations.
+#1 (WeisdaleMi.SG.ir.O): 201 self, 12 non-self and 95 unavailable.
+#1 (WeisdaleMi.SG.ir.O): sliding window has size 96.
+-------------------------------------------------------------
+Negative selection took 0.0806005 minutes of CPU time on set 3.
+-------------------------------------------------------------
+Plotting the flood data and labels ...
+Plotting dataset 1 and its labels ...
+Plotting dataset 2 and its labels ...
+Plotting dataset 3 and its labels ...

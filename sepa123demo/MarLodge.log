@@ -1,0 +1,13 @@
+testDeeStation('Mar Lodge');
+No. 1: test set for station MarLodge.SG.ir.O contains 482996 observations.
+No. 1: generating training set for station MarLodge.SG.ir.O ... 
+No. 1: training set 1 for station MarLodge.SG.ir.O contains 692 observations.
+No. 1: training the negative election for station MarLodge.SG.ir.O ... 
+#1 (MarLodge.SG.ir.O): 482996 observations.
+#1 (MarLodge.SG.ir.O): 432486 self, 50415 non-self and 95 unavailable.
+#1 (MarLodge.SG.ir.O): sliding window has size 96.
+-------------------------------------------------------------
+Negative selection for station MarLodge.SG.ir.O took 7.12379 minutes of CPU time.
+-------------------------------------------------------------
+Plotting the flood data and labels ...
+Plotting the training set and its labels ...

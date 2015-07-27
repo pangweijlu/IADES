@@ -1,0 +1,81 @@
+
+diary('deeData.log');
+
+fpath = '..\deeData\DeeData1\';
+st_codes{1} = 'Garthdee.SG';
+st_codes{2} = 'Mar Lodge.SG';
+
+for ii = 1:length(st_codes)
+    readZRXsaveMAT(st_codes, fpath);
+end
+
+
+count = 0; 
+disp('Reading DeeData1 collections ...');
+while count < length(st_code)
+    count = count + 1;
+    % fname = sprintf('..\deeData\DeeData1\%s.zrx', st_code);
+    fname = ['..\deeData\DeeData1\' st_code{count} '.zrx'];
+    t = cputime;
+    [st_Names, st_Time, st_Levels] = readZRXPfile(fname); 
+    t = cputime - t;
+    fprintf('Reading data %s took %g minutes of CPU time.\n', ...
+        st_code{count}, t/60);
+    fmat = sprintf('%s.mat', st_code{count});
+    name = st_Names{1};
+    dates = st_Time{1};
+    levels = st_Levels{1};
+    save(fmat, 'name', 'dates', 'levels');
+    fprintf('Observations for station %s have been saved in %s file\n', ...
+        name, fmat);
+end
+disp('DeeData1 collections have been input.');
+
+st_code{1} = 'Park.SG';
+st_code{2} = 'Polhollick.SG';
+count = 0; 
+disp('Reading DeeData2 collections ...');
+while count < length(st_code)
+    count = count + 1;
+    % fname = sprintf('..\deeData\DeeData1\%s.zrx', st_code);
+    fname = ['..\deeData\DeeData2\' st_code{count} '.zrx'];
+    t = cputime;
+    [st_Names, st_Time, st_Levels] = readZRXPfile(fname); 
+    t = cputime - t;
+    fprintf('Reading data %s took %g minutes of CPU time.\n', ...
+        st_code{count}, t/60);
+    fmat = sprintf('%s.mat', st_code{count});
+    name = st_Names{1};
+    dates = st_Time{1};
+    levels = st_Levels{1};
+    save(fmat, 'name', 'dates', 'levels');
+    fprintf('Observations for station %s have been saved in %s file\n', ...
+        name, fmat);
+end
+disp('DeeData2 collections have been input.');
+
+st_code{1} = 'Woodend.SG';
+count = 0; 
+disp('Reading DeeData3 collections ...');
+while count < length(st_code)
+    count = count + 1;
+    % fname = sprintf('..\deeData\DeeData1\%s.zrx', st_code);
+    fname = ['..\deeData\DeeData3\' st_code{count} '.zrx'];
+    t = cputime;
+    [st_Names, st_Time, st_Levels] = readZRXPfile(fname); 
+    t = cputime - t;
+    fprintf('Reading data %s took %g minutes of CPU time.\n', ...
+        st_code{count}, t/60);
+    fmat = sprintf('%s.mat', st_code{count});
+    name = st_Names{1};
+    dates = st_Time{1};
+    levels = st_Levels{1};
+    save(fmat, 'name', 'dates', 'levels');
+    fprintf('Observations for station %s have been saved in %s file\n', ...
+        name, fmat);
+end
+disp('DeeData2 collections have been input.');
+
+
+
+diary off

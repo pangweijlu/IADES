@@ -1,0 +1,10 @@
+for ii = 1:length(tst_levels)
+    if ii <= sld_wnd_sz
+        tst_levels_n2(ii) = tst_levels_n2(ii)/ii;
+    end
+    if ii > length(tst_levels) - sld_wnd_sz + 1
+        % COMPLETE FROM HERE
+        tst_levels_n2(ii) = tst_levels_n2(ii)/ii;
+    end
+end
+

@@ -1,0 +1,13 @@
+testDeeStation('Polhollick');
+No. 1: test set for station Polhollick.SG.ir.O contains 482996 observations.
+No. 1: generating training set for station Polhollick.SG.ir.O ... 
+No. 1: training set 1 for station Polhollick.SG.ir.O contains 705 observations.
+No. 1: training the negative election for station Polhollick.SG.ir.O ... 
+#1 (Polhollick.SG.ir.O): 482996 observations.
+#1 (Polhollick.SG.ir.O): 428568 self, 54333 non-self and 95 unavailable.
+#1 (Polhollick.SG.ir.O): sliding window has size 96.
+-------------------------------------------------------------
+Negative selection for station Polhollick.SG.ir.O took 7.21843 minutes of CPU time.
+-------------------------------------------------------------
+Plotting the flood data and labels ...
+Plotting the training set and its labels ...

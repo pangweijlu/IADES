@@ -1,0 +1,13 @@
+testDeeStation('Woodend');
+No. 1: test set for station Woodend.SG.ir.O contains 482996 observations.
+No. 1: generating training set for station Woodend.SG.ir.O ... 
+No. 1: training set 1 for station Woodend.SG.ir.O contains 692 observations.
+No. 1: training the negative election for station Woodend.SG.ir.O ... 
+#1 (Woodend.SG.ir.O): 482996 observations.
+#1 (Woodend.SG.ir.O): 420915 self, 61986 non-self and 95 unavailable.
+#1 (Woodend.SG.ir.O): sliding window has size 96.
+-------------------------------------------------------------
+Negative selection for station Woodend.SG.ir.O took 7.13991 minutes of CPU time.
+-------------------------------------------------------------
+Plotting the flood data and labels ...
+Plotting the training set and its labels ...

@@ -1,0 +1,123 @@
+function [levels] = getStData(snames, st_names, st_lvls)
+% getStData function for ...
+%     explanation
+
+% parsing input parameters
+ levels = [];
+ if nargin < 3
+     error('getStData: not enough parameters - returning empty output!');
+ end
+ 
+ if ~iscell(st_lvls)
+     % error('getStData: sets of river levels must be stored in a cell array.');
+     error('River levels data must be stored in a cell array.');
+ end
+ 
+ if ~iscell(st_names)
+     error('Station names must be stored in a cell array.');
+ end
+ 
+ if ~isempty(snames)
+     error('Requested Station names must be stored in a cell array.');
+ end
+ 
+ if ~iscell(snames)
+     if ~ischar(snames)
+         error('Station names must be stored in cell or cell array.');
+     else
+         stmp = cell(1, 1);
+         stmp{1} = snames;
+         snames = stmp;
+     end
+ end
+
+ 
+% extracting data set
+ for ii = 1:length(snames)
+     
+ is_input_cell = 0;
+ st_index = find(strcmp(st_names, sname));
+ if isempty(ts_index)
+             fprintf('No. %d: nothing from station %s in set 1\n', sname);
+         
+ % out_code = 0;   % successful exit 
+ if (nargin < 5) % || (length(tst_labels) < 1)
+     disp('Not enough data received. Terminated.\n');
+     out_code = -1;
+     return;
+ end
+
+if isempty(st_index)
+     fprintf('Nothing from station %s in given data set.\n', sname);
+     return;
+ else
+     if length(st_index) > 1
+         fprintf('Multiple occurences of %s has been found:\n', ...
+             sname);
+         disp('    data sets will be returned in cell array.');
+         levels = cell(1, length(st_index));
+         for j = 1:length(st_index)
+             levels{j} = st_lvls{st_index(j)};
+         end
+     else
+         levels = st_lvls(st_index)
+     end
+ end
+         
+ 
+ 
+ if nargin < 6
+     fname = 'sepa123xl.log';
+ end
+
+ fid = fopen(fname, 'w');
+ 
+ if fid < 0
+     fprintf('Cannot open file %s. Terminated.\n', fname);
+     out_code = -1;
+     return;
+ end
+ 
+ 
+ 
+ % for ii = 1:length(tst_labels)
+ levels = cell(length(st_names));
+ for ii = 1:length(st_names) 
+     dot_pos = strfind(st_names{ii}, '.');
+     st_loc = '';
+     if ~isempty(dot_pos) && (dot_pos(1) > 1)
+         st_loc = st_names{ii}(1:(dot_pos(1) - 1));
+     end
+         
+     fprintf(fid, '## Exported ZRXP Block for %s\n', st_names{ii});
+     fprintf(fid, '##TSNAME%s;*', st_names{ii});
+     fprintf(fid, '#ZRXPVERSION2206.235;*;ZRXPCREATORZEXP3.9.5;*;\n');
+     fprintf(fid, '#ZRXPMODEextended;*;\n');
+     fprintf(fid, '#CUNITm;*;\n');
+     fprintf(fid, '#SNAME%s;*;SANR116008;*;SWATER%s;*;CNR3033705;*;\n', ...
+         st_loc, st_loc);
+     fprintf(fid, '#CNAMESG;*;CMW86400;*;CTYPEn-min-ip;*;\n');
+     fprintf(fid, '#RTYPEMomentanwerte;*;RTIMELVLHochaufloesend;*;RORPRoriginal;*;CNTYPE1;*;\n');
+     fprintf(fid, '##DAYSTART0000\n');
+     fprintf(fid, '#REXCHANGE%s;*;\n', st_names{ii});
+     fprintf(fid, '#RSTATEW6;*\n');
+
+        if ~isempty(tst_labels{ii})
+         for j = 1:length(tst_labels{ii})
+             % fid
+             fprintf(fid, '%d\n', tst_labels{ii}(j));
+             out_code = out_code + 1;
+         end
+     end
+ end
+     
+ fclose(fid);
+end
+
+% function [ output_args ] = Untitled7( input_args )
+%UNTITLED7 Summary of this function goes here
+%   Detailed explanation goes here
+
+
+% end
+
